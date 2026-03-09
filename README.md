@@ -1,7 +1,13 @@
-# ml-pipeline-heath-risk_predictor
+# ML Pipeline Health Risk Predictor
 
-# Run pip install .
+A machine learning pipeline for predicting potential health risks from input data.  
+The project demonstrates a structured ML workflow including data processing, model training, and artifact management.
 
+## Features
+- Modular machine learning pipeline
+- Data preprocessing and transformation
+- Model training and evaluation
+- Artifact storage for trained models and outputs
+- Reproducible project structure
 
- pip install -e . 
- 
+## Project Structure
