@@ -20,20 +20,24 @@ class DataIngestion:
     def initiate_data_ingestion(self):
         logging.info("Entered the data ingestion method or component")
         try:
-            # Load dataset from Hugging Face
-            logging.info("Loading dataset from HuggingFace")
-            dataset = load_dataset("lvimuth/HealthRisk-1500-Medical-Risk-Prediction")
-            df = dataset["train"].to_pandas()
-            logging.info('Read the dataset as dataframe')
-
             # Create artifacts directory
             os.makedirs(os.path.dirname(self.ingestion_config.train_data_path), exist_ok=True)
 
-            # Save raw data
-            df.to_csv(self.ingestion_config.raw_data_path, index=False, header=True)
+            # Prefer local raw data if present; fallback to Hugging Face only when needed.
+            if os.path.exists(self.ingestion_config.raw_data_path):
+                logging.info("Loading dataset from local artifacts/data.csv")
+                df = pd.read_csv(self.ingestion_config.raw_data_path)
+            else:
+                logging.info("Loading dataset from HuggingFace")
+                dataset = load_dataset("lvimuth/HealthRisk-1500-Medical-Risk-Prediction")
+                df = dataset["train"].to_pandas()
+                df.to_csv(self.ingestion_config.raw_data_path, index=False, header=True)
+            logging.info('Read the dataset as dataframe')
 
             logging.info("Train test split initiated")
-            train_set, test_set = train_test_split(df, test_size=0.2, random_state=42)
+            train_set, test_set = train_test_split(
+                df, test_size=0.2, random_state=42, stratify=df["Risk_Level"]
+            )
 
             # Save split data
             train_set.to_csv(self.ingestion_config.train_data_path, index=False, header=True)

@@ -1,7 +1,6 @@
-import sys
 from dataclasses import dataclass
 
-import numpy as np 
+import numpy as np
 import pandas as pd
 from sklearn.compose import ColumnTransformer
 from sklearn.impute import SimpleImputer
@@ -13,9 +12,11 @@ from src.logger import logging
 import os
 from src.utils import save_object
 
+
 @dataclass
 class DataTransformationConfig:
     preprocessor_obj_file_path = os.path.join('artifacts', "preprocessor.pkl")
+
 
 class DataTransformation:
     def __init__(self):
@@ -26,8 +27,7 @@ class DataTransformation:
         This function creates the data transformation pipeline
         '''
         try:
-            # Columns (Based on EDA)
-            # We exclude Target 'Risk_Level' and ID/Text cols here
+            # Columns (target and Patient_ID are excluded before transform)
             numerical_columns = ['Age', 'Symptom_Count']
             categorical_columns = [
                 'Gender',
@@ -35,7 +35,7 @@ class DataTransformation:
                 'Medical_History',
                 'Medications',
                 'Lab_Reports',
-                'Diagnosis'
+                'Diagnosis',
             ]
 
             num_pipeline = Pipeline(
@@ -49,7 +49,6 @@ class DataTransformation:
                 steps=[
                     ("imputer", SimpleImputer(strategy="most_frequent")),
                     ("one_hot_encoder", OneHotEncoder(handle_unknown='ignore', sparse_output=False)),
-                    ("scaler", StandardScaler(with_mean=False))
                 ]
             )
 
@@ -59,15 +58,15 @@ class DataTransformation:
             preprocessor = ColumnTransformer(
                 [
                     ("num_pipeline", num_pipeline, numerical_columns),
-                    ("cat_pipelines", cat_pipeline, categorical_columns)
+                    ("cat_pipeline", cat_pipeline, categorical_columns)
                 ]
             )
 
             return preprocessor
-        
+
         except Exception as e:
             raise Error(e)
-        
+
     def initiate_data_transformation(self, train_path, test_path):
 
         try:
@@ -81,14 +80,14 @@ class DataTransformation:
             preprocessing_obj = self.get_data_transformer_object()
 
             target_column_name = "Risk_Level"
-            # Text columns to drop as per plan
+            # Drop free-text columns after feature engineering
             drop_columns = [target_column_name, "Patient_ID", "Doctor_Notes", "Symptoms"]
 
             # Feature Engineering: Create Symptom_Count BEFORE dropping Symptoms
             logging.info("Applying Feature Engineering: Symptom_Count")
             for df in [train_df, test_df]:
                 if 'Symptoms' in df.columns:
-                     df['Symptom_Count'] = df['Symptoms'].apply(lambda x: len(str(x).split(',')) if pd.notnull(x) else 0)
+                    df['Symptom_Count'] = df['Symptoms'].apply(lambda x: len(str(x).split(',')) if pd.notnull(x) else 0)
 
             input_feature_train_df = train_df.drop(columns=drop_columns)
             target_feature_train_df = train_df[target_column_name]
@@ -108,10 +107,10 @@ class DataTransformation:
             target_test_arr = target_feature_test_df.map(risk_map).values
 
             train_arr = np.c_[
-                input_feature_train_arr, np.array(target_train_arr)
+                input_feature_train_arr, target_train_arr
             ]
             test_arr = np.c_[
-                input_feature_test_arr, np.array(target_test_arr)
+                input_feature_test_arr, target_test_arr
             ]
 
             logging.info(f"Saved preprocessing object.")

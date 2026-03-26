@@ -1,0 +1,1201 @@
+Patient_ID,Age,Gender,Symptoms,Medical_History,Medications,Lab_Reports,Lifestyle,Doctor_Notes,Diagnosis,Risk_Level
+P0383,22,Female,"Blurred vision, headaches",Diabetes,Insulin,High blood pressure,Healthy diet,"Suspected infection, prescribed antibiotics",Heart Disease,Medium
+P0539,69,Female,"Joint pain, swelling",Hypertension,,Elevated liver enzymes,Sedentary,"Joint pain worsening, recommended physical therapy",Respiratory Infection,High
+P1494,73,Male,"Nausea, vomiting",Alzheimer's in family,Atorvastatin,High blood pressure,Drinker,"Suspected infection, prescribed antibiotics",Respiratory Infection,Medium
+P1113,34,Female,"Nausea, vomiting",Stroke history,Lisinopril,Elevated liver enzymes,Overweight,"Nausea reported, possible gastrointestinal issue",Arrhythmia,Low
+P0325,39,Male,"Chest pain, fatigue",Asthma,Atorvastatin,High blood pressure,Healthy diet,"Patient experiences chest discomfort, possible cardiac issue",Migraine,Medium
+P0362,61,Female,"High fever, body aches",Alzheimer's in family,Metformin,Normal MRI,Sedentary,"Nausea reported, possible gastrointestinal issue",Alzheimer's,Low
+P1488,50,Male,"High fever, body aches",Hypertension,Omeprazole,High blood sugar,Active,"Nausea reported, possible gastrointestinal issue",Arthritis,Low
+P1030,59,Male,"Sudden weight loss, tiredness",Arthritis,Aspirin,High blood pressure,Active,"Suspected infection, prescribed antibiotics",Diabetes,High
+P0708,26,Female,"Shortness of breath, dizziness",Diabetes,,Irregular heartbeat detected,Sedentary,"Blurry vision, check for diabetes",Heart Disease,Low
+P0333,61,Female,"Shortness of breath, dizziness",Arthritis,Atorvastatin,High blood pressure,Overweight,"Heart palpitations observed, needs ECG",Heart Disease,Medium
+P0430,69,Male,"Nausea, vomiting",Alzheimer's in family,,Elevated liver enzymes,Sedentary,"Joint pain worsening, recommended physical therapy",Respiratory Infection,Medium
+P1243,65,Male,"Nausea, vomiting",Kidney disease,,Normal MRI,Sedentary,"Patient experiences chest discomfort, possible cardiac issue",Migraine,High
+P0426,65,Male,"High fever, body aches",Hypertension,Donepezil,Elevated liver enzymes,Drinker,Mild symptoms but family history is concerning,Alzheimer's,Low
+P0629,21,Female,"Joint pain, swelling",No known history,Levothyroxine,Low white blood cell count,Smoker,"Nausea reported, possible gastrointestinal issue",Arrhythmia,Medium
+P1112,57,Female,"Sudden weight loss, tiredness",Diabetes,Levothyroxine,High blood pressure,Overweight,"Suspected infection, prescribed antibiotics",Arthritis,High
+P0678,60,Male,"Blurred vision, headaches",Asthma,Metformin,Elevated liver enzymes,Active,"Blurry vision, check for diabetes",Heart Disease,Low
+P0694,43,Female,"Blurred vision, headaches",Asthma,Ibuprofen,Low white blood cell count,Active,"Patient forgets daily activities, early dementia suspected",Cancer Screening Needed,High
+P0758,20,Female,"Chest pain, fatigue",Asthma,Insulin,Low oxygen levels,Sedentary,"Heart palpitations observed, needs ECG",Respiratory Infection,Low
+P0255,44,Male,"High fever, body aches",Diabetes,Lisinopril,Low oxygen levels,Active,"Joint pain worsening, recommended physical therapy",Arthritis,Low
+P1095,53,Male,"High fever, body aches",Asthma,,High blood pressure,Drinker,"Heart palpitations observed, needs ECG",Cancer Screening Needed,Low
+P0917,36,Male,"Sudden weight loss, tiredness",Alzheimer's in family,Donepezil,High cholesterol,Drinker,"Joint pain worsening, recommended physical therapy",Cancer Screening Needed,Medium
+P1186,75,Female,"Thirst, frequent urination",Alzheimer's in family,Ibuprofen,High blood sugar,Active,Mild symptoms but family history is concerning,Gastroenteritis,Medium
+P0669,66,Female,"Thirst, frequent urination",Cancer history,Donepezil,Low oxygen levels,Sedentary,"Patient experiences chest discomfort, possible cardiac issue",Respiratory Infection,High
+P0842,78,Male,"Rapid heartbeat, sweating",Kidney disease,,Elevated liver enzymes,Active,"Patient experiences chest discomfort, possible cardiac issue",Cancer Screening Needed,High
+P0807,80,Male,"Sudden weight loss, tiredness",Arthritis,Omeprazole,Low white blood cell count,Healthy diet,"Joint pain worsening, recommended physical therapy",Cancer Screening Needed,Low
+P1457,32,Female,"Rapid heartbeat, sweating",High cholesterol,Ibuprofen,Normal MRI,Smoker,"Sudden weight loss unexplained, requires evaluation",Alzheimer's,High
+P0087,64,Female,"Nausea, vomiting",Alzheimer's in family,Ibuprofen,High cholesterol,Drinker,"Blurry vision, check for diabetes",Arrhythmia,High
+P1422,25,Female,"Rapid heartbeat, sweating",Alzheimer's in family,Lisinopril,Brain scan abnormality,Overweight,"Reports difficulty breathing, requires further testing",Heart Disease,Medium
+P0266,79,Male,"Blurred vision, headaches",High cholesterol,Donepezil,Elevated liver enzymes,Smoker,"Nausea reported, possible gastrointestinal issue",Respiratory Infection,Medium
+P0288,24,Male,"Rapid heartbeat, sweating",Arthritis,Metformin,Normal MRI,Sedentary,"Joint pain worsening, recommended physical therapy",Hypertension,Medium
+P1484,73,Female,"Memory loss, confusion",Kidney disease,Omeprazole,Normal MRI,Healthy diet,"Sudden weight loss unexplained, requires evaluation",Arrhythmia,Medium
+P0893,41,Female,"Joint pain, swelling",Asthma,Donepezil,High blood sugar,Healthy diet,"Sudden weight loss unexplained, requires evaluation",Heart Disease,Low
+P1496,41,Male,"Memory loss, confusion",Asthma,Ibuprofen,High cholesterol,Drinker,Mild symptoms but family history is concerning,Arrhythmia,Low
+P0979,70,Female,"Rapid heartbeat, sweating",Alzheimer's in family,Insulin,Low white blood cell count,Overweight,"Joint pain worsening, recommended physical therapy",Migraine,High
+P0535,72,Female,"Sudden weight loss, tiredness",High cholesterol,Lisinopril,Brain scan abnormality,Healthy diet,"Blurry vision, check for diabetes",Diabetes,Medium
+P1001,56,Female,"Chest pain, fatigue",Alzheimer's in family,,Irregular heartbeat detected,Sedentary,"Suspected infection, prescribed antibiotics",Hypertension,Medium
+P0222,80,Male,"Sudden weight loss, tiredness",Alzheimer's in family,Aspirin,Normal MRI,Overweight,"Joint pain worsening, recommended physical therapy",Hypertension,High
+P0114,28,Male,"Nausea, vomiting",Kidney disease,,High blood pressure,Healthy diet,"Heart palpitations observed, needs ECG",Migraine,Medium
+P0673,53,Female,"Shortness of breath, dizziness",High cholesterol,,Normal MRI,Sedentary,"Reports difficulty breathing, requires further testing",Alzheimer's,Medium
+P0584,73,Female,"Thirst, frequent urination",Diabetes,Metformin,Normal sugar,Healthy diet,"Suspected infection, prescribed antibiotics",Respiratory Infection,Medium
+P0175,62,Female,"Sudden weight loss, tiredness",Arthritis,Lisinopril,Brain scan abnormality,Overweight,"Joint pain worsening, recommended physical therapy",Diabetes,Low
+P0536,20,Female,"Rapid heartbeat, sweating",Stroke history,Ibuprofen,Low white blood cell count,Healthy diet,"Blurry vision, check for diabetes",Hypertension,High
+P1079,77,Male,"Sudden weight loss, tiredness",Asthma,Donepezil,Low oxygen levels,Overweight,"Blurry vision, check for diabetes",Arthritis,Medium
+P1177,37,Female,"Rapid heartbeat, sweating",Cancer history,Aspirin,Low white blood cell count,Active,Mild symptoms but family history is concerning,Arrhythmia,High
+P1107,74,Male,"Rapid heartbeat, sweating",Stroke history,Lisinopril,Irregular heartbeat detected,Active,"Patient forgets daily activities, early dementia suspected",Diabetes,Medium
+P0983,21,Male,"Shortness of breath, dizziness",Stroke history,Aspirin,Low white blood cell count,Drinker,"Patient forgets daily activities, early dementia suspected",Migraine,Medium
+P0286,62,Male,"Blurred vision, headaches",Arthritis,Levothyroxine,High blood pressure,Smoker,Mild symptoms but family history is concerning,Gastroenteritis,Low
+P0868,74,Male,"Shortness of breath, dizziness",Arthritis,Omeprazole,Low white blood cell count,Overweight,Mild symptoms but family history is concerning,Migraine,Low
+P0375,28,Female,"Memory loss, confusion",Stroke history,Insulin,Brain scan abnormality,Smoker,Mild symptoms but family history is concerning,Respiratory Infection,High
+P1197,40,Female,"Sudden weight loss, tiredness",No known history,Donepezil,High blood sugar,Smoker,"Blurry vision, check for diabetes",Arrhythmia,Low
+P0032,63,Male,"High fever, body aches",No known history,Levothyroxine,High blood pressure,Overweight,"Blurry vision, check for diabetes",Gastroenteritis,Medium
+P0552,46,Female,"Memory loss, confusion",Stroke history,Insulin,Normal MRI,Active,"Heart palpitations observed, needs ECG",Diabetes,High
+P0211,76,Female,"Thirst, frequent urination",Stroke history,Donepezil,High blood sugar,Sedentary,"Reports difficulty breathing, requires further testing",Alzheimer's,Low
+P1047,69,Male,"Sudden weight loss, tiredness",Diabetes,Omeprazole,Low oxygen levels,Smoker,"Reports difficulty breathing, requires further testing",Hypertension,Low
+P0924,47,Male,"Chest pain, fatigue",Hypertension,Insulin,High blood pressure,Drinker,"Heart palpitations observed, needs ECG",Gastroenteritis,Low
+P0810,62,Male,"Chest pain, fatigue",High cholesterol,Omeprazole,High blood pressure,Overweight,"Heart palpitations observed, needs ECG",Arrhythmia,Low
+P0618,31,Female,"Nausea, vomiting",Cancer history,,Low oxygen levels,Active,Mild symptoms but family history is concerning,Diabetes,High
+P0933,65,Female,"Chest pain, fatigue",Cancer history,,Normal MRI,Drinker,"Reports difficulty breathing, requires further testing",Arthritis,Low
+P0620,58,Male,"Nausea, vomiting",Arthritis,Ibuprofen,High cholesterol,Overweight,"Patient experiences chest discomfort, possible cardiac issue",Arthritis,High
+P0189,72,Female,"Blurred vision, headaches",Cancer history,,High blood pressure,Healthy diet,Mild symptoms but family history is concerning,Respiratory Infection,High
+P0711,20,Male,"Memory loss, confusion",No known history,Atorvastatin,Normal sugar,Healthy diet,"Suspected infection, prescribed antibiotics",Gastroenteritis,High
+P0937,55,Female,"Nausea, vomiting",Arthritis,Donepezil,Low oxygen levels,Overweight,"Patient experiences chest discomfort, possible cardiac issue",Arrhythmia,High
+P1169,22,Female,"Chest pain, fatigue",High cholesterol,Omeprazole,Elevated liver enzymes,Smoker,"Patient forgets daily activities, early dementia suspected",Gastroenteritis,Medium
+P1220,47,Male,"Chest pain, fatigue",Arthritis,Ibuprofen,Elevated liver enzymes,Smoker,"Heart palpitations observed, needs ECG",Arrhythmia,High
+P1098,65,Female,"Shortness of breath, dizziness",Asthma,Insulin,Irregular heartbeat detected,Sedentary,Mild symptoms but family history is concerning,Arrhythmia,Low
+P0902,50,Male,"Shortness of breath, dizziness",Alzheimer's in family,Metformin,Low white blood cell count,Smoker,"Blurry vision, check for diabetes",Cancer Screening Needed,High
+P0084,74,Female,"Joint pain, swelling",Diabetes,Metformin,High blood pressure,Healthy diet,"Reports difficulty breathing, requires further testing",Migraine,Low
+P0702,80,Male,"Shortness of breath, dizziness",No known history,Levothyroxine,Brain scan abnormality,Overweight,"Nausea reported, possible gastrointestinal issue",Heart Disease,High
+P0049,46,Male,"Blurred vision, headaches",Alzheimer's in family,Aspirin,Brain scan abnormality,Overweight,"Heart palpitations observed, needs ECG",Heart Disease,Low
+P1284,44,Male,"Rapid heartbeat, sweating",Arthritis,Atorvastatin,High cholesterol,Smoker,"Joint pain worsening, recommended physical therapy",Arrhythmia,Low
+P0156,72,Female,"Rapid heartbeat, sweating",Kidney disease,Omeprazole,High blood sugar,Smoker,"Suspected infection, prescribed antibiotics",Hypertension,Low
+P1152,70,Male,"Blurred vision, headaches",No known history,Donepezil,Low white blood cell count,Healthy diet,"Sudden weight loss unexplained, requires evaluation",Arrhythmia,Medium
+P1142,47,Female,"Memory loss, confusion",Alzheimer's in family,Lisinopril,Normal MRI,Smoker,"Suspected infection, prescribed antibiotics",Heart Disease,High
+P0975,35,Male,"Rapid heartbeat, sweating",Diabetes,Donepezil,Low oxygen levels,Drinker,"Nausea reported, possible gastrointestinal issue",Arrhythmia,Medium
+P1058,41,Female,"Memory loss, confusion",Asthma,Metformin,Elevated liver enzymes,Smoker,"Heart palpitations observed, needs ECG",Heart Disease,Low
+P0808,42,Female,"Memory loss, confusion",Kidney disease,Metformin,Low white blood cell count,Healthy diet,"Heart palpitations observed, needs ECG",Arrhythmia,Low
+P1230,62,Male,"Chest pain, fatigue",Asthma,Omeprazole,Normal sugar,Smoker,"Joint pain worsening, recommended physical therapy",Arrhythmia,Low
+P1481,48,Female,"Chest pain, fatigue",Cancer history,Omeprazole,Low white blood cell count,Active,"Reports difficulty breathing, requires further testing",Respiratory Infection,Medium
+P1437,29,Female,"Memory loss, confusion",Hypertension,Atorvastatin,Normal MRI,Active,"Reports difficulty breathing, requires further testing",Respiratory Infection,High
+P0180,54,Female,"Chest pain, fatigue",Diabetes,Ibuprofen,High blood pressure,Smoker,"Nausea reported, possible gastrointestinal issue",Arthritis,High
+P1356,51,Male,"Blurred vision, headaches",Diabetes,Ibuprofen,Normal sugar,Smoker,"Patient experiences chest discomfort, possible cardiac issue",Arthritis,High
+P1247,78,Male,"Nausea, vomiting",Arthritis,Lisinopril,Normal MRI,Sedentary,"Heart palpitations observed, needs ECG",Heart Disease,Low
+P1041,75,Female,"Rapid heartbeat, sweating",High cholesterol,Levothyroxine,Low white blood cell count,Drinker,"Patient experiences chest discomfort, possible cardiac issue",Heart Disease,Low
+P0950,54,Female,"Blurred vision, headaches",Stroke history,Donepezil,High blood sugar,Active,"Blurry vision, check for diabetes",Arrhythmia,Medium
+P0817,28,Female,"Sudden weight loss, tiredness",Alzheimer's in family,Aspirin,Low oxygen levels,Drinker,"Heart palpitations observed, needs ECG",Respiratory Infection,Medium
+P0364,29,Male,"Thirst, frequent urination",Stroke history,Ibuprofen,Brain scan abnormality,Sedentary,"Blurry vision, check for diabetes",Alzheimer's,High
+P1178,43,Female,"Shortness of breath, dizziness",Diabetes,Levothyroxine,Normal MRI,Drinker,"Nausea reported, possible gastrointestinal issue",Heart Disease,Low
+P1199,49,Female,"Thirst, frequent urination",Asthma,Lisinopril,High cholesterol,Drinker,"Sudden weight loss unexplained, requires evaluation",Gastroenteritis,Medium
+P0347,52,Female,"Joint pain, swelling",Cancer history,,Irregular heartbeat detected,Active,"Joint pain worsening, recommended physical therapy",Cancer Screening Needed,Medium
+P1011,71,Male,"Sudden weight loss, tiredness",Cancer history,Insulin,High blood pressure,Overweight,"Suspected infection, prescribed antibiotics",Diabetes,Medium
+P0615,51,Male,"Shortness of breath, dizziness",Asthma,Donepezil,High blood sugar,Smoker,"Patient forgets daily activities, early dementia suspected",Diabetes,High
+P0966,42,Male,"Thirst, frequent urination",No known history,Omeprazole,Brain scan abnormality,Active,"Joint pain worsening, recommended physical therapy",Migraine,Low
+P1274,52,Female,"Memory loss, confusion",Diabetes,Insulin,Low white blood cell count,Smoker,"Joint pain worsening, recommended physical therapy",Arrhythmia,High
+P0590,72,Male,"Joint pain, swelling",Diabetes,Donepezil,High blood pressure,Smoker,"Suspected infection, prescribed antibiotics",Alzheimer's,Medium
+P1289,80,Female,"Nausea, vomiting",High cholesterol,Lisinopril,Brain scan abnormality,Healthy diet,"Sudden weight loss unexplained, requires evaluation",Diabetes,High
+P0632,36,Male,"Shortness of breath, dizziness",Kidney disease,Insulin,High blood pressure,Sedentary,"Patient experiences chest discomfort, possible cardiac issue",Hypertension,Low
+P0244,51,Female,"Joint pain, swelling",High cholesterol,Atorvastatin,High blood sugar,Smoker,"Blurry vision, check for diabetes",Arrhythmia,Low
+P1375,37,Female,"Nausea, vomiting",Diabetes,Atorvastatin,Normal sugar,Active,"Reports difficulty breathing, requires further testing",Arrhythmia,High
+P1452,32,Male,"High fever, body aches",Kidney disease,Metformin,Normal sugar,Active,"Blurry vision, check for diabetes",Diabetes,Low
+P0765,52,Female,"Memory loss, confusion",Alzheimer's in family,Donepezil,Irregular heartbeat detected,Drinker,Mild symptoms but family history is concerning,Hypertension,Medium
+P0988,40,Male,"Memory loss, confusion",No known history,Levothyroxine,Elevated liver enzymes,Sedentary,"Sudden weight loss unexplained, requires evaluation",Alzheimer's,Medium
+P0412,47,Female,"Chest pain, fatigue",Stroke history,Donepezil,Elevated liver enzymes,Sedentary,"Suspected infection, prescribed antibiotics",Migraine,Low
+P1421,73,Male,"Blurred vision, headaches",Cancer history,Levothyroxine,Brain scan abnormality,Overweight,Mild symptoms but family history is concerning,Migraine,High
+P1226,66,Female,"Shortness of breath, dizziness",Kidney disease,Aspirin,High blood pressure,Drinker,"Heart palpitations observed, needs ECG",Hypertension,Low
+P0309,66,Male,"Rapid heartbeat, sweating",Kidney disease,Ibuprofen,Low oxygen levels,Active,"Patient experiences chest discomfort, possible cardiac issue",Respiratory Infection,High
+P0882,41,Male,"Shortness of breath, dizziness",Cancer history,Ibuprofen,High cholesterol,Drinker,Mild symptoms but family history is concerning,Migraine,High
+P0399,46,Male,"Rapid heartbeat, sweating",Stroke history,Insulin,High blood sugar,Overweight,Mild symptoms but family history is concerning,Migraine,High
+P0371,21,Male,"Sudden weight loss, tiredness",Alzheimer's in family,Levothyroxine,Normal sugar,Drinker,"Joint pain worsening, recommended physical therapy",Alzheimer's,High
+P0055,35,Female,"Blurred vision, headaches",Diabetes,Ibuprofen,High cholesterol,Sedentary,"Reports difficulty breathing, requires further testing",Migraine,Low
+P1339,70,Female,"Sudden weight loss, tiredness",Alzheimer's in family,Metformin,Low oxygen levels,Active,"Patient experiences chest discomfort, possible cardiac issue",Diabetes,Low
+P1183,50,Male,"Thirst, frequent urination",Diabetes,Ibuprofen,Normal MRI,Healthy diet,"Suspected infection, prescribed antibiotics",Arthritis,Low
+P0313,57,Male,"Memory loss, confusion",Diabetes,,High cholesterol,Drinker,"Patient forgets daily activities, early dementia suspected",Diabetes,Low
+P0922,32,Female,"Rapid heartbeat, sweating",Arthritis,Atorvastatin,High blood pressure,Drinker,"Blurry vision, check for diabetes",Respiratory Infection,Medium
+P0110,43,Female,"Sudden weight loss, tiredness",Diabetes,Lisinopril,Elevated liver enzymes,Active,"Patient forgets daily activities, early dementia suspected",Migraine,Medium
+P0719,73,Female,"High fever, body aches",No known history,Levothyroxine,Normal MRI,Drinker,"Blurry vision, check for diabetes",Alzheimer's,High
+P0692,63,Male,"Memory loss, confusion",No known history,Aspirin,High blood pressure,Overweight,"Heart palpitations observed, needs ECG",Arthritis,Low
+P0101,43,Female,"Memory loss, confusion",Asthma,Omeprazole,Low oxygen levels,Healthy diet,"Heart palpitations observed, needs ECG",Gastroenteritis,Low
+P1126,67,Female,"Memory loss, confusion",No known history,Atorvastatin,Normal sugar,Sedentary,"Blurry vision, check for diabetes",Arthritis,High
+P0670,80,Female,"High fever, body aches",Cancer history,Aspirin,Irregular heartbeat detected,Sedentary,"Reports difficulty breathing, requires further testing",Arrhythmia,High
+P1376,56,Female,"Memory loss, confusion",Arthritis,Aspirin,Low white blood cell count,Overweight,"Joint pain worsening, recommended physical therapy",Arthritis,Low
+P0267,42,Female,"Chest pain, fatigue",No known history,,High blood sugar,Smoker,"Heart palpitations observed, needs ECG",Arthritis,Low
+P0679,27,Male,"Thirst, frequent urination",Arthritis,Atorvastatin,High blood sugar,Active,"Patient forgets daily activities, early dementia suspected",Alzheimer's,High
+P0297,54,Male,"Blurred vision, headaches",Stroke history,Lisinopril,High blood pressure,Drinker,"Heart palpitations observed, needs ECG",Hypertension,Medium
+P0530,40,Male,"Chest pain, fatigue",High cholesterol,Metformin,Brain scan abnormality,Drinker,"Blurry vision, check for diabetes",Heart Disease,Low
+P0945,79,Female,"Nausea, vomiting",Asthma,Insulin,Irregular heartbeat detected,Healthy diet,"Joint pain worsening, recommended physical therapy",Gastroenteritis,High
+P1014,64,Female,"Sudden weight loss, tiredness",Alzheimer's in family,Insulin,Normal sugar,Overweight,"Patient forgets daily activities, early dementia suspected",Arthritis,High
+P0951,62,Male,"Memory loss, confusion",Alzheimer's in family,,Elevated liver enzymes,Healthy diet,"Patient experiences chest discomfort, possible cardiac issue",Arrhythmia,Low
+P0378,53,Female,"Chest pain, fatigue",Arthritis,Aspirin,Normal sugar,Smoker,"Blurry vision, check for diabetes",Alzheimer's,Low
+P0287,38,Male,"High fever, body aches",High cholesterol,,Low white blood cell count,Active,"Heart palpitations observed, needs ECG",Hypertension,Medium
+P1439,34,Female,"Thirst, frequent urination",Alzheimer's in family,Metformin,High blood pressure,Overweight,"Sudden weight loss unexplained, requires evaluation",Heart Disease,Medium
+P0731,79,Female,"Memory loss, confusion",Diabetes,Atorvastatin,High blood sugar,Drinker,"Nausea reported, possible gastrointestinal issue",Arthritis,Medium
+P0127,34,Male,"Joint pain, swelling",Asthma,Levothyroxine,Normal sugar,Smoker,"Sudden weight loss unexplained, requires evaluation",Alzheimer's,Medium
+P0328,38,Female,"Sudden weight loss, tiredness",Diabetes,Aspirin,Elevated liver enzymes,Overweight,"Patient forgets daily activities, early dementia suspected",Arthritis,Medium
+P0293,67,Female,"Sudden weight loss, tiredness",Alzheimer's in family,Insulin,Irregular heartbeat detected,Smoker,"Patient experiences chest discomfort, possible cardiac issue",Hypertension,Low
+P0549,40,Male,"Nausea, vomiting",Diabetes,Metformin,High blood sugar,Healthy diet,"Nausea reported, possible gastrointestinal issue",Hypertension,High
+P0728,79,Male,"Joint pain, swelling",Alzheimer's in family,Donepezil,Irregular heartbeat detected,Healthy diet,"Sudden weight loss unexplained, requires evaluation",Heart Disease,High
+P0909,48,Female,"Thirst, frequent urination",Alzheimer's in family,Insulin,High blood sugar,Smoker,"Joint pain worsening, recommended physical therapy",Diabetes,Medium
+P0356,31,Female,"Shortness of breath, dizziness",Alzheimer's in family,Metformin,Brain scan abnormality,Overweight,"Sudden weight loss unexplained, requires evaluation",Arrhythmia,High
+P0171,43,Male,"Blurred vision, headaches",Kidney disease,Lisinopril,Low oxygen levels,Drinker,"Joint pain worsening, recommended physical therapy",Alzheimer's,Low
+P0967,29,Female,"High fever, body aches",Asthma,Omeprazole,Brain scan abnormality,Overweight,"Reports difficulty breathing, requires further testing",Diabetes,Medium
+P1134,71,Female,"Blurred vision, headaches",Kidney disease,Ibuprofen,High blood sugar,Smoker,"Heart palpitations observed, needs ECG",Hypertension,Medium
+P0652,50,Male,"Rapid heartbeat, sweating",Diabetes,Levothyroxine,Irregular heartbeat detected,Smoker,"Sudden weight loss unexplained, requires evaluation",Respiratory Infection,Low
+P0210,56,Male,"High fever, body aches",Diabetes,Ibuprofen,Normal sugar,Sedentary,"Blurry vision, check for diabetes",Arthritis,High
+P1398,20,Male,"Shortness of breath, dizziness",No known history,Ibuprofen,High blood pressure,Drinker,"Patient forgets daily activities, early dementia suspected",Alzheimer's,High
+P0141,80,Female,"Blurred vision, headaches",High cholesterol,Ibuprofen,Low white blood cell count,Overweight,"Heart palpitations observed, needs ECG",Gastroenteritis,High
+P1084,27,Male,"Shortness of breath, dizziness",Hypertension,Lisinopril,Normal MRI,Drinker,"Sudden weight loss unexplained, requires evaluation",Respiratory Infection,High
+P0991,57,Female,"Rapid heartbeat, sweating",Cancer history,Metformin,High blood pressure,Sedentary,"Heart palpitations observed, needs ECG",Migraine,Medium
+P0651,52,Female,"Rapid heartbeat, sweating",No known history,Donepezil,Normal MRI,Drinker,"Patient experiences chest discomfort, possible cardiac issue",Heart Disease,Low
+P1189,25,Male,"Rapid heartbeat, sweating",Diabetes,Levothyroxine,Normal sugar,Healthy diet,"Patient forgets daily activities, early dementia suspected",Arrhythmia,Low
+P1499,32,Male,"Chest pain, fatigue",Stroke history,,Low oxygen levels,Sedentary,"Joint pain worsening, recommended physical therapy",Cancer Screening Needed,Medium
+P0486,23,Male,"Nausea, vomiting",Kidney disease,Aspirin,Brain scan abnormality,Active,"Joint pain worsening, recommended physical therapy",Arrhythmia,High
+P0528,47,Male,"Shortness of breath, dizziness",High cholesterol,Aspirin,Brain scan abnormality,Sedentary,"Patient experiences chest discomfort, possible cardiac issue",Respiratory Infection,Medium
+P0200,50,Male,"Sudden weight loss, tiredness",Alzheimer's in family,Lisinopril,Low white blood cell count,Sedentary,"Suspected infection, prescribed antibiotics",Diabetes,Low
+P0890,72,Male,"Shortness of breath, dizziness",Cancer history,Metformin,Brain scan abnormality,Drinker,"Sudden weight loss unexplained, requires evaluation",Respiratory Infection,Low
+P0845,69,Male,"Joint pain, swelling",No known history,Metformin,Elevated liver enzymes,Active,"Blurry vision, check for diabetes",Heart Disease,High
+P1069,21,Male,"Blurred vision, headaches",No known history,Omeprazole,Normal sugar,Drinker,"Nausea reported, possible gastrointestinal issue",Gastroenteritis,Low
+P1206,49,Female,"Shortness of breath, dizziness",No known history,Donepezil,High cholesterol,Smoker,"Blurry vision, check for diabetes",Respiratory Infection,Low
+P1055,28,Male,"Sudden weight loss, tiredness",Hypertension,Insulin,Low white blood cell count,Sedentary,"Sudden weight loss unexplained, requires evaluation",Alzheimer's,High
+P0011,67,Female,"Chest pain, fatigue",Diabetes,Levothyroxine,Low white blood cell count,Drinker,Mild symptoms but family history is concerning,Alzheimer's,High
+P0148,27,Male,"High fever, body aches",High cholesterol,Ibuprofen,Brain scan abnormality,Drinker,"Heart palpitations observed, needs ECG",Hypertension,High
+P0722,55,Female,"Joint pain, swelling",Cancer history,Levothyroxine,High cholesterol,Active,"Heart palpitations observed, needs ECG",Cancer Screening Needed,Low
+P0283,71,Female,"Blurred vision, headaches",Stroke history,Metformin,Irregular heartbeat detected,Smoker,"Sudden weight loss unexplained, requires evaluation",Arthritis,Medium
+P0299,51,Male,"Joint pain, swelling",Diabetes,,Low oxygen levels,Active,"Patient forgets daily activities, early dementia suspected",Arthritis,High
+P0614,70,Male,"Blurred vision, headaches",Stroke history,Aspirin,High cholesterol,Drinker,"Nausea reported, possible gastrointestinal issue",Diabetes,High
+P0292,30,Female,"High fever, body aches",High cholesterol,Atorvastatin,Normal sugar,Sedentary,"Reports difficulty breathing, requires further testing",Arthritis,Medium
+P0650,69,Female,"Thirst, frequent urination",Asthma,Insulin,High blood sugar,Sedentary,"Reports difficulty breathing, requires further testing",Alzheimer's,Medium
+P0599,57,Female,"Nausea, vomiting",Diabetes,Lisinopril,Elevated liver enzymes,Smoker,"Nausea reported, possible gastrointestinal issue",Heart Disease,Low
+P1044,46,Female,"Blurred vision, headaches",No known history,,Brain scan abnormality,Smoker,"Reports difficulty breathing, requires further testing",Gastroenteritis,High
+P0553,67,Female,"Shortness of breath, dizziness",Cancer history,,Brain scan abnormality,Overweight,"Blurry vision, check for diabetes",Gastroenteritis,Low
+P1299,27,Female,"Joint pain, swelling",Arthritis,Insulin,Elevated liver enzymes,Overweight,Mild symptoms but family history is concerning,Gastroenteritis,Low
+P0130,22,Male,"Chest pain, fatigue",Kidney disease,Ibuprofen,Normal MRI,Sedentary,"Reports difficulty breathing, requires further testing",Cancer Screening Needed,Low
+P1062,33,Female,"Nausea, vomiting",Asthma,Atorvastatin,Low oxygen levels,Overweight,Mild symptoms but family history is concerning,Gastroenteritis,Low
+P0332,34,Male,"High fever, body aches",Alzheimer's in family,Insulin,High blood sugar,Overweight,"Reports difficulty breathing, requires further testing",Alzheimer's,Medium
+P0324,24,Female,"Thirst, frequent urination",Alzheimer's in family,Levothyroxine,Normal sugar,Active,"Joint pain worsening, recommended physical therapy",Gastroenteritis,Medium
+P0681,42,Male,"Thirst, frequent urination",Arthritis,Lisinopril,Low oxygen levels,Drinker,Mild symptoms but family history is concerning,Heart Disease,Medium
+P0479,62,Female,"Rapid heartbeat, sweating",Arthritis,,Brain scan abnormality,Healthy diet,"Heart palpitations observed, needs ECG",Alzheimer's,Medium
+P0562,66,Male,"High fever, body aches",Diabetes,Levothyroxine,Low oxygen levels,Overweight,"Patient forgets daily activities, early dementia suspected",Heart Disease,Low
+P0136,43,Male,"Blurred vision, headaches",No known history,Aspirin,High blood sugar,Drinker,"Heart palpitations observed, needs ECG",Alzheimer's,High
+P0507,22,Male,"Nausea, vomiting",Stroke history,Aspirin,Normal sugar,Overweight,"Patient experiences chest discomfort, possible cardiac issue",Diabetes,Medium
+P0514,27,Female,"Shortness of breath, dizziness",No known history,Ibuprofen,Brain scan abnormality,Smoker,"Sudden weight loss unexplained, requires evaluation",Hypertension,High
+P1372,42,Male,"High fever, body aches",Cancer history,Omeprazole,Low white blood cell count,Sedentary,"Sudden weight loss unexplained, requires evaluation",Arthritis,Medium
+P0436,45,Female,"Shortness of breath, dizziness",Hypertension,Atorvastatin,High cholesterol,Smoker,"Patient forgets daily activities, early dementia suspected",Hypertension,Medium
+P0874,76,Female,"Blurred vision, headaches",Arthritis,,Normal MRI,Sedentary,"Patient experiences chest discomfort, possible cardiac issue",Arrhythmia,Medium
+P1463,57,Female,"Memory loss, confusion",Diabetes,Levothyroxine,High cholesterol,Drinker,"Suspected infection, prescribed antibiotics",Gastroenteritis,High
+P0753,65,Male,"Joint pain, swelling",Stroke history,Ibuprofen,High cholesterol,Drinker,"Heart palpitations observed, needs ECG",Diabetes,Medium
+P0666,51,Male,"Thirst, frequent urination",Cancer history,Aspirin,Low oxygen levels,Smoker,"Sudden weight loss unexplained, requires evaluation",Respiratory Infection,Low
+P0159,80,Female,"Thirst, frequent urination",Alzheimer's in family,Lisinopril,Brain scan abnormality,Sedentary,Mild symptoms but family history is concerning,Alzheimer's,Medium
+P1254,66,Female,"Nausea, vomiting",No known history,Metformin,Low white blood cell count,Active,"Nausea reported, possible gastrointestinal issue",Diabetes,Low
+P1293,73,Male,"Shortness of breath, dizziness",No known history,Insulin,Low white blood cell count,Smoker,"Reports difficulty breathing, requires further testing",Cancer Screening Needed,High
+P0576,24,Female,"Chest pain, fatigue",Kidney disease,Insulin,Normal MRI,Drinker,"Blurry vision, check for diabetes",Heart Disease,High
+P0353,38,Male,"Chest pain, fatigue",Hypertension,Omeprazole,Irregular heartbeat detected,Overweight,"Reports difficulty breathing, requires further testing",Respiratory Infection,Medium
+P0938,24,Male,"High fever, body aches",Stroke history,Metformin,Low white blood cell count,Sedentary,"Joint pain worsening, recommended physical therapy",Alzheimer's,Low
+P1296,63,Male,"Shortness of breath, dizziness",Kidney disease,,Low white blood cell count,Sedentary,"Nausea reported, possible gastrointestinal issue",Respiratory Infection,High
+P1393,41,Female,"Nausea, vomiting",No known history,Insulin,Irregular heartbeat detected,Smoker,"Sudden weight loss unexplained, requires evaluation",Respiratory Infection,High
+P1301,65,Female,"Chest pain, fatigue",Kidney disease,Levothyroxine,Normal MRI,Healthy diet,"Heart palpitations observed, needs ECG",Cancer Screening Needed,High
+P0592,51,Female,"Thirst, frequent urination",Cancer history,Omeprazole,Low oxygen levels,Overweight,"Joint pain worsening, recommended physical therapy",Gastroenteritis,High
+P0665,41,Male,"Blurred vision, headaches",Cancer history,Insulin,Normal MRI,Sedentary,"Patient forgets daily activities, early dementia suspected",Hypertension,High
+P0196,75,Male,"Rapid heartbeat, sweating",Cancer history,Ibuprofen,Brain scan abnormality,Smoker,"Suspected infection, prescribed antibiotics",Gastroenteritis,High
+P1241,74,Female,"Chest pain, fatigue",Hypertension,Lisinopril,Low oxygen levels,Drinker,"Reports difficulty breathing, requires further testing",Heart Disease,Low
+P1049,34,Male,"Rapid heartbeat, sweating",Diabetes,Insulin,High blood pressure,Healthy diet,"Patient forgets daily activities, early dementia suspected",Cancer Screening Needed,Medium
+P0439,27,Female,"Joint pain, swelling",Diabetes,Insulin,High cholesterol,Overweight,"Heart palpitations observed, needs ECG",Cancer Screening Needed,High
+P1436,35,Male,"Rapid heartbeat, sweating",Kidney disease,,Elevated liver enzymes,Active,Mild symptoms but family history is concerning,Arrhythmia,Low
+P0644,58,Male,"Nausea, vomiting",Hypertension,Omeprazole,Low oxygen levels,Healthy diet,"Heart palpitations observed, needs ECG",Diabetes,High
+P0097,27,Female,"Chest pain, fatigue",Arthritis,Atorvastatin,Elevated liver enzymes,Overweight,"Blurry vision, check for diabetes",Respiratory Infection,Low
+P0585,43,Male,"Nausea, vomiting",Hypertension,Insulin,High blood pressure,Drinker,"Blurry vision, check for diabetes",Migraine,Medium
+P1215,38,Male,"Shortness of breath, dizziness",No known history,Insulin,Low white blood cell count,Active,"Suspected infection, prescribed antibiotics",Arrhythmia,Medium
+P0157,69,Female,"Memory loss, confusion",Diabetes,Lisinopril,Normal MRI,Smoker,"Nausea reported, possible gastrointestinal issue",Migraine,High
+P0420,75,Female,"Thirst, frequent urination",Asthma,Lisinopril,High cholesterol,Healthy diet,"Patient experiences chest discomfort, possible cardiac issue",Arthritis,Medium
+P0411,32,Female,"Shortness of breath, dizziness",Asthma,Aspirin,Low oxygen levels,Drinker,"Suspected infection, prescribed antibiotics",Gastroenteritis,High
+P1223,49,Male,"Blurred vision, headaches",Diabetes,Metformin,Irregular heartbeat detected,Sedentary,"Patient forgets daily activities, early dementia suspected",Arthritis,Medium
+P0478,28,Female,"Sudden weight loss, tiredness",Hypertension,Lisinopril,Low white blood cell count,Drinker,"Patient experiences chest discomfort, possible cardiac issue",Hypertension,High
+P0515,64,Male,"Sudden weight loss, tiredness",Alzheimer's in family,Ibuprofen,Normal MRI,Smoker,Mild symptoms but family history is concerning,Migraine,High
+P1286,51,Male,"Memory loss, confusion",Hypertension,Donepezil,High blood pressure,Active,"Nausea reported, possible gastrointestinal issue",Migraine,Low
+P1454,59,Male,"Thirst, frequent urination",No known history,Omeprazole,Low white blood cell count,Sedentary,"Sudden weight loss unexplained, requires evaluation",Hypertension,Low
+P1119,31,Male,"Nausea, vomiting",Hypertension,Atorvastatin,Normal sugar,Healthy diet,Mild symptoms but family history is concerning,Arthritis,High
+P0448,31,Female,"Shortness of breath, dizziness",Diabetes,,Brain scan abnormality,Sedentary,"Heart palpitations observed, needs ECG",Diabetes,Low
+P0179,54,Female,"Memory loss, confusion",Hypertension,Donepezil,Normal sugar,Healthy diet,"Sudden weight loss unexplained, requires evaluation",Hypertension,Low
+P0391,73,Male,"Nausea, vomiting",Cancer history,Atorvastatin,High blood sugar,Sedentary,"Suspected infection, prescribed antibiotics",Cancer Screening Needed,Medium
+P1290,53,Female,"Blurred vision, headaches",Alzheimer's in family,Aspirin,High cholesterol,Drinker,"Nausea reported, possible gastrointestinal issue",Cancer Screening Needed,High
+P1308,53,Male,"Memory loss, confusion",High cholesterol,Donepezil,Normal sugar,Active,"Suspected infection, prescribed antibiotics",Heart Disease,High
+P1367,39,Male,"Sudden weight loss, tiredness",Alzheimer's in family,Aspirin,Low oxygen levels,Overweight,"Blurry vision, check for diabetes",Heart Disease,High
+P1048,75,Male,"Chest pain, fatigue",Stroke history,Atorvastatin,High blood pressure,Smoker,"Joint pain worsening, recommended physical therapy",Gastroenteritis,High
+P1143,38,Female,"Shortness of breath, dizziness",Kidney disease,Lisinopril,Brain scan abnormality,Healthy diet,Mild symptoms but family history is concerning,Heart Disease,Low
+P0635,42,Female,"Memory loss, confusion",Cancer history,Aspirin,Low white blood cell count,Smoker,"Sudden weight loss unexplained, requires evaluation",Respiratory Infection,Low
+P0866,29,Male,"Chest pain, fatigue",Hypertension,,High blood sugar,Overweight,"Blurry vision, check for diabetes",Arthritis,High
+P0788,43,Male,"Sudden weight loss, tiredness",Diabetes,Insulin,Elevated liver enzymes,Healthy diet,"Nausea reported, possible gastrointestinal issue",Diabetes,High
+P0745,66,Male,"High fever, body aches",Diabetes,Metformin,Brain scan abnormality,Drinker,"Nausea reported, possible gastrointestinal issue",Gastroenteritis,Medium
+P0860,49,Female,"Chest pain, fatigue",Hypertension,Omeprazole,High cholesterol,Healthy diet,Mild symptoms but family history is concerning,Diabetes,Low
+P0295,25,Male,"Joint pain, swelling",Asthma,Omeprazole,High blood pressure,Healthy diet,"Joint pain worsening, recommended physical therapy",Cancer Screening Needed,Medium
+P0545,61,Female,"Memory loss, confusion",Alzheimer's in family,,Low oxygen levels,Smoker,"Patient experiences chest discomfort, possible cardiac issue",Alzheimer's,High
+P1363,76,Female,"Blurred vision, headaches",Alzheimer's in family,Atorvastatin,Normal MRI,Overweight,"Suspected infection, prescribed antibiotics",Diabetes,Medium
+P0089,70,Female,"Thirst, frequent urination",Hypertension,Ibuprofen,Elevated liver enzymes,Overweight,"Patient forgets daily activities, early dementia suspected",Hypertension,High
+P1032,48,Male,"Nausea, vomiting",Cancer history,Omeprazole,High blood sugar,Sedentary,"Blurry vision, check for diabetes",Migraine,Medium
+P1380,72,Female,"Rapid heartbeat, sweating",Stroke history,,Normal sugar,Overweight,"Blurry vision, check for diabetes",Cancer Screening Needed,Medium
+P0577,22,Male,"Memory loss, confusion",Hypertension,Omeprazole,Low oxygen levels,Smoker,"Heart palpitations observed, needs ECG",Alzheimer's,Medium
+P0907,26,Female,"Thirst, frequent urination",Diabetes,Insulin,High cholesterol,Sedentary,"Reports difficulty breathing, requires further testing",Cancer Screening Needed,Low
+P1388,77,Female,"Chest pain, fatigue",Asthma,Atorvastatin,High blood pressure,Drinker,"Patient experiences chest discomfort, possible cardiac issue",Respiratory Infection,High
+P1092,44,Female,"Thirst, frequent urination",Diabetes,Insulin,Brain scan abnormality,Healthy diet,"Suspected infection, prescribed antibiotics",Respiratory Infection,High
+P0944,36,Male,"Chest pain, fatigue",Arthritis,Lisinopril,Normal MRI,Smoker,"Heart palpitations observed, needs ECG",Arthritis,Medium
+P0291,30,Male,"Joint pain, swelling",No known history,Omeprazole,Low oxygen levels,Smoker,"Blurry vision, check for diabetes",Diabetes,Medium
+P1419,39,Male,"Shortness of breath, dizziness",Cancer history,,Brain scan abnormality,Sedentary,Mild symptoms but family history is concerning,Diabetes,Medium
+P1019,63,Male,"Rapid heartbeat, sweating",Stroke history,Omeprazole,Elevated liver enzymes,Active,"Nausea reported, possible gastrointestinal issue",Gastroenteritis,Low
+P0349,55,Female,"Memory loss, confusion",Hypertension,Metformin,Low white blood cell count,Overweight,"Joint pain worsening, recommended physical therapy",Heart Disease,High
+P0568,44,Male,"Joint pain, swelling",Kidney disease,Atorvastatin,High blood sugar,Healthy diet,"Patient forgets daily activities, early dementia suspected",Hypertension,Medium
+P1413,21,Male,"Blurred vision, headaches",Kidney disease,Aspirin,High cholesterol,Smoker,"Patient experiences chest discomfort, possible cardiac issue",Heart Disease,Low
+P1059,32,Female,"Chest pain, fatigue",Kidney disease,Levothyroxine,Low oxygen levels,Sedentary,"Nausea reported, possible gastrointestinal issue",Cancer Screening Needed,Medium
+P0600,79,Male,"Sudden weight loss, tiredness",Stroke history,,Elevated liver enzymes,Overweight,"Patient experiences chest discomfort, possible cardiac issue",Gastroenteritis,High
+P0459,74,Female,"Blurred vision, headaches",High cholesterol,Omeprazole,Normal sugar,Overweight,"Reports difficulty breathing, requires further testing",Gastroenteritis,High
+P0376,23,Male,"Joint pain, swelling",High cholesterol,Metformin,Irregular heartbeat detected,Active,"Joint pain worsening, recommended physical therapy",Heart Disease,High
+P0334,72,Male,"High fever, body aches",Alzheimer's in family,Atorvastatin,High cholesterol,Smoker,"Blurry vision, check for diabetes",Respiratory Infection,Medium
+P0757,24,Female,"Sudden weight loss, tiredness",Kidney disease,Donepezil,High blood sugar,Overweight,"Blurry vision, check for diabetes",Hypertension,Medium
+P1324,52,Female,"Shortness of breath, dizziness",Alzheimer's in family,Aspirin,High blood pressure,Healthy diet,Mild symptoms but family history is concerning,Heart Disease,Low
+P0712,72,Male,"Sudden weight loss, tiredness",Stroke history,Lisinopril,Irregular heartbeat detected,Drinker,"Heart palpitations observed, needs ECG",Migraine,Medium
+P1390,54,Male,"Shortness of breath, dizziness",Alzheimer's in family,Donepezil,High blood sugar,Sedentary,"Patient experiences chest discomfort, possible cardiac issue",Diabetes,High
+P0567,65,Female,"Blurred vision, headaches",Asthma,Aspirin,High blood pressure,Active,"Heart palpitations observed, needs ECG",Heart Disease,Low
+P0329,62,Female,"High fever, body aches",Hypertension,Lisinopril,Irregular heartbeat detected,Drinker,Mild symptoms but family history is concerning,Arrhythmia,Low
+P0319,26,Male,"Nausea, vomiting",Asthma,Omeprazole,Low white blood cell count,Healthy diet,"Sudden weight loss unexplained, requires evaluation",Alzheimer's,Medium
+P1303,26,Female,"Blurred vision, headaches",Stroke history,Lisinopril,High cholesterol,Active,Mild symptoms but family history is concerning,Hypertension,High
+P0953,61,Male,"Memory loss, confusion",Asthma,Levothyroxine,Low oxygen levels,Sedentary,"Reports difficulty breathing, requires further testing",Diabetes,High
+P0013,48,Male,"Shortness of breath, dizziness",Kidney disease,Ibuprofen,High cholesterol,Healthy diet,"Suspected infection, prescribed antibiotics",Respiratory Infection,Low
+P0172,32,Female,"Blurred vision, headaches",Hypertension,Omeprazole,Low oxygen levels,Drinker,"Heart palpitations observed, needs ECG",Cancer Screening Needed,Low
+P0261,46,Female,"Blurred vision, headaches",Arthritis,Levothyroxine,High cholesterol,Drinker,"Joint pain worsening, recommended physical therapy",Alzheimer's,Low
+P0820,50,Female,"Shortness of breath, dizziness",Hypertension,Levothyroxine,Normal sugar,Smoker,"Blurry vision, check for diabetes",Cancer Screening Needed,Low
+P1495,20,Female,"Chest pain, fatigue",Arthritis,Donepezil,Normal MRI,Smoker,"Joint pain worsening, recommended physical therapy",Heart Disease,Low
+P0797,53,Female,"Sudden weight loss, tiredness",Cancer history,Donepezil,Elevated liver enzymes,Overweight,"Nausea reported, possible gastrointestinal issue",Alzheimer's,High
+P0139,61,Male,"Chest pain, fatigue",Alzheimer's in family,Metformin,Brain scan abnormality,Overweight,"Suspected infection, prescribed antibiotics",Arrhythmia,High
+P0550,29,Female,"Sudden weight loss, tiredness",Hypertension,Atorvastatin,Low white blood cell count,Smoker,"Nausea reported, possible gastrointestinal issue",Gastroenteritis,Medium
+P0616,37,Female,"Blurred vision, headaches",Alzheimer's in family,Atorvastatin,Normal MRI,Sedentary,"Reports difficulty breathing, requires further testing",Arrhythmia,Low
+P0846,43,Female,"High fever, body aches",Alzheimer's in family,Donepezil,Brain scan abnormality,Healthy diet,"Patient forgets daily activities, early dementia suspected",Heart Disease,Low
+P0778,64,Male,"Rapid heartbeat, sweating",Asthma,Lisinopril,Low white blood cell count,Overweight,"Patient forgets daily activities, early dementia suspected",Cancer Screening Needed,Low
+P0559,22,Female,"Shortness of breath, dizziness",Arthritis,Metformin,High blood pressure,Healthy diet,"Patient forgets daily activities, early dementia suspected",Diabetes,High
+P0140,65,Female,"Nausea, vomiting",Stroke history,,Irregular heartbeat detected,Overweight,"Joint pain worsening, recommended physical therapy",Alzheimer's,Medium
+P1310,77,Female,"Joint pain, swelling",Cancer history,Atorvastatin,High blood sugar,Overweight,"Heart palpitations observed, needs ECG",Cancer Screening Needed,High
+P1024,74,Male,"Joint pain, swelling",Cancer history,Aspirin,Normal MRI,Active,"Joint pain worsening, recommended physical therapy",Arrhythmia,Medium
+P0225,80,Male,"High fever, body aches",Alzheimer's in family,Lisinopril,Brain scan abnormality,Smoker,"Patient forgets daily activities, early dementia suspected",Alzheimer's,High
+P0964,57,Female,"Nausea, vomiting",Kidney disease,Atorvastatin,Low white blood cell count,Healthy diet,"Joint pain worsening, recommended physical therapy",Arrhythmia,Low
+P0410,48,Male,"High fever, body aches",Alzheimer's in family,Donepezil,Normal sugar,Healthy diet,"Patient experiences chest discomfort, possible cardiac issue",Migraine,Medium
+P0326,48,Female,"Blurred vision, headaches",Cancer history,Metformin,Brain scan abnormality,Active,"Heart palpitations observed, needs ECG",Gastroenteritis,Medium
+P0300,52,Female,"Nausea, vomiting",High cholesterol,Atorvastatin,Elevated liver enzymes,Healthy diet,"Nausea reported, possible gastrointestinal issue",Respiratory Infection,Low
+P0994,59,Female,"Nausea, vomiting",Asthma,Levothyroxine,Irregular heartbeat detected,Smoker,Mild symptoms but family history is concerning,Respiratory Infection,High
+P1033,29,Male,"Joint pain, swelling",Asthma,Lisinopril,Low oxygen levels,Drinker,"Blurry vision, check for diabetes",Alzheimer's,High
+P0671,80,Female,"Blurred vision, headaches",Kidney disease,Levothyroxine,Irregular heartbeat detected,Smoker,"Blurry vision, check for diabetes",Arthritis,High
+P1480,52,Male,"Shortness of breath, dizziness",Hypertension,Levothyroxine,High blood pressure,Drinker,"Patient forgets daily activities, early dementia suspected",Arrhythmia,Medium
+P0947,45,Female,"Blurred vision, headaches",No known history,Metformin,Normal sugar,Overweight,"Sudden weight loss unexplained, requires evaluation",Arrhythmia,Low
+P1270,71,Female,"Thirst, frequent urination",Arthritis,Omeprazole,High blood sugar,Sedentary,"Heart palpitations observed, needs ECG",Respiratory Infection,High
+P0574,45,Female,"Shortness of breath, dizziness",Alzheimer's in family,,High blood sugar,Sedentary,"Reports difficulty breathing, requires further testing",Arrhythmia,Medium
+P0504,59,Female,"Nausea, vomiting",Alzheimer's in family,Metformin,High cholesterol,Overweight,"Blurry vision, check for diabetes",Heart Disease,Low
+P1038,59,Male,"Rapid heartbeat, sweating",High cholesterol,Omeprazole,High blood sugar,Active,"Blurry vision, check for diabetes",Alzheimer's,Medium
+P0004,63,Male,"High fever, body aches",Asthma,Aspirin,High cholesterol,Active,Mild symptoms but family history is concerning,Arthritis,Medium
+P1469,51,Male,"Shortness of breath, dizziness",Diabetes,Ibuprofen,Normal MRI,Active,"Suspected infection, prescribed antibiotics",Diabetes,Medium
+P0468,41,Male,"Memory loss, confusion",Kidney disease,Omeprazole,Normal sugar,Active,"Blurry vision, check for diabetes",Cancer Screening Needed,High
+P0322,65,Male,"Memory loss, confusion",Cancer history,Insulin,Normal MRI,Healthy diet,"Patient forgets daily activities, early dementia suspected",Cancer Screening Needed,Medium
+P0006,27,Female,"Shortness of breath, dizziness",High cholesterol,Aspirin,Low white blood cell count,Sedentary,"Heart palpitations observed, needs ECG",Gastroenteritis,High
+P0974,37,Male,"Blurred vision, headaches",Asthma,Atorvastatin,Normal MRI,Smoker,"Suspected infection, prescribed antibiotics",Gastroenteritis,High
+P0548,44,Male,"High fever, body aches",Stroke history,Metformin,Brain scan abnormality,Active,"Patient experiences chest discomfort, possible cardiac issue",Hypertension,Low
+P1477,23,Female,"Blurred vision, headaches",Cancer history,Insulin,High blood pressure,Sedentary,"Nausea reported, possible gastrointestinal issue",Arrhythmia,Low
+P0040,38,Female,"Blurred vision, headaches",Alzheimer's in family,Lisinopril,Irregular heartbeat detected,Sedentary,"Heart palpitations observed, needs ECG",Migraine,Medium
+P0543,39,Female,"High fever, body aches",Hypertension,Lisinopril,Brain scan abnormality,Smoker,"Patient experiences chest discomfort, possible cardiac issue",Hypertension,Low
+P0243,48,Female,"Chest pain, fatigue",Asthma,Donepezil,High blood sugar,Drinker,"Nausea reported, possible gastrointestinal issue",Arrhythmia,Medium
+P0137,53,Female,"Memory loss, confusion",High cholesterol,Omeprazole,High cholesterol,Healthy diet,"Heart palpitations observed, needs ECG",Heart Disease,Low
+P0603,46,Male,"Sudden weight loss, tiredness",High cholesterol,Insulin,Normal MRI,Sedentary,"Reports difficulty breathing, requires further testing",Cancer Screening Needed,Low
+P0773,69,Male,"Nausea, vomiting",Cancer history,Metformin,Brain scan abnormality,Healthy diet,"Blurry vision, check for diabetes",Arthritis,Low
+P0847,67,Male,"Sudden weight loss, tiredness",Cancer history,Ibuprofen,Elevated liver enzymes,Smoker,"Suspected infection, prescribed antibiotics",Hypertension,High
+P1091,62,Female,"Joint pain, swelling",Hypertension,Lisinopril,Brain scan abnormality,Healthy diet,Mild symptoms but family history is concerning,Migraine,High
+P1366,57,Male,"Memory loss, confusion",Alzheimer's in family,Atorvastatin,High cholesterol,Healthy diet,"Blurry vision, check for diabetes",Alzheimer's,Low
+P0582,79,Male,"High fever, body aches",Alzheimer's in family,Donepezil,Low white blood cell count,Drinker,"Patient forgets daily activities, early dementia suspected",Alzheimer's,Medium
+P1475,65,Female,"Blurred vision, headaches",Diabetes,Insulin,Normal sugar,Sedentary,"Sudden weight loss unexplained, requires evaluation",Arrhythmia,High
+P0789,52,Male,"Rapid heartbeat, sweating",Arthritis,Donepezil,High blood pressure,Smoker,Mild symptoms but family history is concerning,Hypertension,High
+P1389,40,Male,"Thirst, frequent urination",Alzheimer's in family,Metformin,Low white blood cell count,Sedentary,"Patient forgets daily activities, early dementia suspected",Heart Disease,High
+P0377,52,Female,"Rapid heartbeat, sweating",Kidney disease,Lisinopril,Low oxygen levels,Active,"Joint pain worsening, recommended physical therapy",Arrhythmia,High
+P0315,34,Male,"Chest pain, fatigue",Alzheimer's in family,Omeprazole,Low oxygen levels,Overweight,"Joint pain worsening, recommended physical therapy",Diabetes,Low
+P0443,30,Female,"Chest pain, fatigue",High cholesterol,Donepezil,Low white blood cell count,Drinker,"Suspected infection, prescribed antibiotics",Hypertension,Medium
+P0320,38,Female,"Chest pain, fatigue",Arthritis,Ibuprofen,High blood pressure,Active,"Patient forgets daily activities, early dementia suspected",Respiratory Infection,High
+P1479,23,Female,"Memory loss, confusion",High cholesterol,,Low white blood cell count,Active,"Reports difficulty breathing, requires further testing",Heart Disease,Medium
+P0794,76,Male,"High fever, body aches",No known history,Metformin,High cholesterol,Healthy diet,"Sudden weight loss unexplained, requires evaluation",Arthritis,Medium
+P1133,65,Female,"Joint pain, swelling",Kidney disease,,Normal sugar,Smoker,"Patient forgets daily activities, early dementia suspected",Respiratory Infection,Low
+P0425,52,Male,"Memory loss, confusion",Stroke history,,Elevated liver enzymes,Drinker,"Reports difficulty breathing, requires further testing",Migraine,Low
+P0554,57,Female,"Sudden weight loss, tiredness",Stroke history,,High blood pressure,Drinker,"Heart palpitations observed, needs ECG",Respiratory Infection,Low
+P0595,26,Male,"Joint pain, swelling",Kidney disease,Levothyroxine,Elevated liver enzymes,Drinker,Mild symptoms but family history is concerning,Cancer Screening Needed,Medium
+P0894,60,Female,"Nausea, vomiting",Cancer history,Aspirin,Normal sugar,Drinker,"Reports difficulty breathing, requires further testing",Respiratory Infection,High
+P1482,56,Male,"Nausea, vomiting",Hypertension,Atorvastatin,Low oxygen levels,Overweight,"Blurry vision, check for diabetes",Arthritis,Medium
+P1218,38,Male,"Joint pain, swelling",Kidney disease,Omeprazole,High blood sugar,Smoker,"Nausea reported, possible gastrointestinal issue",Respiratory Infection,Medium
+P1165,76,Male,"Joint pain, swelling",Cancer history,Metformin,High cholesterol,Sedentary,"Suspected infection, prescribed antibiotics",Heart Disease,High
+P0228,67,Male,"Nausea, vomiting",Asthma,Metformin,Irregular heartbeat detected,Active,"Sudden weight loss unexplained, requires evaluation",Cancer Screening Needed,Low
+P0715,22,Female,"Rapid heartbeat, sweating",Cancer history,Insulin,High blood pressure,Sedentary,"Patient experiences chest discomfort, possible cardiac issue",Heart Disease,Medium
+P0811,24,Male,"High fever, body aches",Hypertension,Ibuprofen,Normal sugar,Sedentary,"Patient experiences chest discomfort, possible cardiac issue",Respiratory Infection,High
+P0980,42,Male,"Rapid heartbeat, sweating",Arthritis,Lisinopril,Normal MRI,Healthy diet,"Reports difficulty breathing, requires further testing",Diabetes,High
+P1076,69,Male,"Nausea, vomiting",Stroke history,,Elevated liver enzymes,Drinker,"Sudden weight loss unexplained, requires evaluation",Arthritis,Low
+P0067,22,Male,"Thirst, frequent urination",No known history,Metformin,Brain scan abnormality,Sedentary,"Reports difficulty breathing, requires further testing",Gastroenteritis,High
+P0394,62,Male,"Blurred vision, headaches",Arthritis,Ibuprofen,High blood sugar,Drinker,"Patient experiences chest discomfort, possible cardiac issue",Diabetes,Medium
+P0580,80,Male,"Blurred vision, headaches",Stroke history,,Low white blood cell count,Drinker,"Blurry vision, check for diabetes",Arthritis,Medium
+P0990,43,Female,"Thirst, frequent urination",Cancer history,Atorvastatin,Low white blood cell count,Active,"Nausea reported, possible gastrointestinal issue",Alzheimer's,Low
+P0212,46,Male,"Sudden weight loss, tiredness",Kidney disease,Insulin,Brain scan abnormality,Sedentary,"Blurry vision, check for diabetes",Heart Disease,High
+P1160,49,Female,"Nausea, vomiting",Cancer history,Lisinopril,Normal MRI,Overweight,"Blurry vision, check for diabetes",Diabetes,High
+P0782,63,Male,"Blurred vision, headaches",Hypertension,Donepezil,Brain scan abnormality,Sedentary,"Heart palpitations observed, needs ECG",Migraine,Medium
+P0537,47,Female,"Sudden weight loss, tiredness",Asthma,Atorvastatin,Elevated liver enzymes,Active,"Patient forgets daily activities, early dementia suspected",Gastroenteritis,High
+P0775,41,Male,"Nausea, vomiting",Kidney disease,,Normal MRI,Active,"Patient experiences chest discomfort, possible cardiac issue",Gastroenteritis,Medium
+P0662,80,Female,"Blurred vision, headaches",High cholesterol,,Irregular heartbeat detected,Healthy diet,"Reports difficulty breathing, requires further testing",Alzheimer's,Medium
+P0086,36,Female,"High fever, body aches",Hypertension,Aspirin,Low white blood cell count,Active,"Blurry vision, check for diabetes",Cancer Screening Needed,Medium
+P1350,66,Male,"Shortness of breath, dizziness",Arthritis,Levothyroxine,High blood pressure,Healthy diet,"Joint pain worsening, recommended physical therapy",Arrhythmia,High
+P1217,71,Male,"Nausea, vomiting",No known history,Lisinopril,Normal MRI,Sedentary,Mild symptoms but family history is concerning,Diabetes,Medium
+P0916,30,Male,"Sudden weight loss, tiredness",Kidney disease,Lisinopril,Low oxygen levels,Sedentary,"Patient forgets daily activities, early dementia suspected",Diabetes,High
+P0661,71,Female,"Thirst, frequent urination",Asthma,Aspirin,High blood sugar,Active,"Sudden weight loss unexplained, requires evaluation",Heart Disease,Low
+P1351,45,Female,"Blurred vision, headaches",Cancer history,Aspirin,Normal sugar,Sedentary,Mild symptoms but family history is concerning,Alzheimer's,High
+P0631,68,Female,"Joint pain, swelling",Cancer history,Ibuprofen,High blood pressure,Smoker,Mild symptoms but family history is concerning,Alzheimer's,High
+P1034,65,Male,"Joint pain, swelling",Alzheimer's in family,Atorvastatin,Low oxygen levels,Drinker,"Patient forgets daily activities, early dementia suspected",Hypertension,Low
+P1400,47,Male,"Thirst, frequent urination",High cholesterol,Insulin,High cholesterol,Active,"Heart palpitations observed, needs ECG",Alzheimer's,Low
+P1093,65,Male,"Memory loss, confusion",High cholesterol,Metformin,Low oxygen levels,Drinker,"Reports difficulty breathing, requires further testing",Alzheimer's,Medium
+P0274,27,Female,"Blurred vision, headaches",Asthma,Ibuprofen,High cholesterol,Drinker,"Patient experiences chest discomfort, possible cardiac issue",Respiratory Infection,Medium
+P0723,58,Male,"Joint pain, swelling",Stroke history,Insulin,High cholesterol,Drinker,"Joint pain worsening, recommended physical therapy",Arrhythmia,High
+P0363,28,Male,"High fever, body aches",High cholesterol,Aspirin,Brain scan abnormality,Active,"Suspected infection, prescribed antibiotics",Respiratory Infection,High
+P0623,28,Female,"Rapid heartbeat, sweating",No known history,Aspirin,High cholesterol,Sedentary,"Sudden weight loss unexplained, requires evaluation",Respiratory Infection,High
+P0003,29,Male,"Shortness of breath, dizziness",Arthritis,Omeprazole,Irregular heartbeat detected,Drinker,"Sudden weight loss unexplained, requires evaluation",Migraine,Low
+P0007,36,Female,"Rapid heartbeat, sweating",High cholesterol,Metformin,Low oxygen levels,Active,"Patient forgets daily activities, early dementia suspected",Gastroenteritis,Low
+P0312,38,Male,"High fever, body aches",High cholesterol,Donepezil,Normal sugar,Smoker,"Blurry vision, check for diabetes",Migraine,Medium
+P1168,70,Female,"Nausea, vomiting",Asthma,Ibuprofen,High blood pressure,Smoker,"Suspected infection, prescribed antibiotics",Cancer Screening Needed,Medium
+P0939,22,Male,"High fever, body aches",Hypertension,Ibuprofen,Low oxygen levels,Drinker,Mild symptoms but family history is concerning,Alzheimer's,High
+P1478,36,Female,"Thirst, frequent urination",Kidney disease,Lisinopril,Brain scan abnormality,Healthy diet,Mild symptoms but family history is concerning,Hypertension,Medium
+P0216,43,Female,"Blurred vision, headaches",Hypertension,Donepezil,Low oxygen levels,Healthy diet,"Blurry vision, check for diabetes",Respiratory Infection,High
+P1321,38,Female,"Chest pain, fatigue",Diabetes,Ibuprofen,High blood sugar,Sedentary,"Nausea reported, possible gastrointestinal issue",Cancer Screening Needed,Low
+P0028,75,Male,"Chest pain, fatigue",Alzheimer's in family,Levothyroxine,Low white blood cell count,Drinker,"Reports difficulty breathing, requires further testing",Arthritis,Low
+P1466,61,Male,"Nausea, vomiting",Cancer history,Donepezil,High blood pressure,Healthy diet,"Reports difficulty breathing, requires further testing",Heart Disease,High
+P1025,51,Female,"Blurred vision, headaches",Cancer history,Aspirin,Elevated liver enzymes,Overweight,"Blurry vision, check for diabetes",Migraine,Medium
+P0786,79,Male,"Rapid heartbeat, sweating",Stroke history,Atorvastatin,Normal sugar,Overweight,"Blurry vision, check for diabetes",Heart Disease,Medium
+P0639,32,Female,"Sudden weight loss, tiredness",Cancer history,Lisinopril,Elevated liver enzymes,Active,"Suspected infection, prescribed antibiotics",Cancer Screening Needed,High
+P0830,34,Female,"Nausea, vomiting",No known history,,High blood pressure,Overweight,"Nausea reported, possible gastrointestinal issue",Diabetes,Low
+P0827,62,Male,"Blurred vision, headaches",Diabetes,Ibuprofen,Irregular heartbeat detected,Smoker,"Patient forgets daily activities, early dementia suspected",Migraine,Medium
+P0625,49,Female,"Blurred vision, headaches",Stroke history,Aspirin,Normal sugar,Healthy diet,"Patient experiences chest discomfort, possible cardiac issue",Cancer Screening Needed,Low
+P0850,62,Female,"Shortness of breath, dizziness",Asthma,,Low white blood cell count,Smoker,"Nausea reported, possible gastrointestinal issue",Gastroenteritis,Medium
+P0257,74,Male,"Memory loss, confusion",Arthritis,Insulin,Low white blood cell count,Active,"Sudden weight loss unexplained, requires evaluation",Heart Disease,High
+P0026,31,Female,"Memory loss, confusion",Hypertension,Metformin,Brain scan abnormality,Overweight,"Sudden weight loss unexplained, requires evaluation",Gastroenteritis,Medium
+P0337,80,Male,"High fever, body aches",Alzheimer's in family,Donepezil,Low oxygen levels,Overweight,"Blurry vision, check for diabetes",Respiratory Infection,High
+P0573,52,Female,"Sudden weight loss, tiredness",Cancer history,Levothyroxine,Elevated liver enzymes,Healthy diet,"Patient experiences chest discomfort, possible cardiac issue",Diabetes,High
+P0048,54,Female,"Rapid heartbeat, sweating",Hypertension,Omeprazole,Normal sugar,Active,"Nausea reported, possible gastrointestinal issue",Migraine,Low
+P0107,72,Female,"Memory loss, confusion",Stroke history,Levothyroxine,Irregular heartbeat detected,Smoker,"Patient forgets daily activities, early dementia suspected",Respiratory Infection,Low
+P0350,49,Male,"Shortness of breath, dizziness",Arthritis,,Normal MRI,Healthy diet,"Blurry vision, check for diabetes",Arrhythmia,High
+P0056,44,Female,"Joint pain, swelling",Kidney disease,Aspirin,Normal MRI,Smoker,"Joint pain worsening, recommended physical therapy",Arthritis,Medium
+P0809,37,Male,"Joint pain, swelling",Arthritis,Lisinopril,Low white blood cell count,Smoker,"Suspected infection, prescribed antibiotics",Alzheimer's,High
+P0214,42,Female,"Joint pain, swelling",No known history,Insulin,Brain scan abnormality,Sedentary,"Patient experiences chest discomfort, possible cardiac issue",Diabetes,Low
+P0121,54,Male,"Shortness of breath, dizziness",No known history,Ibuprofen,High blood sugar,Smoker,"Sudden weight loss unexplained, requires evaluation",Cancer Screening Needed,Low
+P0870,79,Female,"Nausea, vomiting",Arthritis,Aspirin,Normal sugar,Overweight,"Sudden weight loss unexplained, requires evaluation",Migraine,Low
+P0856,27,Female,"Rapid heartbeat, sweating",High cholesterol,,Brain scan abnormality,Active,"Patient forgets daily activities, early dementia suspected",Gastroenteritis,Medium
+P0073,59,Male,"Chest pain, fatigue",Diabetes,Omeprazole,High blood sugar,Healthy diet,"Heart palpitations observed, needs ECG",Arrhythmia,Low
+P1381,24,Female,"Sudden weight loss, tiredness",Asthma,Lisinopril,Low white blood cell count,Healthy diet,"Patient experiences chest discomfort, possible cardiac issue",Migraine,Medium
+P0721,55,Female,"High fever, body aches",Diabetes,Omeprazole,Elevated liver enzymes,Healthy diet,Mild symptoms but family history is concerning,Hypertension,Low
+P0046,37,Male,"Sudden weight loss, tiredness",Cancer history,Levothyroxine,High cholesterol,Smoker,"Reports difficulty breathing, requires further testing",Migraine,Medium
+P1264,29,Female,"Rapid heartbeat, sweating",High cholesterol,Atorvastatin,High cholesterol,Overweight,Mild symptoms but family history is concerning,Respiratory Infection,Medium
+P0524,36,Male,"Chest pain, fatigue",No known history,Aspirin,Brain scan abnormality,Drinker,"Blurry vision, check for diabetes",Cancer Screening Needed,Medium
+P0869,49,Male,"Blurred vision, headaches",Hypertension,Levothyroxine,Normal MRI,Drinker,Mild symptoms but family history is concerning,Alzheimer's,High
+P1108,24,Male,"Sudden weight loss, tiredness",Stroke history,Ibuprofen,High blood sugar,Active,"Patient experiences chest discomfort, possible cardiac issue",Respiratory Infection,Low
+P1275,72,Male,"Memory loss, confusion",Asthma,,High blood pressure,Overweight,"Heart palpitations observed, needs ECG",Arthritis,High
+P0803,77,Female,"Memory loss, confusion",Arthritis,Lisinopril,High cholesterol,Sedentary,"Suspected infection, prescribed antibiotics",Gastroenteritis,Low
+P0534,45,Female,"Sudden weight loss, tiredness",Kidney disease,Lisinopril,High cholesterol,Smoker,"Blurry vision, check for diabetes",Cancer Screening Needed,High
+P1138,31,Female,"Rapid heartbeat, sweating",Diabetes,Insulin,High blood sugar,Healthy diet,"Nausea reported, possible gastrointestinal issue",Heart Disease,High
+P0604,56,Male,"Memory loss, confusion",High cholesterol,Omeprazole,High cholesterol,Sedentary,"Reports difficulty breathing, requires further testing",Migraine,Low
+P0466,75,Male,"Sudden weight loss, tiredness",Diabetes,Insulin,High blood pressure,Active,"Nausea reported, possible gastrointestinal issue",Gastroenteritis,Medium
+P1203,42,Male,"Joint pain, swelling",Hypertension,Atorvastatin,Elevated liver enzymes,Healthy diet,"Sudden weight loss unexplained, requires evaluation",Diabetes,Low
+P1278,23,Male,"Thirst, frequent urination",Hypertension,Metformin,High blood sugar,Overweight,"Blurry vision, check for diabetes",Gastroenteritis,Medium
+P1444,58,Female,"High fever, body aches",Alzheimer's in family,Donepezil,High blood pressure,Smoker,"Sudden weight loss unexplained, requires evaluation",Respiratory Infection,Medium
+P0989,20,Female,"Sudden weight loss, tiredness",High cholesterol,Omeprazole,Normal MRI,Active,"Nausea reported, possible gastrointestinal issue",Arthritis,High
+P0061,62,Male,"Blurred vision, headaches",Cancer history,Aspirin,Irregular heartbeat detected,Healthy diet,"Patient forgets daily activities, early dementia suspected",Alzheimer's,Low
+P0886,41,Male,"Rapid heartbeat, sweating",Diabetes,Lisinopril,Irregular heartbeat detected,Smoker,"Blurry vision, check for diabetes",Hypertension,High
+P0093,47,Male,"Shortness of breath, dizziness",No known history,Aspirin,Low oxygen levels,Smoker,"Sudden weight loss unexplained, requires evaluation",Diabetes,Low
+P0667,71,Male,"Joint pain, swelling",High cholesterol,Omeprazole,Irregular heartbeat detected,Drinker,"Joint pain worsening, recommended physical therapy",Respiratory Infection,Medium
+P0706,20,Male,"Thirst, frequent urination",High cholesterol,Atorvastatin,Brain scan abnormality,Healthy diet,"Nausea reported, possible gastrointestinal issue",Hypertension,High
+P0195,28,Male,"Joint pain, swelling",Asthma,,High blood pressure,Overweight,"Sudden weight loss unexplained, requires evaluation",Arthritis,Low
+P0281,53,Male,"Sudden weight loss, tiredness",Kidney disease,Ibuprofen,High blood sugar,Sedentary,"Blurry vision, check for diabetes",Gastroenteritis,Medium
+P0696,46,Female,"Chest pain, fatigue",Kidney disease,Metformin,High blood pressure,Sedentary,"Patient experiences chest discomfort, possible cardiac issue",Arthritis,Low
+P0360,21,Male,"Rapid heartbeat, sweating",Hypertension,Omeprazole,Irregular heartbeat detected,Smoker,"Suspected infection, prescribed antibiotics",Hypertension,High
+P0520,78,Male,"Rapid heartbeat, sweating",Asthma,Donepezil,Normal MRI,Sedentary,"Joint pain worsening, recommended physical therapy",Arthritis,High
+P0813,46,Female,"Chest pain, fatigue",No known history,Donepezil,High blood sugar,Smoker,"Reports difficulty breathing, requires further testing",Hypertension,High
+P0768,29,Female,"Rapid heartbeat, sweating",Hypertension,Insulin,High blood pressure,Healthy diet,"Blurry vision, check for diabetes",Alzheimer's,Low
+P0183,65,Male,"Nausea, vomiting",Asthma,Aspirin,Normal sugar,Overweight,"Suspected infection, prescribed antibiotics",Gastroenteritis,Medium
+P1487,61,Male,"Shortness of breath, dizziness",Asthma,Atorvastatin,Low white blood cell count,Overweight,"Patient experiences chest discomfort, possible cardiac issue",Cancer Screening Needed,Medium
+P0111,49,Female,"Thirst, frequent urination",Cancer history,Omeprazole,Low oxygen levels,Active,"Sudden weight loss unexplained, requires evaluation",Arthritis,Medium
+P0043,29,Female,"Joint pain, swelling",Kidney disease,Omeprazole,High blood sugar,Sedentary,"Patient experiences chest discomfort, possible cardiac issue",Arrhythmia,Low
+P1007,80,Female,"Joint pain, swelling",Alzheimer's in family,Donepezil,Brain scan abnormality,Active,"Joint pain worsening, recommended physical therapy",Cancer Screening Needed,Low
+P0205,28,Female,"Memory loss, confusion",No known history,Donepezil,Normal MRI,Overweight,"Blurry vision, check for diabetes",Gastroenteritis,High
+P0821,32,Male,"Joint pain, swelling",Alzheimer's in family,Metformin,Normal sugar,Overweight,"Joint pain worsening, recommended physical therapy",Alzheimer's,Medium
+P0053,66,Female,"Thirst, frequent urination",High cholesterol,Insulin,Normal MRI,Sedentary,"Patient forgets daily activities, early dementia suspected",Heart Disease,Medium
+P0546,70,Female,"Nausea, vomiting",Stroke history,,Low white blood cell count,Active,"Patient forgets daily activities, early dementia suspected",Cancer Screening Needed,High
+P1132,63,Male,"Nausea, vomiting",Cancer history,,High blood pressure,Drinker,"Patient forgets daily activities, early dementia suspected",Heart Disease,Low
+P1158,31,Male,"Joint pain, swelling",No known history,Levothyroxine,High cholesterol,Active,"Patient experiences chest discomfort, possible cardiac issue",Respiratory Infection,Low
+P1468,38,Male,"Nausea, vomiting",High cholesterol,Insulin,Low oxygen levels,Active,"Nausea reported, possible gastrointestinal issue",Heart Disease,High
+P0911,79,Male,"Nausea, vomiting",Alzheimer's in family,Omeprazole,Brain scan abnormality,Healthy diet,"Reports difficulty breathing, requires further testing",Diabetes,Low
+P0184,70,Female,"Nausea, vomiting",Alzheimer's in family,Aspirin,Brain scan abnormality,Healthy diet,"Patient forgets daily activities, early dementia suspected",Heart Disease,High
+P0138,57,Female,"Shortness of breath, dizziness",Cancer history,,Low oxygen levels,Active,"Sudden weight loss unexplained, requires evaluation",Heart Disease,Medium
+P1150,66,Female,"Rapid heartbeat, sweating",Cancer history,Lisinopril,Normal MRI,Drinker,"Heart palpitations observed, needs ECG",Gastroenteritis,Medium
+P0081,36,Male,"High fever, body aches",Cancer history,,High blood sugar,Overweight,"Sudden weight loss unexplained, requires evaluation",Respiratory Infection,Low
+P1213,51,Female,"Blurred vision, headaches",Hypertension,Metformin,High blood pressure,Sedentary,"Joint pain worsening, recommended physical therapy",Cancer Screening Needed,High
+P0106,63,Female,"Thirst, frequent urination",Stroke history,Lisinopril,Low white blood cell count,Healthy diet,"Blurry vision, check for diabetes",Arthritis,Medium
+P0542,53,Female,"Sudden weight loss, tiredness",Arthritis,Donepezil,High blood pressure,Smoker,"Joint pain worsening, recommended physical therapy",Heart Disease,Low
+P1314,50,Male,"Joint pain, swelling",Hypertension,Insulin,Elevated liver enzymes,Healthy diet,"Reports difficulty breathing, requires further testing",Cancer Screening Needed,High
+P0481,20,Female,"Thirst, frequent urination",Cancer history,Lisinopril,Elevated liver enzymes,Healthy diet,"Reports difficulty breathing, requires further testing",Migraine,High
+P0166,21,Male,"Nausea, vomiting",Asthma,,Elevated liver enzymes,Active,"Heart palpitations observed, needs ECG",Diabetes,High
+P0249,76,Female,"Shortness of breath, dizziness",Diabetes,Donepezil,High blood pressure,Overweight,"Patient forgets daily activities, early dementia suspected",Gastroenteritis,Medium
+P0308,59,Male,"Nausea, vomiting",High cholesterol,Aspirin,Elevated liver enzymes,Active,"Sudden weight loss unexplained, requires evaluation",Respiratory Infection,Low
+P0447,34,Male,"Thirst, frequent urination",Kidney disease,Donepezil,Elevated liver enzymes,Active,"Blurry vision, check for diabetes",Gastroenteritis,High
+P0747,25,Female,"Shortness of breath, dizziness",High cholesterol,Insulin,High blood sugar,Smoker,"Heart palpitations observed, needs ECG",Hypertension,High
+P0335,61,Male,"Blurred vision, headaches",No known history,Lisinopril,Low white blood cell count,Healthy diet,Mild symptoms but family history is concerning,Diabetes,High
+P0098,26,Female,"High fever, body aches",Diabetes,Omeprazole,Low oxygen levels,Healthy diet,"Reports difficulty breathing, requires further testing",Hypertension,Medium
+P0760,48,Male,"Sudden weight loss, tiredness",Cancer history,Aspirin,Low oxygen levels,Drinker,"Nausea reported, possible gastrointestinal issue",Hypertension,Low
+P0738,57,Male,"Nausea, vomiting",Diabetes,Insulin,Normal MRI,Sedentary,Mild symptoms but family history is concerning,Diabetes,High
+P0837,37,Female,"Memory loss, confusion",No known history,Ibuprofen,Normal sugar,Active,"Patient forgets daily activities, early dementia suspected",Heart Disease,High
+P0943,23,Male,"Shortness of breath, dizziness",Cancer history,Donepezil,High cholesterol,Smoker,"Heart palpitations observed, needs ECG",Diabetes,Low
+P0103,77,Female,"Chest pain, fatigue",Cancer history,Aspirin,Low white blood cell count,Overweight,Mild symptoms but family history is concerning,Migraine,Medium
+P0435,36,Female,"Shortness of breath, dizziness",Cancer history,Lisinopril,High cholesterol,Sedentary,"Joint pain worsening, recommended physical therapy",Diabetes,Medium
+P0075,79,Female,"Rapid heartbeat, sweating",No known history,,High blood pressure,Smoker,"Blurry vision, check for diabetes",Arthritis,High
+P1341,21,Female,"Memory loss, confusion",Hypertension,Lisinopril,High blood pressure,Healthy diet,"Heart palpitations observed, needs ECG",Gastroenteritis,Medium
+P1125,66,Male,"High fever, body aches",Hypertension,Aspirin,Elevated liver enzymes,Sedentary,"Nausea reported, possible gastrointestinal issue",Alzheimer's,High
+P1360,48,Female,"Nausea, vomiting",Asthma,Insulin,High blood sugar,Drinker,"Blurry vision, check for diabetes",Diabetes,Low
+P0303,56,Female,"Rapid heartbeat, sweating",Arthritis,Levothyroxine,Low oxygen levels,Overweight,"Blurry vision, check for diabetes",Diabetes,High
+P1263,55,Female,"Rapid heartbeat, sweating",Arthritis,Lisinopril,Low oxygen levels,Sedentary,"Patient forgets daily activities, early dementia suspected",Arthritis,High
+P1224,53,Male,"Nausea, vomiting",Asthma,Levothyroxine,Low oxygen levels,Overweight,Mild symptoms but family history is concerning,Arthritis,High
+P0734,31,Female,"Memory loss, confusion",No known history,Lisinopril,High blood pressure,Active,"Reports difficulty breathing, requires further testing",Alzheimer's,High
+P0389,76,Female,"Blurred vision, headaches",Kidney disease,Donepezil,High blood sugar,Active,"Patient experiences chest discomfort, possible cardiac issue",Cancer Screening Needed,Low
+P0236,22,Female,"Joint pain, swelling",Arthritis,Omeprazole,Low white blood cell count,Sedentary,"Nausea reported, possible gastrointestinal issue",Gastroenteritis,High
+P1246,76,Female,"Nausea, vomiting",Cancer history,Donepezil,Irregular heartbeat detected,Sedentary,"Sudden weight loss unexplained, requires evaluation",Arthritis,High
+P0268,72,Male,"Memory loss, confusion",Arthritis,Omeprazole,High blood sugar,Healthy diet,"Nausea reported, possible gastrointestinal issue",Cancer Screening Needed,High
+P0306,54,Male,"Memory loss, confusion",Diabetes,Insulin,Low oxygen levels,Healthy diet,"Nausea reported, possible gastrointestinal issue",Arrhythmia,Medium
+P0118,31,Female,"Chest pain, fatigue",Hypertension,Lisinopril,Elevated liver enzymes,Healthy diet,"Patient forgets daily activities, early dementia suspected",Arrhythmia,Medium
+P1212,52,Male,"Memory loss, confusion",Kidney disease,Omeprazole,Normal sugar,Overweight,"Blurry vision, check for diabetes",Alzheimer's,Low
+P0674,59,Female,"Joint pain, swelling",Asthma,Lisinopril,Normal MRI,Smoker,"Suspected infection, prescribed antibiotics",Hypertension,Medium
+P0250,68,Male,"Blurred vision, headaches",Stroke history,Ibuprofen,Brain scan abnormality,Healthy diet,"Joint pain worsening, recommended physical therapy",Respiratory Infection,Medium
+P1094,28,Male,"Nausea, vomiting",Arthritis,,Low oxygen levels,Smoker,"Joint pain worsening, recommended physical therapy",Heart Disease,Medium
+P1080,46,Male,"Joint pain, swelling",Stroke history,Metformin,Low white blood cell count,Sedentary,"Heart palpitations observed, needs ECG",Arthritis,Low
+P0072,29,Male,"Rapid heartbeat, sweating",Cancer history,Donepezil,Low oxygen levels,Smoker,"Sudden weight loss unexplained, requires evaluation",Cancer Screening Needed,Low
+P0095,65,Male,"Joint pain, swelling",Hypertension,Lisinopril,Normal sugar,Overweight,"Reports difficulty breathing, requires further testing",Alzheimer's,High
+P0848,71,Male,"Thirst, frequent urination",Stroke history,Levothyroxine,Normal sugar,Smoker,"Sudden weight loss unexplained, requires evaluation",Hypertension,Medium
+P0034,51,Female,"Shortness of breath, dizziness",Diabetes,Donepezil,Elevated liver enzymes,Drinker,"Heart palpitations observed, needs ECG",Arthritis,High
+P1101,33,Female,"Sudden weight loss, tiredness",Hypertension,Levothyroxine,Normal MRI,Drinker,"Patient experiences chest discomfort, possible cardiac issue",Migraine,Low
+P0449,53,Male,"Nausea, vomiting",Asthma,,Irregular heartbeat detected,Drinker,"Sudden weight loss unexplained, requires evaluation",Respiratory Infection,High
+P0446,22,Female,"High fever, body aches",Arthritis,Metformin,Irregular heartbeat detected,Overweight,"Patient forgets daily activities, early dementia suspected",Cancer Screening Needed,Medium
+P0772,57,Female,"Joint pain, swelling",No known history,Lisinopril,Low oxygen levels,Smoker,"Heart palpitations observed, needs ECG",Gastroenteritis,High
+P0717,72,Male,"Joint pain, swelling",High cholesterol,Donepezil,Brain scan abnormality,Overweight,"Heart palpitations observed, needs ECG",Respiratory Infection,Medium
+P0887,24,Female,"Thirst, frequent urination",Cancer history,Aspirin,Normal MRI,Sedentary,"Suspected infection, prescribed antibiotics",Respiratory Infection,Medium
+P1245,59,Female,"Joint pain, swelling",Diabetes,Omeprazole,Low white blood cell count,Smoker,"Reports difficulty breathing, requires further testing",Respiratory Infection,High
+P0901,68,Male,"Memory loss, confusion",Stroke history,Aspirin,Elevated liver enzymes,Smoker,"Patient forgets daily activities, early dementia suspected",Alzheimer's,Low
+P1036,78,Male,"Sudden weight loss, tiredness",No known history,Omeprazole,Low white blood cell count,Sedentary,"Patient experiences chest discomfort, possible cardiac issue",Respiratory Infection,High
+P0078,80,Female,"Joint pain, swelling",Hypertension,Metformin,Low oxygen levels,Healthy diet,"Nausea reported, possible gastrointestinal issue",Respiratory Infection,Low
+P0085,79,Male,"Blurred vision, headaches",Alzheimer's in family,Donepezil,High cholesterol,Overweight,"Nausea reported, possible gastrointestinal issue",Heart Disease,Low
+P0835,42,Female,"Rapid heartbeat, sweating",Kidney disease,Insulin,High blood sugar,Overweight,Mild symptoms but family history is concerning,Diabetes,High
+P0083,62,Male,"Rapid heartbeat, sweating",Hypertension,Aspirin,High cholesterol,Sedentary,Mild symptoms but family history is concerning,Cancer Screening Needed,High
+P0458,63,Female,"Shortness of breath, dizziness",Alzheimer's in family,Donepezil,Brain scan abnormality,Active,"Blurry vision, check for diabetes",Hypertension,Low
+P0919,26,Female,"Nausea, vomiting",No known history,Donepezil,Elevated liver enzymes,Drinker,"Patient experiences chest discomfort, possible cardiac issue",Arthritis,Low
+P0677,38,Male,"Memory loss, confusion",Hypertension,Insulin,Low white blood cell count,Smoker,"Suspected infection, prescribed antibiotics",Diabetes,Low
+P0985,53,Male,"Nausea, vomiting",Asthma,Donepezil,Normal MRI,Sedentary,"Joint pain worsening, recommended physical therapy",Respiratory Infection,Medium
+P1240,59,Female,"Rapid heartbeat, sweating",High cholesterol,,High blood sugar,Healthy diet,"Reports difficulty breathing, requires further testing",Arthritis,Low
+P0437,28,Male,"Sudden weight loss, tiredness",Diabetes,Levothyroxine,Elevated liver enzymes,Smoker,Mild symptoms but family history is concerning,Arrhythmia,High
+P0771,40,Female,"Thirst, frequent urination",Alzheimer's in family,Donepezil,Low oxygen levels,Drinker,"Suspected infection, prescribed antibiotics",Migraine,Medium
+P0645,33,Female,"Chest pain, fatigue",Cancer history,Aspirin,High blood sugar,Healthy diet,"Reports difficulty breathing, requires further testing",Diabetes,Low
+P1120,35,Female,"Sudden weight loss, tiredness",Stroke history,Lisinopril,Normal MRI,Healthy diet,"Reports difficulty breathing, requires further testing",Cancer Screening Needed,Low
+P0906,42,Male,"Memory loss, confusion",Asthma,Insulin,High blood pressure,Drinker,"Patient experiences chest discomfort, possible cardiac issue",Hypertension,Low
+P1194,35,Male,"Nausea, vomiting",Stroke history,Insulin,High cholesterol,Smoker,"Nausea reported, possible gastrointestinal issue",Alzheimer's,Medium
+P0405,71,Male,"Memory loss, confusion",Hypertension,Atorvastatin,High blood sugar,Overweight,"Nausea reported, possible gastrointestinal issue",Gastroenteritis,Low
+P1304,62,Female,"Nausea, vomiting",High cholesterol,Levothyroxine,Irregular heartbeat detected,Drinker,"Suspected infection, prescribed antibiotics",Arrhythmia,Medium
+P0934,27,Male,"Sudden weight loss, tiredness",Cancer history,Metformin,Brain scan abnormality,Smoker,"Suspected infection, prescribed antibiotics",Hypertension,Medium
+P1486,38,Female,"Memory loss, confusion",Alzheimer's in family,Lisinopril,High blood pressure,Drinker,"Sudden weight loss unexplained, requires evaluation",Hypertension,High
+P0105,30,Female,"Shortness of breath, dizziness",Alzheimer's in family,Atorvastatin,High blood sugar,Sedentary,"Suspected infection, prescribed antibiotics",Alzheimer's,Medium
+P0610,72,Male,"Rapid heartbeat, sweating",Kidney disease,Atorvastatin,Low oxygen levels,Sedentary,"Sudden weight loss unexplained, requires evaluation",Cancer Screening Needed,High
+P1456,42,Male,"Joint pain, swelling",Diabetes,Levothyroxine,Normal MRI,Drinker,"Reports difficulty breathing, requires further testing",Migraine,Low
+P0689,23,Male,"Joint pain, swelling",Cancer history,Levothyroxine,High cholesterol,Sedentary,"Sudden weight loss unexplained, requires evaluation",Arthritis,High
+P0949,70,Male,"Rapid heartbeat, sweating",High cholesterol,Atorvastatin,Low oxygen levels,Drinker,"Heart palpitations observed, needs ECG",Diabetes,Low
+P0932,36,Male,"Rapid heartbeat, sweating",Arthritis,Insulin,High cholesterol,Active,"Joint pain worsening, recommended physical therapy",Migraine,Low
+P0063,51,Male,"Nausea, vomiting",Cancer history,Insulin,Elevated liver enzymes,Active,"Heart palpitations observed, needs ECG",Diabetes,Medium
+P0282,59,Male,"Chest pain, fatigue",High cholesterol,Levothyroxine,Elevated liver enzymes,Active,"Heart palpitations observed, needs ECG",Cancer Screening Needed,High
+P0779,64,Female,"Sudden weight loss, tiredness",Hypertension,Levothyroxine,Low oxygen levels,Overweight,"Heart palpitations observed, needs ECG",Hypertension,Medium
+P1394,28,Female,"Shortness of breath, dizziness",Hypertension,Atorvastatin,High cholesterol,Drinker,"Reports difficulty breathing, requires further testing",Arthritis,Low
+P0239,50,Male,"Sudden weight loss, tiredness",Asthma,Metformin,Normal MRI,Sedentary,"Blurry vision, check for diabetes",Hypertension,High
+P0224,61,Male,"High fever, body aches",Diabetes,Insulin,High blood pressure,Drinker,"Blurry vision, check for diabetes",Arrhythmia,Low
+P0146,40,Male,"High fever, body aches",Asthma,Omeprazole,Low white blood cell count,Overweight,"Nausea reported, possible gastrointestinal issue",Diabetes,Low
+P1399,31,Female,"High fever, body aches",Stroke history,Metformin,High blood pressure,Healthy diet,"Joint pain worsening, recommended physical therapy",Arrhythmia,Low
+P0374,77,Male,"High fever, body aches",Arthritis,,Low oxygen levels,Overweight,"Suspected infection, prescribed antibiotics",Heart Disease,High
+P1229,56,Male,"Nausea, vomiting",Cancer history,Lisinopril,High cholesterol,Healthy diet,"Heart palpitations observed, needs ECG",Cancer Screening Needed,Medium
+P0119,37,Male,"Rapid heartbeat, sweating",Hypertension,Aspirin,High blood pressure,Active,"Blurry vision, check for diabetes",Heart Disease,High
+P1167,53,Male,"Chest pain, fatigue",Asthma,,Low white blood cell count,Overweight,"Suspected infection, prescribed antibiotics",Hypertension,Medium
+P0251,25,Female,"Rapid heartbeat, sweating",Cancer history,Ibuprofen,High blood sugar,Overweight,"Sudden weight loss unexplained, requires evaluation",Heart Disease,Medium
+P1445,48,Female,"Thirst, frequent urination",No known history,Metformin,High blood sugar,Smoker,"Nausea reported, possible gastrointestinal issue",Alzheimer's,High
+P1023,70,Male,"Blurred vision, headaches",Asthma,Aspirin,High blood sugar,Healthy diet,"Patient experiences chest discomfort, possible cardiac issue",Migraine,Low
+P0010,35,Female,"Nausea, vomiting",Cancer history,Donepezil,High blood pressure,Healthy diet,"Heart palpitations observed, needs ECG",Heart Disease,High
+P0450,73,Male,"Blurred vision, headaches",Kidney disease,Atorvastatin,High blood sugar,Drinker,"Patient forgets daily activities, early dementia suspected",Diabetes,Low
+P0883,45,Female,"Nausea, vomiting",Hypertension,Levothyroxine,Irregular heartbeat detected,Sedentary,"Reports difficulty breathing, requires further testing",Hypertension,Low
+P0709,51,Male,"Blurred vision, headaches",Cancer history,Insulin,Low oxygen levels,Overweight,"Sudden weight loss unexplained, requires evaluation",Respiratory Infection,High
+P0256,74,Male,"Blurred vision, headaches",No known history,Metformin,Low oxygen levels,Active,"Heart palpitations observed, needs ECG",Cancer Screening Needed,High
+P0594,72,Female,"Joint pain, swelling",Diabetes,Atorvastatin,Normal MRI,Active,"Patient experiences chest discomfort, possible cardiac issue",Arthritis,Medium
+P0390,78,Female,"Memory loss, confusion",Arthritis,Insulin,Irregular heartbeat detected,Overweight,"Joint pain worsening, recommended physical therapy",Hypertension,High
+P1088,60,Male,"Shortness of breath, dizziness",Arthritis,Aspirin,Normal sugar,Healthy diet,"Blurry vision, check for diabetes",Cancer Screening Needed,High
+P1201,36,Female,"Blurred vision, headaches",Kidney disease,Insulin,Irregular heartbeat detected,Healthy diet,Mild symptoms but family history is concerning,Arrhythmia,Medium
+P0558,35,Female,"Nausea, vomiting",Hypertension,Lisinopril,Irregular heartbeat detected,Healthy diet,"Heart palpitations observed, needs ECG",Alzheimer's,High
+P1288,78,Male,"Chest pain, fatigue",No known history,Atorvastatin,Low white blood cell count,Healthy diet,"Reports difficulty breathing, requires further testing",Alzheimer's,Medium
+P0840,43,Female,"Shortness of breath, dizziness",Cancer history,Aspirin,High blood pressure,Drinker,Mild symptoms but family history is concerning,Respiratory Infection,Medium
+P0461,27,Female,"Joint pain, swelling",Kidney disease,Aspirin,Brain scan abnormality,Active,"Reports difficulty breathing, requires further testing",Heart Disease,High
+P0724,66,Female,"Nausea, vomiting",Arthritis,,High blood sugar,Active,"Blurry vision, check for diabetes",Heart Disease,Medium
+P1382,66,Female,"Blurred vision, headaches",Hypertension,Levothyroxine,Low white blood cell count,Healthy diet,"Patient experiences chest discomfort, possible cardiac issue",Cancer Screening Needed,Medium
+P0145,61,Female,"Joint pain, swelling",Asthma,Levothyroxine,Irregular heartbeat detected,Smoker,"Blurry vision, check for diabetes",Diabetes,Low
+P0502,49,Male,"Rapid heartbeat, sweating",Hypertension,Omeprazole,Low white blood cell count,Smoker,"Patient experiences chest discomfort, possible cardiac issue",Cancer Screening Needed,Medium
+P1099,31,Male,"Joint pain, swelling",Cancer history,Lisinopril,Irregular heartbeat detected,Sedentary,"Nausea reported, possible gastrointestinal issue",Alzheimer's,Low
+P0740,59,Male,"Rapid heartbeat, sweating",Stroke history,Metformin,Low white blood cell count,Smoker,"Suspected infection, prescribed antibiotics",Heart Disease,High
+P1385,52,Female,"Rapid heartbeat, sweating",Arthritis,Levothyroxine,Normal MRI,Overweight,"Heart palpitations observed, needs ECG",Heart Disease,Low
+P0732,56,Female,"Sudden weight loss, tiredness",Cancer history,Lisinopril,High blood sugar,Healthy diet,"Patient forgets daily activities, early dementia suspected",Hypertension,Medium
+P0540,57,Female,"Sudden weight loss, tiredness",Diabetes,Aspirin,Normal sugar,Drinker,Mild symptoms but family history is concerning,Hypertension,Medium
+P0178,69,Female,"High fever, body aches",Alzheimer's in family,Omeprazole,Brain scan abnormality,Drinker,"Reports difficulty breathing, requires further testing",Hypertension,Medium
+P1447,57,Female,"Shortness of breath, dizziness",High cholesterol,,Brain scan abnormality,Drinker,"Heart palpitations observed, needs ECG",Migraine,High
+P0698,73,Male,"Blurred vision, headaches",Kidney disease,Lisinopril,Brain scan abnormality,Sedentary,"Patient forgets daily activities, early dementia suspected",Migraine,Low
+P0941,24,Female,"Nausea, vomiting",High cholesterol,Omeprazole,Normal sugar,Smoker,"Patient experiences chest discomfort, possible cardiac issue",Hypertension,Medium
+P1050,28,Male,"High fever, body aches",Cancer history,Ibuprofen,Brain scan abnormality,Overweight,"Suspected infection, prescribed antibiotics",Diabetes,High
+P0923,51,Female,"Chest pain, fatigue",Arthritis,Lisinopril,Low white blood cell count,Active,"Patient experiences chest discomfort, possible cardiac issue",Migraine,High
+P0899,25,Female,"Shortness of breath, dizziness",Alzheimer's in family,,Brain scan abnormality,Smoker,Mild symptoms but family history is concerning,Arthritis,Medium
+P1493,55,Female,"Chest pain, fatigue",Arthritis,Ibuprofen,Normal sugar,Overweight,"Sudden weight loss unexplained, requires evaluation",Cancer Screening Needed,Medium
+P0008,24,Female,"Chest pain, fatigue",Hypertension,Ibuprofen,Irregular heartbeat detected,Sedentary,"Patient forgets daily activities, early dementia suspected",Heart Disease,Low
+P0863,77,Female,"Blurred vision, headaches",Asthma,Omeprazole,Low white blood cell count,Overweight,"Joint pain worsening, recommended physical therapy",Diabetes,Medium
+P0668,52,Female,"Sudden weight loss, tiredness",Alzheimer's in family,Levothyroxine,Low white blood cell count,Sedentary,"Nausea reported, possible gastrointestinal issue",Diabetes,Low
+P1161,69,Female,"Joint pain, swelling",Hypertension,Ibuprofen,Low white blood cell count,Active,"Patient experiences chest discomfort, possible cardiac issue",Hypertension,Low
+P0358,64,Female,"Thirst, frequent urination",Asthma,Levothyroxine,Normal sugar,Sedentary,Mild symptoms but family history is concerning,Arthritis,Low
+P0784,62,Female,"Sudden weight loss, tiredness",Arthritis,Insulin,Normal sugar,Healthy diet,"Blurry vision, check for diabetes",Respiratory Infection,Medium
+P0736,52,Female,"Thirst, frequent urination",No known history,Donepezil,High blood sugar,Smoker,"Suspected infection, prescribed antibiotics",Gastroenteritis,Low
+P0330,71,Female,"Sudden weight loss, tiredness",Alzheimer's in family,Metformin,Normal sugar,Sedentary,"Patient experiences chest discomfort, possible cardiac issue",Cancer Screening Needed,High
+P1056,75,Female,"Memory loss, confusion",Alzheimer's in family,Levothyroxine,Irregular heartbeat detected,Healthy diet,"Patient forgets daily activities, early dementia suspected",Arthritis,High
+P1149,30,Male,"Memory loss, confusion",Alzheimer's in family,Omeprazole,Irregular heartbeat detected,Overweight,"Blurry vision, check for diabetes",Alzheimer's,Low
+P1118,23,Male,"Chest pain, fatigue",Cancer history,Levothyroxine,High cholesterol,Overweight,"Sudden weight loss unexplained, requires evaluation",Cancer Screening Needed,High
+P0259,65,Female,"Nausea, vomiting",Arthritis,Atorvastatin,Normal sugar,Smoker,"Reports difficulty breathing, requires further testing",Gastroenteritis,Medium
+P1176,55,Female,"Sudden weight loss, tiredness",Stroke history,Ibuprofen,Elevated liver enzymes,Drinker,"Reports difficulty breathing, requires further testing",Migraine,Low
+P0373,26,Female,"Rapid heartbeat, sweating",Kidney disease,Omeprazole,Elevated liver enzymes,Overweight,"Blurry vision, check for diabetes",Alzheimer's,Low
+P1104,56,Female,"Joint pain, swelling",Asthma,Metformin,High cholesterol,Smoker,"Patient experiences chest discomfort, possible cardiac issue",Alzheimer's,High
+P0926,56,Female,"Chest pain, fatigue",Alzheimer's in family,Lisinopril,High blood pressure,Drinker,"Patient experiences chest discomfort, possible cardiac issue",Heart Disease,Medium
+P0143,45,Female,"Rapid heartbeat, sweating",Cancer history,Metformin,High blood sugar,Overweight,"Nausea reported, possible gastrointestinal issue",Arrhythmia,High
+P0526,56,Female,"Rapid heartbeat, sweating",Hypertension,Insulin,Elevated liver enzymes,Drinker,"Patient experiences chest discomfort, possible cardiac issue",Alzheimer's,Medium
+P1139,43,Male,"Rapid heartbeat, sweating",High cholesterol,Donepezil,Low white blood cell count,Healthy diet,"Patient forgets daily activities, early dementia suspected",Diabetes,Medium
+P1008,57,Male,"Shortness of breath, dizziness",Cancer history,Atorvastatin,High blood sugar,Smoker,"Nausea reported, possible gastrointestinal issue",Diabetes,Medium
+P1122,27,Female,"Nausea, vomiting",Kidney disease,Lisinopril,High blood sugar,Drinker,Mild symptoms but family history is concerning,Diabetes,Low
+P1424,26,Male,"Thirst, frequent urination",Kidney disease,Ibuprofen,Low oxygen levels,Active,"Nausea reported, possible gastrointestinal issue",Arthritis,Medium
+P0441,41,Female,"High fever, body aches",Cancer history,Insulin,Normal sugar,Active,"Heart palpitations observed, needs ECG",Cancer Screening Needed,High
+P0532,55,Male,"Thirst, frequent urination",Asthma,Aspirin,Brain scan abnormality,Sedentary,"Patient forgets daily activities, early dementia suspected",Gastroenteritis,High
+P1202,37,Female,"Blurred vision, headaches",Arthritis,Omeprazole,Normal MRI,Sedentary,"Heart palpitations observed, needs ECG",Cancer Screening Needed,Low
+P0227,64,Female,"High fever, body aches",Cancer history,Donepezil,Brain scan abnormality,Active,"Patient experiences chest discomfort, possible cardiac issue",Cancer Screening Needed,Medium
+P1037,76,Male,"Sudden weight loss, tiredness",Diabetes,Insulin,Irregular heartbeat detected,Healthy diet,"Suspected infection, prescribed antibiotics",Alzheimer's,High
+P0229,31,Female,"Thirst, frequent urination",Stroke history,Omeprazole,Normal MRI,Healthy diet,"Suspected infection, prescribed antibiotics",Respiratory Infection,Medium
+P1280,27,Male,"Thirst, frequent urination",High cholesterol,,Low oxygen levels,Drinker,"Suspected infection, prescribed antibiotics",Arthritis,High
+P1450,46,Male,"Sudden weight loss, tiredness",No known history,Lisinopril,Brain scan abnormality,Healthy diet,"Sudden weight loss unexplained, requires evaluation",Respiratory Infection,Medium
+P0213,76,Female,"High fever, body aches",Kidney disease,Lisinopril,High blood sugar,Healthy diet,"Suspected infection, prescribed antibiotics",Diabetes,Low
+P0080,52,Male,"Shortness of breath, dizziness",Diabetes,Donepezil,High blood pressure,Healthy diet,"Joint pain worsening, recommended physical therapy",Heart Disease,Medium
+P0149,70,Male,"Thirst, frequent urination",Stroke history,Insulin,Low white blood cell count,Active,"Suspected infection, prescribed antibiotics",Respiratory Infection,Medium
+P0815,77,Female,"Thirst, frequent urination",Arthritis,Aspirin,Normal sugar,Overweight,"Reports difficulty breathing, requires further testing",Diabetes,Low
+P0904,66,Female,"Nausea, vomiting",Cancer history,Atorvastatin,Irregular heartbeat detected,Smoker,"Heart palpitations observed, needs ECG",Gastroenteritis,Low
+P0959,36,Male,"Rapid heartbeat, sweating",Arthritis,Ibuprofen,Elevated liver enzymes,Active,"Suspected infection, prescribed antibiotics",Alzheimer's,Low
+P0672,74,Male,"Thirst, frequent urination",Diabetes,Metformin,Normal MRI,Sedentary,"Joint pain worsening, recommended physical therapy",Migraine,Medium
+P1156,78,Female,"Shortness of breath, dizziness",Hypertension,Metformin,High cholesterol,Sedentary,"Nausea reported, possible gastrointestinal issue",Heart Disease,Low
+P0556,28,Female,"Blurred vision, headaches",Stroke history,Aspirin,High blood sugar,Drinker,"Nausea reported, possible gastrointestinal issue",Alzheimer's,Low
+P0908,48,Male,"Blurred vision, headaches",Cancer history,Lisinopril,Low white blood cell count,Sedentary,"Suspected infection, prescribed antibiotics",Arthritis,Low
+P0134,40,Male,"Joint pain, swelling",Stroke history,Aspirin,Low oxygen levels,Drinker,"Joint pain worsening, recommended physical therapy",Alzheimer's,Medium
+P1109,52,Female,"Shortness of breath, dizziness",Cancer history,Insulin,Low oxygen levels,Drinker,"Reports difficulty breathing, requires further testing",Cancer Screening Needed,Medium
+P0824,28,Male,"Rapid heartbeat, sweating",Kidney disease,Levothyroxine,Low white blood cell count,Smoker,"Joint pain worsening, recommended physical therapy",Cancer Screening Needed,High
+P0409,67,Female,"Nausea, vomiting",High cholesterol,,Irregular heartbeat detected,Sedentary,"Joint pain worsening, recommended physical therapy",Hypertension,High
+P0369,21,Male,"Nausea, vomiting",Diabetes,,High blood pressure,Sedentary,"Joint pain worsening, recommended physical therapy",Arrhythmia,High
+P0508,24,Female,"Memory loss, confusion",Stroke history,Omeprazole,Brain scan abnormality,Sedentary,Mild symptoms but family history is concerning,Heart Disease,High
+P1182,39,Male,"Joint pain, swelling",No known history,Atorvastatin,High blood sugar,Sedentary,Mild symptoms but family history is concerning,Cancer Screening Needed,Low
+P0505,80,Male,"Chest pain, fatigue",Alzheimer's in family,Insulin,Brain scan abnormality,Overweight,"Nausea reported, possible gastrointestinal issue",Respiratory Infection,High
+P1489,57,Female,"Shortness of breath, dizziness",Stroke history,Lisinopril,Normal sugar,Smoker,Mild symptoms but family history is concerning,Cancer Screening Needed,Medium
+P0348,35,Female,"Rapid heartbeat, sweating",Alzheimer's in family,Insulin,Normal MRI,Smoker,"Patient experiences chest discomfort, possible cardiac issue",Arrhythmia,Medium
+P0387,22,Female,"Blurred vision, headaches",Diabetes,Omeprazole,Elevated liver enzymes,Overweight,"Patient experiences chest discomfort, possible cardiac issue",Arthritis,Medium
+P0001,69,Female,"Memory loss, confusion",Stroke history,Ibuprofen,High blood sugar,Healthy diet,"Reports difficulty breathing, requires further testing",Cancer Screening Needed,Medium
+P0361,79,Female,"Sudden weight loss, tiredness",Arthritis,Omeprazole,High cholesterol,Smoker,"Reports difficulty breathing, requires further testing",Migraine,Low
+P0895,43,Male,"High fever, body aches",Cancer history,Aspirin,High blood sugar,Sedentary,"Heart palpitations observed, needs ECG",Arrhythmia,High
+P0829,75,Male,"Blurred vision, headaches",High cholesterol,Omeprazole,Low oxygen levels,Drinker,"Reports difficulty breathing, requires further testing",Migraine,Low
+P1416,79,Male,"Blurred vision, headaches",No known history,Atorvastatin,Normal MRI,Sedentary,"Patient experiences chest discomfort, possible cardiac issue",Diabetes,Low
+P0476,71,Male,"High fever, body aches",Asthma,Lisinopril,Low oxygen levels,Healthy diet,"Patient experiences chest discomfort, possible cardiac issue",Migraine,High
+P1281,35,Male,"Chest pain, fatigue",Cancer history,,Elevated liver enzymes,Overweight,"Heart palpitations observed, needs ECG",Hypertension,Low
+P0058,53,Female,"Nausea, vomiting",Diabetes,Insulin,Elevated liver enzymes,Healthy diet,"Joint pain worsening, recommended physical therapy",Hypertension,Medium
+P0638,73,Female,"Blurred vision, headaches",Stroke history,Atorvastatin,Irregular heartbeat detected,Healthy diet,"Patient forgets daily activities, early dementia suspected",Arrhythmia,High
+P1331,28,Male,"Rapid heartbeat, sweating",Diabetes,Donepezil,Low white blood cell count,Overweight,"Patient forgets daily activities, early dementia suspected",Diabetes,Medium
+P1054,53,Female,"Joint pain, swelling",No known history,Metformin,Elevated liver enzymes,Overweight,"Sudden weight loss unexplained, requires evaluation",Hypertension,Medium
+P1371,46,Female,"Thirst, frequent urination",Asthma,Insulin,High blood sugar,Active,"Reports difficulty breathing, requires further testing",Cancer Screening Needed,High
+P0173,62,Male,"Sudden weight loss, tiredness",Kidney disease,Ibuprofen,Low oxygen levels,Drinker,"Joint pain worsening, recommended physical therapy",Heart Disease,High
+P0451,57,Male,"Rapid heartbeat, sweating",No known history,Omeprazole,Normal MRI,Smoker,"Reports difficulty breathing, requires further testing",Heart Disease,High
+P0126,67,Female,"Shortness of breath, dizziness",No known history,Aspirin,High cholesterol,Smoker,"Suspected infection, prescribed antibiotics",Hypertension,Medium
+P1180,60,Male,"Chest pain, fatigue",Stroke history,Insulin,Elevated liver enzymes,Smoker,"Joint pain worsening, recommended physical therapy",Arthritis,Low
+P0531,35,Male,"Memory loss, confusion",High cholesterol,,Irregular heartbeat detected,Smoker,"Patient experiences chest discomfort, possible cardiac issue",Cancer Screening Needed,Medium
+P0858,65,Male,"Joint pain, swelling",High cholesterol,Donepezil,Normal sugar,Sedentary,Mild symptoms but family history is concerning,Gastroenteritis,Medium
+P0714,73,Male,"Memory loss, confusion",Hypertension,Insulin,High blood pressure,Sedentary,"Heart palpitations observed, needs ECG",Arrhythmia,Low
+P0091,68,Female,"Shortness of breath, dizziness",Hypertension,Aspirin,Irregular heartbeat detected,Drinker,Mild symptoms but family history is concerning,Arrhythmia,High
+P1451,33,Male,"Shortness of breath, dizziness",Cancer history,,Irregular heartbeat detected,Drinker,"Heart palpitations observed, needs ECG",Arrhythmia,Low
+P0182,50,Female,"Nausea, vomiting",Diabetes,Levothyroxine,Low white blood cell count,Drinker,"Reports difficulty breathing, requires further testing",Heart Disease,High
+P0876,75,Female,"Blurred vision, headaches",Kidney disease,Insulin,High blood pressure,Smoker,"Suspected infection, prescribed antibiotics",Hypertension,Medium
+P1031,58,Female,"Blurred vision, headaches",No known history,Atorvastatin,High blood sugar,Active,"Sudden weight loss unexplained, requires evaluation",Diabetes,High
+P0787,37,Male,"Chest pain, fatigue",Kidney disease,,Normal MRI,Active,"Reports difficulty breathing, requires further testing",Respiratory Infection,High
+P0415,62,Male,"Joint pain, swelling",No known history,,Low oxygen levels,Active,"Sudden weight loss unexplained, requires evaluation",Alzheimer's,Medium
+P0252,78,Male,"Shortness of breath, dizziness",Kidney disease,Lisinopril,Low white blood cell count,Smoker,"Patient experiences chest discomfort, possible cardiac issue",Hypertension,High
+P0070,58,Female,"Shortness of breath, dizziness",Cancer history,Insulin,Irregular heartbeat detected,Drinker,"Nausea reported, possible gastrointestinal issue",Diabetes,Medium
+P0804,40,Female,"Chest pain, fatigue",Asthma,Ibuprofen,Low white blood cell count,Drinker,"Nausea reported, possible gastrointestinal issue",Arrhythmia,Low
+P0132,63,Female,"Blurred vision, headaches",Arthritis,Insulin,Low oxygen levels,Active,"Suspected infection, prescribed antibiotics",Migraine,High
+P0301,33,Female,"Nausea, vomiting",Alzheimer's in family,Atorvastatin,Low white blood cell count,Smoker,Mild symptoms but family history is concerning,Arrhythmia,Medium
+P1430,35,Male,"Nausea, vomiting",Asthma,Donepezil,High blood sugar,Healthy diet,"Nausea reported, possible gastrointestinal issue",Heart Disease,Medium
+P0327,70,Male,"Blurred vision, headaches",Arthritis,Lisinopril,Brain scan abnormality,Active,"Reports difficulty breathing, requires further testing",Arrhythmia,Low
+P1465,37,Female,"Memory loss, confusion",Alzheimer's in family,Insulin,Elevated liver enzymes,Drinker,"Blurry vision, check for diabetes",Arthritis,Medium
+P1114,45,Female,"Rapid heartbeat, sweating",Kidney disease,Donepezil,Irregular heartbeat detected,Drinker,"Nausea reported, possible gastrointestinal issue",Cancer Screening Needed,Medium
+P0500,61,Female,"Blurred vision, headaches",Diabetes,Aspirin,Low white blood cell count,Healthy diet,"Suspected infection, prescribed antibiotics",Gastroenteritis,Medium
+P1378,80,Female,"Memory loss, confusion",Hypertension,Levothyroxine,Irregular heartbeat detected,Healthy diet,"Heart palpitations observed, needs ECG",Alzheimer's,High
+P0833,58,Female,"Rapid heartbeat, sweating",Cancer history,Insulin,High blood pressure,Healthy diet,Mild symptoms but family history is concerning,Diabetes,Low
+P0365,78,Female,"Chest pain, fatigue",Diabetes,,Low white blood cell count,Drinker,"Heart palpitations observed, needs ECG",Gastroenteritis,Low
+P0496,63,Male,"Memory loss, confusion",Stroke history,Levothyroxine,Normal sugar,Drinker,"Reports difficulty breathing, requires further testing",Respiratory Infection,Low
+P1395,79,Male,"Nausea, vomiting",Hypertension,Lisinopril,Brain scan abnormality,Sedentary,"Patient forgets daily activities, early dementia suspected",Heart Disease,Low
+P0339,24,Male,"Sudden weight loss, tiredness",No known history,Metformin,Normal MRI,Overweight,"Suspected infection, prescribed antibiotics",Hypertension,Medium
+P0422,66,Female,"Rapid heartbeat, sweating",No known history,Omeprazole,Low oxygen levels,Sedentary,"Joint pain worsening, recommended physical therapy",Arrhythmia,Medium
+P0165,67,Female,"Rapid heartbeat, sweating",Stroke history,Metformin,High blood pressure,Active,"Suspected infection, prescribed antibiotics",Alzheimer's,High
+P0029,79,Male,"Sudden weight loss, tiredness",Alzheimer's in family,Insulin,Low oxygen levels,Active,"Nausea reported, possible gastrointestinal issue",Heart Disease,High
+P0517,69,Male,"Memory loss, confusion",Kidney disease,Aspirin,Brain scan abnormality,Healthy diet,"Joint pain worsening, recommended physical therapy",Diabetes,Low
+P0194,53,Male,"Joint pain, swelling",Diabetes,Metformin,Low oxygen levels,Drinker,"Patient experiences chest discomfort, possible cardiac issue",Diabetes,Low
+P1328,69,Female,"Shortness of breath, dizziness",High cholesterol,Insulin,Irregular heartbeat detected,Healthy diet,"Patient forgets daily activities, early dementia suspected",Diabetes,Medium
+P1362,70,Female,"Shortness of breath, dizziness",Alzheimer's in family,Ibuprofen,High cholesterol,Smoker,"Heart palpitations observed, needs ECG",Respiratory Infection,High
+P0946,52,Female,"Nausea, vomiting",Cancer history,Lisinopril,High blood sugar,Drinker,"Reports difficulty breathing, requires further testing",Hypertension,Medium
+P1361,66,Female,"Chest pain, fatigue",High cholesterol,Metformin,High blood sugar,Overweight,"Blurry vision, check for diabetes",Respiratory Infection,High
+P0170,46,Female,"Thirst, frequent urination",No known history,Lisinopril,High cholesterol,Active,Mild symptoms but family history is concerning,Heart Disease,Low
+P0168,76,Female,"Shortness of breath, dizziness",Kidney disease,Lisinopril,Normal MRI,Smoker,"Blurry vision, check for diabetes",Gastroenteritis,Low
+P0653,47,Male,"Nausea, vomiting",Stroke history,Omeprazole,Brain scan abnormality,Overweight,"Patient forgets daily activities, early dementia suspected",Heart Disease,Low
+P0174,21,Male,"Memory loss, confusion",Cancer history,Insulin,High blood pressure,Active,"Patient forgets daily activities, early dementia suspected",Heart Disease,High
+P0519,46,Female,"Blurred vision, headaches",Diabetes,Aspirin,Normal MRI,Healthy diet,"Blurry vision, check for diabetes",Diabetes,High
+P1214,46,Male,"Shortness of breath, dizziness",Kidney disease,Aspirin,Low oxygen levels,Active,"Nausea reported, possible gastrointestinal issue",Diabetes,Medium
+P1401,48,Male,"Memory loss, confusion",No known history,Levothyroxine,Elevated liver enzymes,Overweight,"Joint pain worsening, recommended physical therapy",Respiratory Infection,High
+P0913,80,Female,"Chest pain, fatigue",Alzheimer's in family,Levothyroxine,Normal MRI,Sedentary,"Sudden weight loss unexplained, requires evaluation",Migraine,Low
+P0492,59,Female,"Sudden weight loss, tiredness",Kidney disease,Ibuprofen,Elevated liver enzymes,Smoker,"Patient experiences chest discomfort, possible cardiac issue",Respiratory Infection,Medium
+P0954,28,Female,"High fever, body aches",Asthma,Atorvastatin,Normal MRI,Healthy diet,"Nausea reported, possible gastrointestinal issue",Alzheimer's,Medium
+P0074,20,Male,"Joint pain, swelling",Alzheimer's in family,,Normal sugar,Active,"Reports difficulty breathing, requires further testing",Migraine,High
+P1253,69,Female,"High fever, body aches",No known history,Omeprazole,Elevated liver enzymes,Healthy diet,"Patient experiences chest discomfort, possible cardiac issue",Diabetes,Low
+P0588,75,Male,"Chest pain, fatigue",Alzheimer's in family,Omeprazole,Normal MRI,Sedentary,"Blurry vision, check for diabetes",Heart Disease,High
+P0751,42,Male,"Joint pain, swelling",Arthritis,Insulin,Low oxygen levels,Sedentary,"Patient experiences chest discomfort, possible cardiac issue",Respiratory Infection,Low
+P0658,52,Male,"Chest pain, fatigue",Stroke history,Omeprazole,Low white blood cell count,Drinker,"Sudden weight loss unexplained, requires evaluation",Arrhythmia,High
+P0843,72,Female,"Thirst, frequent urination",Arthritis,Insulin,High blood sugar,Active,"Patient forgets daily activities, early dementia suspected",Arrhythmia,High
+P0235,33,Male,"Nausea, vomiting",Arthritis,,Normal sugar,Smoker,"Blurry vision, check for diabetes",Cancer Screening Needed,Medium
+P0733,50,Female,"Nausea, vomiting",Hypertension,Levothyroxine,Elevated liver enzymes,Overweight,"Blurry vision, check for diabetes",Gastroenteritis,Medium
+P0215,70,Female,"Thirst, frequent urination",Stroke history,Insulin,Low white blood cell count,Overweight,"Patient forgets daily activities, early dementia suspected",Arthritis,High
+P0163,62,Male,"Sudden weight loss, tiredness",Stroke history,Atorvastatin,Irregular heartbeat detected,Sedentary,"Blurry vision, check for diabetes",Hypertension,Medium
+P0133,51,Male,"Nausea, vomiting",High cholesterol,Levothyroxine,Elevated liver enzymes,Smoker,"Blurry vision, check for diabetes",Alzheimer's,Low
+P1312,28,Female,"High fever, body aches",Alzheimer's in family,Metformin,High blood pressure,Overweight,"Suspected infection, prescribed antibiotics",Migraine,High
+P0223,21,Female,"Joint pain, swelling",Hypertension,Metformin,High blood pressure,Sedentary,"Heart palpitations observed, needs ECG",Heart Disease,Medium
+P1228,58,Male,"Rapid heartbeat, sweating",Cancer history,Metformin,High blood sugar,Healthy diet,Mild symptoms but family history is concerning,Respiratory Infection,High
+P0935,79,Male,"Thirst, frequent urination",Stroke history,Aspirin,Brain scan abnormality,Active,"Patient experiences chest discomfort, possible cardiac issue",Diabetes,Medium
+P0186,47,Female,"Nausea, vomiting",Cancer history,Levothyroxine,High cholesterol,Overweight,"Sudden weight loss unexplained, requires evaluation",Arthritis,Medium
+P0042,45,Male,"Shortness of breath, dizziness",Hypertension,Atorvastatin,High blood pressure,Sedentary,Mild symptoms but family history is concerning,Heart Disease,Medium
+P0693,76,Female,"Memory loss, confusion",Hypertension,Donepezil,High cholesterol,Active,"Heart palpitations observed, needs ECG",Gastroenteritis,Low
+P0109,77,Male,"Nausea, vomiting",Kidney disease,Aspirin,Low white blood cell count,Drinker,"Suspected infection, prescribed antibiotics",Hypertension,Medium
+P0039,51,Male,"Blurred vision, headaches",No known history,Levothyroxine,Irregular heartbeat detected,Healthy diet,"Patient experiences chest discomfort, possible cardiac issue",Gastroenteritis,High
+P0569,43,Male,"Nausea, vomiting",Kidney disease,Levothyroxine,High blood pressure,Drinker,"Blurry vision, check for diabetes",Migraine,Low
+P0995,28,Female,"Thirst, frequent urination",Arthritis,Ibuprofen,Normal MRI,Sedentary,"Sudden weight loss unexplained, requires evaluation",Arthritis,High
+P1343,79,Female,"Sudden weight loss, tiredness",No known history,Atorvastatin,Brain scan abnormality,Drinker,Mild symptoms but family history is concerning,Heart Disease,High
+P1442,52,Female,"Thirst, frequent urination",No known history,,High blood pressure,Overweight,"Sudden weight loss unexplained, requires evaluation",Migraine,Medium
+P0484,73,Male,"Nausea, vomiting",Alzheimer's in family,Atorvastatin,Low oxygen levels,Drinker,"Reports difficulty breathing, requires further testing",Diabetes,High
+P0469,40,Female,"Blurred vision, headaches",Diabetes,Metformin,Low oxygen levels,Drinker,"Sudden weight loss unexplained, requires evaluation",Respiratory Infection,Medium
+P0891,69,Female,"Thirst, frequent urination",Asthma,Donepezil,Irregular heartbeat detected,Overweight,"Sudden weight loss unexplained, requires evaluation",Arthritis,Low
+P0948,22,Female,"Rapid heartbeat, sweating",Kidney disease,Aspirin,Normal MRI,Healthy diet,"Nausea reported, possible gastrointestinal issue",Cancer Screening Needed,High
+P0025,59,Female,"Nausea, vomiting",No known history,Ibuprofen,High cholesterol,Active,"Joint pain worsening, recommended physical therapy",Diabetes,Low
+P1010,57,Female,"Memory loss, confusion",Hypertension,Metformin,Normal sugar,Sedentary,"Heart palpitations observed, needs ECG",Heart Disease,Low
+P1193,31,Male,"High fever, body aches",Hypertension,Omeprazole,Low oxygen levels,Healthy diet,"Blurry vision, check for diabetes",Arthritis,Medium
+P0069,68,Female,"Blurred vision, headaches",Diabetes,Atorvastatin,Normal sugar,Healthy diet,"Patient forgets daily activities, early dementia suspected",Heart Disease,Low
+P0885,79,Male,"Joint pain, swelling",Asthma,Metformin,Normal MRI,Healthy diet,"Reports difficulty breathing, requires further testing",Alzheimer's,High
+P1355,32,Female,"Memory loss, confusion",Asthma,Atorvastatin,High cholesterol,Healthy diet,"Blurry vision, check for diabetes",Diabetes,High
+P0367,27,Male,"Joint pain, swelling",Cancer history,Lisinopril,Low white blood cell count,Sedentary,"Sudden weight loss unexplained, requires evaluation",Gastroenteritis,Low
+P0506,22,Male,"Shortness of breath, dizziness",Alzheimer's in family,Levothyroxine,Normal sugar,Drinker,"Blurry vision, check for diabetes",Heart Disease,High
+P0851,31,Male,"Shortness of breath, dizziness",Alzheimer's in family,Levothyroxine,High cholesterol,Sedentary,"Joint pain worsening, recommended physical therapy",Hypertension,Low
+P1316,67,Female,"High fever, body aches",Cancer history,Ibuprofen,Low oxygen levels,Drinker,"Heart palpitations observed, needs ECG",Hypertension,Medium
+P0384,52,Female,"Sudden weight loss, tiredness",High cholesterol,,Normal MRI,Overweight,Mild symptoms but family history is concerning,Arthritis,High
+P0735,75,Female,"Joint pain, swelling",High cholesterol,Aspirin,Low oxygen levels,Sedentary,"Patient forgets daily activities, early dementia suspected",Arthritis,High
+P0718,52,Female,"Sudden weight loss, tiredness",Diabetes,Insulin,Brain scan abnormality,Sedentary,"Reports difficulty breathing, requires further testing",Diabetes,Low
+P1336,43,Female,"Thirst, frequent urination",Cancer history,Metformin,Normal sugar,Drinker,"Nausea reported, possible gastrointestinal issue",Migraine,Low
+P0455,30,Female,"Shortness of breath, dizziness",Alzheimer's in family,Omeprazole,High cholesterol,Drinker,"Patient experiences chest discomfort, possible cardiac issue",Cancer Screening Needed,Low
+P0265,55,Male,"Joint pain, swelling",Arthritis,Lisinopril,Irregular heartbeat detected,Drinker,"Sudden weight loss unexplained, requires evaluation",Migraine,High
+P0076,29,Male,"Rapid heartbeat, sweating",Asthma,Lisinopril,High blood pressure,Overweight,"Heart palpitations observed, needs ECG",Migraine,Medium
+P0915,56,Male,"Joint pain, swelling",Stroke history,Lisinopril,Low oxygen levels,Overweight,"Blurry vision, check for diabetes",Gastroenteritis,High
+P0233,54,Male,"High fever, body aches",Kidney disease,,Normal sugar,Overweight,"Heart palpitations observed, needs ECG",Diabetes,Medium
+P0445,73,Female,"Blurred vision, headaches",Asthma,,Elevated liver enzymes,Healthy diet,"Nausea reported, possible gastrointestinal issue",Respiratory Infection,Low
+P0396,54,Female,"Memory loss, confusion",Diabetes,,Low oxygen levels,Overweight,"Suspected infection, prescribed antibiotics",Gastroenteritis,Medium
+P0612,49,Male,"Blurred vision, headaches",Asthma,Ibuprofen,Brain scan abnormality,Sedentary,"Blurry vision, check for diabetes",Respiratory Infection,High
+P0177,21,Male,"Joint pain, swelling",Asthma,Donepezil,Elevated liver enzymes,Active,"Nausea reported, possible gastrointestinal issue",Alzheimer's,Low
+P0019,26,Male,"Shortness of breath, dizziness",Stroke history,Aspirin,Brain scan abnormality,Active,Mild symptoms but family history is concerning,Arrhythmia,Low
+P1311,54,Female,"Rapid heartbeat, sweating",Stroke history,Omeprazole,Irregular heartbeat detected,Healthy diet,"Sudden weight loss unexplained, requires evaluation",Gastroenteritis,High
+P1222,39,Female,"Chest pain, fatigue",Hypertension,Omeprazole,High blood pressure,Active,"Patient experiences chest discomfort, possible cardiac issue",Diabetes,Medium
+P0342,60,Male,"Blurred vision, headaches",Stroke history,Lisinopril,Irregular heartbeat detected,Healthy diet,"Sudden weight loss unexplained, requires evaluation",Migraine,Medium
+P1348,57,Male,"Joint pain, swelling",High cholesterol,,Brain scan abnormality,Overweight,"Nausea reported, possible gastrointestinal issue",Arthritis,Medium
+P0880,71,Female,"Shortness of breath, dizziness",Kidney disease,Levothyroxine,High cholesterol,Sedentary,"Suspected infection, prescribed antibiotics",Heart Disease,Low
+P0596,46,Female,"Sudden weight loss, tiredness",Hypertension,Ibuprofen,Brain scan abnormality,Drinker,"Nausea reported, possible gastrointestinal issue",Cancer Screening Needed,Low
+P0062,65,Male,"Sudden weight loss, tiredness",Kidney disease,Atorvastatin,Normal sugar,Smoker,"Nausea reported, possible gastrointestinal issue",Cancer Screening Needed,High
+P1261,38,Male,"Blurred vision, headaches",Stroke history,Metformin,High blood pressure,Drinker,"Suspected infection, prescribed antibiotics",Diabetes,Medium
+P0273,22,Female,"Thirst, frequent urination",No known history,Atorvastatin,High blood pressure,Sedentary,"Sudden weight loss unexplained, requires evaluation",Alzheimer's,High
+P1209,22,Female,"Shortness of breath, dizziness",Stroke history,Levothyroxine,Normal sugar,Overweight,"Sudden weight loss unexplained, requires evaluation",Diabetes,High
+P0873,70,Female,"Blurred vision, headaches",Stroke history,Levothyroxine,High blood pressure,Sedentary,"Heart palpitations observed, needs ECG",Arrhythmia,Low
+P1121,34,Male,"Sudden weight loss, tiredness",Kidney disease,Omeprazole,Brain scan abnormality,Overweight,"Patient experiences chest discomfort, possible cardiac issue",Migraine,Low
+P1407,22,Female,"Thirst, frequent urination",Asthma,Insulin,Normal MRI,Overweight,Mild symptoms but family history is concerning,Alzheimer's,Medium
+P0279,74,Male,"Memory loss, confusion",Diabetes,Insulin,Normal MRI,Healthy diet,Mild symptoms but family history is concerning,Diabetes,High
+P0037,69,Male,"Thirst, frequent urination",Asthma,Lisinopril,Normal MRI,Active,Mild symptoms but family history is concerning,Gastroenteritis,Medium
+P0663,75,Male,"Memory loss, confusion",Kidney disease,Omeprazole,High blood sugar,Smoker,Mild symptoms but family history is concerning,Arrhythmia,High
+P1352,48,Male,"Sudden weight loss, tiredness",High cholesterol,Atorvastatin,Normal MRI,Sedentary,"Reports difficulty breathing, requires further testing",Arthritis,Low
+P1090,36,Male,"Shortness of breath, dizziness",Alzheimer's in family,Atorvastatin,Low white blood cell count,Drinker,Mild symptoms but family history is concerning,Respiratory Infection,High
+P0978,65,Male,"Nausea, vomiting",Hypertension,Lisinopril,Low white blood cell count,Healthy diet,Mild symptoms but family history is concerning,Heart Disease,Low
+P0739,37,Male,"Joint pain, swelling",High cholesterol,Omeprazole,High cholesterol,Overweight,"Sudden weight loss unexplained, requires evaluation",Heart Disease,Medium
+P0192,29,Female,"Shortness of breath, dizziness",Alzheimer's in family,Omeprazole,Low white blood cell count,Overweight,"Heart palpitations observed, needs ECG",Heart Disease,Low
+P0920,46,Male,"Blurred vision, headaches",Asthma,Levothyroxine,High cholesterol,Sedentary,"Heart palpitations observed, needs ECG",Alzheimer's,Low
+P0457,73,Male,"Sudden weight loss, tiredness",Diabetes,Metformin,Low oxygen levels,Sedentary,"Suspected infection, prescribed antibiotics",Migraine,Low
+P0676,32,Female,"Sudden weight loss, tiredness",Stroke history,Levothyroxine,Irregular heartbeat detected,Healthy diet,"Nausea reported, possible gastrointestinal issue",Alzheimer's,Low
+P0761,34,Female,"Shortness of breath, dizziness",Diabetes,Omeprazole,Low white blood cell count,Drinker,"Joint pain worsening, recommended physical therapy",Cancer Screening Needed,Low
+P1353,72,Male,"Joint pain, swelling",High cholesterol,Atorvastatin,Normal MRI,Sedentary,"Patient experiences chest discomfort, possible cardiac issue",Diabetes,Low
+P0729,63,Male,"Blurred vision, headaches",High cholesterol,Insulin,Elevated liver enzymes,Sedentary,"Sudden weight loss unexplained, requires evaluation",Diabetes,High
+P0413,62,Female,"Memory loss, confusion",Cancer history,Insulin,High cholesterol,Sedentary,"Sudden weight loss unexplained, requires evaluation",Respiratory Infection,Medium
+P0826,30,Male,"Memory loss, confusion",Hypertension,Lisinopril,Irregular heartbeat detected,Drinker,"Reports difficulty breathing, requires further testing",Gastroenteritis,Low
+P0617,45,Male,"Joint pain, swelling",Stroke history,Ibuprofen,Low oxygen levels,Overweight,"Patient forgets daily activities, early dementia suspected",Cancer Screening Needed,High
+P0115,74,Female,"Joint pain, swelling",Stroke history,Levothyroxine,Normal MRI,Drinker,"Sudden weight loss unexplained, requires evaluation",Heart Disease,High
+P0418,77,Male,"Blurred vision, headaches",Stroke history,Aspirin,Normal sugar,Active,"Sudden weight loss unexplained, requires evaluation",Diabetes,Low
+P1429,42,Female,"Memory loss, confusion",Arthritis,Donepezil,High blood sugar,Overweight,"Patient experiences chest discomfort, possible cardiac issue",Heart Disease,High
+P0970,70,Female,"Shortness of breath, dizziness",Kidney disease,Aspirin,Brain scan abnormality,Drinker,"Heart palpitations observed, needs ECG",Gastroenteritis,Medium
+P0605,59,Male,"Rapid heartbeat, sweating",Arthritis,Omeprazole,Low oxygen levels,Smoker,"Patient experiences chest discomfort, possible cardiac issue",Diabetes,Low
+P1435,36,Male,"Blurred vision, headaches",Cancer history,Lisinopril,Elevated liver enzymes,Drinker,"Blurry vision, check for diabetes",Migraine,Low
+P0090,25,Female,"Shortness of breath, dizziness",Stroke history,,Brain scan abnormality,Sedentary,"Sudden weight loss unexplained, requires evaluation",Hypertension,Low
+P0849,26,Female,"Rapid heartbeat, sweating",Stroke history,Aspirin,High blood sugar,Smoker,"Patient experiences chest discomfort, possible cardiac issue",Cancer Screening Needed,High
+P1146,61,Male,"Chest pain, fatigue",Hypertension,Metformin,Elevated liver enzymes,Healthy diet,Mild symptoms but family history is concerning,Hypertension,Medium
+P1434,73,Female,"Nausea, vomiting",High cholesterol,Insulin,High blood pressure,Smoker,"Joint pain worsening, recommended physical therapy",Arthritis,Low
+P0754,42,Male,"Memory loss, confusion",Kidney disease,Lisinopril,Brain scan abnormality,Drinker,Mild symptoms but family history is concerning,Gastroenteritis,Medium
+P0499,79,Female,"Joint pain, swelling",Alzheimer's in family,Metformin,High cholesterol,Sedentary,"Reports difficulty breathing, requires further testing",Alzheimer's,High
+P0012,39,Male,"Rapid heartbeat, sweating",No known history,Levothyroxine,Low white blood cell count,Smoker,"Nausea reported, possible gastrointestinal issue",Hypertension,High
+P0397,53,Male,"Joint pain, swelling",Diabetes,Metformin,Irregular heartbeat detected,Smoker,"Blurry vision, check for diabetes",Respiratory Infection,Low
+P0285,56,Female,"Nausea, vomiting",Hypertension,Lisinopril,High blood pressure,Active,"Suspected infection, prescribed antibiotics",Arthritis,Medium
+P0691,31,Female,"Thirst, frequent urination",Alzheimer's in family,Levothyroxine,High cholesterol,Drinker,"Nausea reported, possible gastrointestinal issue",Cancer Screening Needed,Low
+P1231,20,Male,"High fever, body aches",Diabetes,Lisinopril,High blood pressure,Sedentary,"Blurry vision, check for diabetes",Gastroenteritis,Low
+P1404,24,Female,"Shortness of breath, dizziness",High cholesterol,,Elevated liver enzymes,Sedentary,"Nausea reported, possible gastrointestinal issue",Arrhythmia,High
+P0690,73,Male,"Blurred vision, headaches",Stroke history,,High blood sugar,Sedentary,"Heart palpitations observed, needs ECG",Diabetes,Low
+P0852,68,Male,"Nausea, vomiting",Arthritis,Atorvastatin,High cholesterol,Healthy diet,Mild symptoms but family history is concerning,Hypertension,High
+P0160,69,Male,"Rapid heartbeat, sweating",Hypertension,Lisinopril,Normal sugar,Drinker,"Reports difficulty breathing, requires further testing",Diabetes,Medium
+P0896,35,Female,"Thirst, frequent urination",Diabetes,Aspirin,Normal sugar,Sedentary,"Sudden weight loss unexplained, requires evaluation",Gastroenteritis,Low
+P1190,64,Female,"Nausea, vomiting",Cancer history,Insulin,High cholesterol,Overweight,Mild symptoms but family history is concerning,Arrhythmia,Medium
+P0258,29,Female,"Chest pain, fatigue",Alzheimer's in family,Atorvastatin,Low white blood cell count,Overweight,Mild symptoms but family history is concerning,Alzheimer's,Low
+P0336,78,Male,"Shortness of breath, dizziness",Asthma,Atorvastatin,Brain scan abnormality,Active,Mild symptoms but family history is concerning,Diabetes,Low
+P1408,33,Female,"Joint pain, swelling",Alzheimer's in family,Levothyroxine,High blood sugar,Overweight,"Reports difficulty breathing, requires further testing",Gastroenteritis,Medium
+P1040,37,Female,"Joint pain, swelling",Stroke history,Donepezil,High blood pressure,Drinker,"Patient forgets daily activities, early dementia suspected",Arrhythmia,High
+P0516,52,Female,"Blurred vision, headaches",Alzheimer's in family,,High cholesterol,Drinker,Mild symptoms but family history is concerning,Hypertension,Medium
+P1016,55,Male,"Sudden weight loss, tiredness",Arthritis,Lisinopril,High blood pressure,Active,"Reports difficulty breathing, requires further testing",Hypertension,High
+P0769,41,Male,"Chest pain, fatigue",Stroke history,Donepezil,Low white blood cell count,Active,"Patient experiences chest discomfort, possible cardiac issue",Hypertension,High
+P1317,48,Male,"Sudden weight loss, tiredness",Cancer history,Lisinopril,High cholesterol,Active,"Suspected infection, prescribed antibiotics",Alzheimer's,Medium
+P0762,41,Male,"Thirst, frequent urination",No known history,Donepezil,Low oxygen levels,Sedentary,"Heart palpitations observed, needs ECG",Heart Disease,Medium
+P1103,43,Male,"Chest pain, fatigue",Asthma,Metformin,Low white blood cell count,Smoker,"Joint pain worsening, recommended physical therapy",Cancer Screening Needed,High
+P0522,35,Female,"Sudden weight loss, tiredness",Stroke history,Donepezil,Irregular heartbeat detected,Healthy diet,Mild symptoms but family history is concerning,Cancer Screening Needed,Medium
+P0023,39,Male,"Memory loss, confusion",Cancer history,Aspirin,Elevated liver enzymes,Healthy diet,"Blurry vision, check for diabetes",Heart Disease,Medium
+P0357,75,Male,"Blurred vision, headaches",Arthritis,Ibuprofen,Low oxygen levels,Smoker,"Joint pain worsening, recommended physical therapy",Diabetes,High
+P1272,25,Female,"Chest pain, fatigue",Kidney disease,Lisinopril,Irregular heartbeat detected,Sedentary,"Joint pain worsening, recommended physical therapy",Migraine,Low
+P0341,31,Male,"Thirst, frequent urination",High cholesterol,Metformin,High blood sugar,Active,"Suspected infection, prescribed antibiotics",Migraine,Medium
+P0432,28,Female,"Rapid heartbeat, sweating",High cholesterol,Atorvastatin,High cholesterol,Active,"Patient forgets daily activities, early dementia suspected",Arthritis,Low
+P0474,45,Female,"Sudden weight loss, tiredness",Hypertension,Levothyroxine,Elevated liver enzymes,Drinker,"Patient experiences chest discomfort, possible cardiac issue",Hypertension,High
+P0218,80,Male,"Joint pain, swelling",Kidney disease,Donepezil,Normal MRI,Overweight,"Blurry vision, check for diabetes",Arrhythmia,Low
+P0912,27,Female,"Nausea, vomiting",Kidney disease,Lisinopril,Low oxygen levels,Smoker,"Sudden weight loss unexplained, requires evaluation",Respiratory Infection,High
+P1205,39,Female,"Chest pain, fatigue",Stroke history,Omeprazole,High blood pressure,Overweight,"Joint pain worsening, recommended physical therapy",Migraine,Medium
+P1012,73,Male,"Joint pain, swelling",Diabetes,Insulin,High blood pressure,Sedentary,"Heart palpitations observed, needs ECG",Cancer Screening Needed,Medium
+P1459,49,Male,"Chest pain, fatigue",Stroke history,Lisinopril,High blood pressure,Sedentary,"Heart palpitations observed, needs ECG",Alzheimer's,Low
+P0094,80,Female,"Blurred vision, headaches",Stroke history,Metformin,Brain scan abnormality,Drinker,"Joint pain worsening, recommended physical therapy",Hypertension,Medium
+P1009,30,Male,"Joint pain, swelling",Stroke history,Omeprazole,Brain scan abnormality,Sedentary,"Reports difficulty breathing, requires further testing",Arrhythmia,Low
+P1071,63,Female,"Memory loss, confusion",No known history,Insulin,Normal MRI,Smoker,"Patient experiences chest discomfort, possible cardiac issue",Heart Disease,Medium
+P0697,48,Male,"Shortness of breath, dizziness",Diabetes,Aspirin,Elevated liver enzymes,Sedentary,"Suspected infection, prescribed antibiotics",Arrhythmia,Medium
+P0997,64,Male,"Sudden weight loss, tiredness",Alzheimer's in family,,Brain scan abnormality,Smoker,"Blurry vision, check for diabetes",Alzheimer's,Medium
+P0154,46,Female,"Thirst, frequent urination",Diabetes,Lisinopril,High cholesterol,Overweight,"Nausea reported, possible gastrointestinal issue",Heart Disease,Low
+P1300,26,Male,"Chest pain, fatigue",Asthma,,High cholesterol,Drinker,Mild symptoms but family history is concerning,Arrhythmia,High
+P1498,46,Female,"Nausea, vomiting",No known history,Metformin,High cholesterol,Smoker,"Patient experiences chest discomfort, possible cardiac issue",Respiratory Infection,High
+P0790,78,Female,"Sudden weight loss, tiredness",No known history,Aspirin,Low white blood cell count,Drinker,"Joint pain worsening, recommended physical therapy",Heart Disease,Low
+P0581,42,Male,"Shortness of breath, dizziness",Kidney disease,,Normal sugar,Healthy diet,"Blurry vision, check for diabetes",Arrhythmia,High
+P0704,33,Male,"Blurred vision, headaches",Hypertension,Insulin,Low white blood cell count,Overweight,"Joint pain worsening, recommended physical therapy",Arrhythmia,High
+P1259,45,Female,"Thirst, frequent urination",Diabetes,Lisinopril,Normal sugar,Drinker,"Sudden weight loss unexplained, requires evaluation",Heart Disease,Low
+P0488,37,Male,"Chest pain, fatigue",Diabetes,Levothyroxine,Elevated liver enzymes,Healthy diet,"Joint pain worsening, recommended physical therapy",Alzheimer's,High
+P0560,78,Male,"Chest pain, fatigue",Diabetes,Insulin,High cholesterol,Sedentary,"Suspected infection, prescribed antibiotics",Respiratory Infection,Low
+P0802,65,Female,"Chest pain, fatigue",No known history,Aspirin,Low oxygen levels,Healthy diet,"Sudden weight loss unexplained, requires evaluation",Gastroenteritis,High
+P0513,45,Female,"Thirst, frequent urination",High cholesterol,Aspirin,Brain scan abnormality,Active,"Nausea reported, possible gastrointestinal issue",Diabetes,Low
+P0634,32,Male,"Blurred vision, headaches",Alzheimer's in family,Atorvastatin,Normal sugar,Healthy diet,"Blurry vision, check for diabetes",Gastroenteritis,Low
+P1111,53,Male,"Rapid heartbeat, sweating",Cancer history,Donepezil,Low oxygen levels,Smoker,"Reports difficulty breathing, requires further testing",Heart Disease,Medium
+P1472,43,Male,"Joint pain, swelling",Stroke history,Levothyroxine,Elevated liver enzymes,Overweight,"Heart palpitations observed, needs ECG",Heart Disease,Low
+P0791,62,Female,"Thirst, frequent urination",Alzheimer's in family,,Low white blood cell count,Healthy diet,"Suspected infection, prescribed antibiotics",Respiratory Infection,Low
+P0117,21,Female,"Nausea, vomiting",Arthritis,Metformin,Irregular heartbeat detected,Drinker,"Nausea reported, possible gastrointestinal issue",Cancer Screening Needed,Low
+P0741,55,Female,"Sudden weight loss, tiredness",Kidney disease,Lisinopril,High blood pressure,Drinker,"Reports difficulty breathing, requires further testing",Alzheimer's,Medium
+P1082,69,Female,"Blurred vision, headaches",Diabetes,Levothyroxine,Elevated liver enzymes,Smoker,Mild symptoms but family history is concerning,Gastroenteritis,High
+P0831,20,Male,"Blurred vision, headaches",Hypertension,Insulin,Normal sugar,Overweight,"Joint pain worsening, recommended physical therapy",Heart Disease,High
+P0120,60,Female,"Rapid heartbeat, sweating",High cholesterol,Omeprazole,Low oxygen levels,Smoker,"Heart palpitations observed, needs ECG",Cancer Screening Needed,High
+P0657,52,Male,"Memory loss, confusion",Kidney disease,Ibuprofen,High blood pressure,Healthy diet,Mild symptoms but family history is concerning,Heart Disease,Medium
+P0636,41,Female,"Memory loss, confusion",Kidney disease,Levothyroxine,Low white blood cell count,Healthy diet,"Joint pain worsening, recommended physical therapy",Arrhythmia,High
+P0370,49,Male,"Blurred vision, headaches",Arthritis,Donepezil,Brain scan abnormality,Overweight,"Sudden weight loss unexplained, requires evaluation",Respiratory Infection,Low
+P0269,67,Male,"Sudden weight loss, tiredness",High cholesterol,Donepezil,Low oxygen levels,Overweight,"Heart palpitations observed, needs ECG",Cancer Screening Needed,Low
+P0656,80,Female,"Nausea, vomiting",Cancer history,Omeprazole,Normal MRI,Active,"Heart palpitations observed, needs ECG",Heart Disease,Medium
+P0936,51,Female,"Rapid heartbeat, sweating",Hypertension,Aspirin,High blood pressure,Drinker,"Patient forgets daily activities, early dementia suspected",Arthritis,Low
+P0823,41,Female,"Chest pain, fatigue",Kidney disease,Aspirin,Brain scan abnormality,Smoker,"Suspected infection, prescribed antibiotics",Gastroenteritis,High
+P0867,65,Female,"Joint pain, swelling",Cancer history,,Irregular heartbeat detected,Sedentary,"Suspected infection, prescribed antibiotics",Arrhythmia,Low
+P0047,43,Male,"Blurred vision, headaches",Diabetes,Donepezil,Brain scan abnormality,Active,"Sudden weight loss unexplained, requires evaluation",Hypertension,Low
+P1291,45,Female,"Thirst, frequent urination",Kidney disease,Lisinopril,Normal sugar,Sedentary,"Blurry vision, check for diabetes",Cancer Screening Needed,Medium
+P0992,73,Female,"Joint pain, swelling",Alzheimer's in family,Atorvastatin,High blood sugar,Overweight,"Patient forgets daily activities, early dementia suspected",Respiratory Infection,High
+P0877,62,Male,"High fever, body aches",Hypertension,Metformin,Normal sugar,Active,"Joint pain worsening, recommended physical therapy",Gastroenteritis,Low
+P0774,64,Male,"Memory loss, confusion",Stroke history,Levothyroxine,Irregular heartbeat detected,Sedentary,"Nausea reported, possible gastrointestinal issue",Diabetes,Low
+P1500,45,Female,"Nausea, vomiting",Alzheimer's in family,,Low oxygen levels,Healthy diet,"Sudden weight loss unexplained, requires evaluation",Gastroenteritis,High
+P0005,46,Female,"Joint pain, swelling",No known history,Omeprazole,High blood sugar,Drinker,"Heart palpitations observed, needs ECG",Arthritis,Medium
+P1004,44,Female,"Memory loss, confusion",Arthritis,Atorvastatin,Normal sugar,Sedentary,"Reports difficulty breathing, requires further testing",Alzheimer's,Medium
+P1302,36,Female,"Blurred vision, headaches",Cancer history,Aspirin,Irregular heartbeat detected,Sedentary,"Joint pain worsening, recommended physical therapy",Cancer Screening Needed,Low
+P0264,32,Male,"Thirst, frequent urination",Cancer history,Lisinopril,Normal sugar,Healthy diet,"Sudden weight loss unexplained, requires evaluation",Arthritis,Low
+P1334,39,Male,"Shortness of breath, dizziness",Diabetes,Insulin,Low oxygen levels,Sedentary,Mild symptoms but family history is concerning,Gastroenteritis,High
+P1443,61,Male,"Blurred vision, headaches",Alzheimer's in family,Donepezil,High cholesterol,Active,"Joint pain worsening, recommended physical therapy",Heart Disease,High
+P0444,26,Male,"Chest pain, fatigue",Hypertension,Levothyroxine,High blood sugar,Healthy diet,"Patient forgets daily activities, early dementia suspected",Cancer Screening Needed,High
+P1003,29,Male,"Thirst, frequent urination",No known history,Levothyroxine,Irregular heartbeat detected,Overweight,"Joint pain worsening, recommended physical therapy",Hypertension,High
+P1078,41,Male,"Rapid heartbeat, sweating",Kidney disease,Donepezil,Low white blood cell count,Healthy diet,"Joint pain worsening, recommended physical therapy",Heart Disease,High
+P0838,28,Female,"Nausea, vomiting",Alzheimer's in family,,Low white blood cell count,Sedentary,"Suspected infection, prescribed antibiotics",Arthritis,Low
+P1340,67,Female,"High fever, body aches",Diabetes,Aspirin,High cholesterol,Drinker,"Nausea reported, possible gastrointestinal issue",Gastroenteritis,High
+P0305,20,Male,"Shortness of breath, dizziness",Cancer history,Aspirin,Low oxygen levels,Active,"Blurry vision, check for diabetes",Heart Disease,Medium
+P1175,63,Female,"Memory loss, confusion",Arthritis,Metformin,High blood sugar,Smoker,"Heart palpitations observed, needs ECG",Heart Disease,Medium
+P0314,39,Male,"Nausea, vomiting",Asthma,,Low oxygen levels,Overweight,"Nausea reported, possible gastrointestinal issue",Migraine,High
+P0150,41,Male,"Sudden weight loss, tiredness",Kidney disease,,High cholesterol,Sedentary,"Blurry vision, check for diabetes",Migraine,High
+P0575,29,Male,"Nausea, vomiting",No known history,Lisinopril,Elevated liver enzymes,Healthy diet,"Nausea reported, possible gastrointestinal issue",Migraine,Low
+P0051,66,Male,"Sudden weight loss, tiredness",Cancer history,Lisinopril,High blood sugar,Smoker,"Patient forgets daily activities, early dementia suspected",Alzheimer's,Low
+P1415,35,Male,"Nausea, vomiting",Arthritis,Omeprazole,Low white blood cell count,Sedentary,"Sudden weight loss unexplained, requires evaluation",Alzheimer's,Low
+P0727,69,Female,"Joint pain, swelling",Arthritis,Ibuprofen,Brain scan abnormality,Overweight,"Patient forgets daily activities, early dementia suspected",Respiratory Infection,Medium
+P0834,33,Male,"Joint pain, swelling",High cholesterol,Donepezil,High blood pressure,Smoker,"Reports difficulty breathing, requires further testing",Diabetes,Medium
+P1116,75,Female,"Blurred vision, headaches",No known history,,Normal sugar,Drinker,"Nausea reported, possible gastrointestinal issue",Migraine,High
+P0471,73,Female,"Sudden weight loss, tiredness",Hypertension,Insulin,Brain scan abnormality,Overweight,"Nausea reported, possible gastrointestinal issue",Gastroenteritis,Low
+P0972,22,Male,"Nausea, vomiting",Cancer history,Levothyroxine,Elevated liver enzymes,Healthy diet,"Heart palpitations observed, needs ECG",Arrhythmia,High
+P0654,50,Male,"Rapid heartbeat, sweating",Asthma,Ibuprofen,Low white blood cell count,Sedentary,"Patient experiences chest discomfort, possible cardiac issue",Hypertension,Low
+P0400,40,Female,"Rapid heartbeat, sweating",Kidney disease,Metformin,High blood sugar,Sedentary,"Nausea reported, possible gastrointestinal issue",Diabetes,Medium
+P0512,34,Female,"Blurred vision, headaches",Cancer history,Aspirin,Elevated liver enzymes,Sedentary,"Joint pain worsening, recommended physical therapy",Migraine,High
+P0321,63,Female,"Thirst, frequent urination",Diabetes,Atorvastatin,Irregular heartbeat detected,Smoker,"Blurry vision, check for diabetes",Cancer Screening Needed,Medium
+P0020,21,Male,"Shortness of breath, dizziness",Arthritis,Metformin,High cholesterol,Active,"Heart palpitations observed, needs ECG",Arthritis,High
+P0685,38,Female,"Blurred vision, headaches",Stroke history,,High cholesterol,Healthy diet,"Joint pain worsening, recommended physical therapy",Heart Disease,Medium
+P0036,70,Male,"Chest pain, fatigue",Diabetes,Donepezil,Normal sugar,Overweight,Mild symptoms but family history is concerning,Cancer Screening Needed,Low
+P0903,24,Male,"High fever, body aches",Diabetes,Atorvastatin,Low oxygen levels,Overweight,"Reports difficulty breathing, requires further testing",Arrhythmia,High
+P0828,74,Male,"Rapid heartbeat, sweating",Hypertension,Ibuprofen,Irregular heartbeat detected,Healthy diet,"Patient forgets daily activities, early dementia suspected",Diabetes,High
+P1345,68,Female,"Memory loss, confusion",No known history,Lisinopril,Irregular heartbeat detected,Sedentary,"Patient forgets daily activities, early dementia suspected",Arrhythmia,High
+P0408,24,Female,"Memory loss, confusion",Stroke history,Lisinopril,Irregular heartbeat detected,Active,"Patient forgets daily activities, early dementia suspected",Respiratory Infection,Medium
+P0921,53,Female,"Joint pain, swelling",Stroke history,,Low white blood cell count,Drinker,"Reports difficulty breathing, requires further testing",Heart Disease,Low
+P0538,65,Female,"Rapid heartbeat, sweating",Diabetes,Aspirin,Low white blood cell count,Drinker,"Blurry vision, check for diabetes",Arrhythmia,High
+P0759,47,Male,"Rapid heartbeat, sweating",High cholesterol,Omeprazole,High cholesterol,Drinker,Mild symptoms but family history is concerning,Diabetes,High
+P1063,48,Male,"Shortness of breath, dizziness",Kidney disease,Metformin,High cholesterol,Smoker,"Reports difficulty breathing, requires further testing",Migraine,Medium
+P0246,66,Male,"Nausea, vomiting",Asthma,Levothyroxine,Normal MRI,Drinker,"Patient forgets daily activities, early dementia suspected",Cancer Screening Needed,High
+P1128,62,Female,"Nausea, vomiting",Stroke history,,Irregular heartbeat detected,Drinker,"Reports difficulty breathing, requires further testing",Hypertension,Medium
+P0785,37,Female,"Shortness of breath, dizziness",High cholesterol,Lisinopril,Brain scan abnormality,Overweight,"Nausea reported, possible gastrointestinal issue",Cancer Screening Needed,High
+P0490,80,Male,"Sudden weight loss, tiredness",Stroke history,Metformin,High blood pressure,Overweight,"Heart palpitations observed, needs ECG",Respiratory Infection,Low
+P0155,59,Female,"High fever, body aches",Stroke history,Atorvastatin,Irregular heartbeat detected,Overweight,"Suspected infection, prescribed antibiotics",Alzheimer's,Medium
+P0962,61,Male,"Joint pain, swelling",Hypertension,Insulin,High cholesterol,Healthy diet,"Heart palpitations observed, needs ECG",Gastroenteritis,High
+P0854,32,Male,"Rapid heartbeat, sweating",High cholesterol,Atorvastatin,High cholesterol,Drinker,"Reports difficulty breathing, requires further testing",Heart Disease,High
+P0626,51,Male,"Blurred vision, headaches",Diabetes,Ibuprofen,Low oxygen levels,Active,"Reports difficulty breathing, requires further testing",Cancer Screening Needed,High
+P0686,73,Female,"Nausea, vomiting",Alzheimer's in family,Atorvastatin,Low white blood cell count,Smoker,"Suspected infection, prescribed antibiotics",Hypertension,High
+P0570,36,Female,"Thirst, frequent urination",Stroke history,,Low oxygen levels,Active,"Heart palpitations observed, needs ECG",Hypertension,High
+P1427,78,Male,"Chest pain, fatigue",Alzheimer's in family,Lisinopril,Low white blood cell count,Drinker,"Patient forgets daily activities, early dementia suspected",Diabetes,High
+P0018,57,Male,"Rapid heartbeat, sweating",High cholesterol,Insulin,Low oxygen levels,Healthy diet,"Blurry vision, check for diabetes",Gastroenteritis,Medium
+P0128,73,Male,"Blurred vision, headaches",Kidney disease,Aspirin,Normal MRI,Sedentary,Mild symptoms but family history is concerning,Heart Disease,Medium
+P0928,37,Female,"Nausea, vomiting",Diabetes,,Normal MRI,Overweight,"Patient forgets daily activities, early dementia suspected",Cancer Screening Needed,High
+P0981,36,Female,"Sudden weight loss, tiredness",Hypertension,Levothyroxine,High blood sugar,Overweight,"Patient experiences chest discomfort, possible cardiac issue",Arrhythmia,High
+P1470,69,Female,"High fever, body aches",Alzheimer's in family,Aspirin,Low oxygen levels,Healthy diet,Mild symptoms but family history is concerning,Gastroenteritis,Low
+P0191,64,Female,"Rapid heartbeat, sweating",Stroke history,Ibuprofen,Brain scan abnormality,Sedentary,"Nausea reported, possible gastrointestinal issue",Alzheimer's,Medium
+P1140,47,Female,"Shortness of breath, dizziness",Asthma,Levothyroxine,Normal MRI,Sedentary,"Blurry vision, check for diabetes",Cancer Screening Needed,High
+P0993,50,Male,"Blurred vision, headaches",Arthritis,Aspirin,High blood sugar,Overweight,"Heart palpitations observed, needs ECG",Migraine,Medium
+P1464,36,Male,"Memory loss, confusion",Arthritis,,Elevated liver enzymes,Smoker,"Heart palpitations observed, needs ECG",Migraine,Low
+P1252,39,Male,"Chest pain, fatigue",Stroke history,Insulin,Brain scan abnormality,Healthy diet,"Nausea reported, possible gastrointestinal issue",Respiratory Infection,High
+P0607,69,Female,"Sudden weight loss, tiredness",Kidney disease,Donepezil,Normal sugar,Smoker,"Patient experiences chest discomfort, possible cardiac issue",Arthritis,Medium
+P0181,35,Female,"Shortness of breath, dizziness",No known history,Lisinopril,Low white blood cell count,Healthy diet,"Heart palpitations observed, needs ECG",Arthritis,High
+P0302,73,Female,"Thirst, frequent urination",Stroke history,Metformin,Elevated liver enzymes,Drinker,"Joint pain worsening, recommended physical therapy",Arthritis,Low
+P0497,52,Male,"High fever, body aches",Asthma,Aspirin,High blood sugar,Active,"Blurry vision, check for diabetes",Gastroenteritis,Low
+P1315,65,Male,"Rapid heartbeat, sweating",Diabetes,Aspirin,High blood sugar,Sedentary,"Nausea reported, possible gastrointestinal issue",Heart Disease,High
+P1256,42,Male,"High fever, body aches",No known history,Atorvastatin,Brain scan abnormality,Drinker,"Sudden weight loss unexplained, requires evaluation",Arthritis,Medium
+P1238,46,Female,"High fever, body aches",Cancer history,,Low white blood cell count,Sedentary,"Patient forgets daily activities, early dementia suspected",Hypertension,Low
+P0518,62,Female,"Nausea, vomiting",Cancer history,,High cholesterol,Active,"Heart palpitations observed, needs ECG",Alzheimer's,High
+P1070,78,Female,"Thirst, frequent urination",Stroke history,Omeprazole,Brain scan abnormality,Smoker,Mild symptoms but family history is concerning,Hypertension,High
+P0477,60,Male,"Thirst, frequent urination",High cholesterol,Omeprazole,Elevated liver enzymes,Smoker,"Patient forgets daily activities, early dementia suspected",Diabetes,Low
+P0158,68,Male,"Chest pain, fatigue",No known history,Metformin,High blood pressure,Drinker,"Sudden weight loss unexplained, requires evaluation",Alzheimer's,Low
+P1196,46,Female,"Thirst, frequent urination",Stroke history,Levothyroxine,Low oxygen levels,Overweight,"Suspected infection, prescribed antibiotics",Cancer Screening Needed,Low
+P0017,21,Female,"Chest pain, fatigue",Cancer history,Atorvastatin,Low white blood cell count,Smoker,"Reports difficulty breathing, requires further testing",Diabetes,High
+P1073,80,Female,"Sudden weight loss, tiredness",Hypertension,Lisinopril,Normal MRI,Active,"Patient experiences chest discomfort, possible cardiac issue",Arrhythmia,Medium
+P0547,60,Female,"Nausea, vomiting",High cholesterol,Donepezil,High cholesterol,Drinker,"Blurry vision, check for diabetes",Migraine,Medium
+P0659,65,Male,"Shortness of breath, dizziness",No known history,,Irregular heartbeat detected,Drinker,"Suspected infection, prescribed antibiotics",Respiratory Infection,Low
+P1227,51,Male,"Rapid heartbeat, sweating",Asthma,Ibuprofen,Low white blood cell count,Overweight,"Blurry vision, check for diabetes",Diabetes,Medium
+P1020,34,Female,"Blurred vision, headaches",Stroke history,Omeprazole,Low oxygen levels,Sedentary,"Suspected infection, prescribed antibiotics",Arrhythmia,Medium
+P1319,23,Male,"High fever, body aches",No known history,Levothyroxine,Low white blood cell count,Smoker,"Joint pain worsening, recommended physical therapy",Respiratory Infection,High
+P0960,63,Male,"Nausea, vomiting",Hypertension,,Normal sugar,Overweight,"Suspected infection, prescribed antibiotics",Alzheimer's,Medium
+P1410,27,Female,"Rapid heartbeat, sweating",Kidney disease,Atorvastatin,Low oxygen levels,Smoker,"Blurry vision, check for diabetes",Heart Disease,Low
+P0284,62,Female,"Sudden weight loss, tiredness",Hypertension,Insulin,Low white blood cell count,Overweight,"Nausea reported, possible gastrointestinal issue",Respiratory Infection,High
+P0798,48,Male,"Shortness of breath, dizziness",Hypertension,Metformin,Normal MRI,Healthy diet,"Joint pain worsening, recommended physical therapy",Gastroenteritis,High
+P0226,25,Male,"Shortness of breath, dizziness",Arthritis,,Elevated liver enzymes,Smoker,"Patient forgets daily activities, early dementia suspected",Arthritis,High
+P0027,73,Male,"Chest pain, fatigue",Diabetes,Aspirin,Elevated liver enzymes,Drinker,"Blurry vision, check for diabetes",Arthritis,High
+P0438,58,Female,"Thirst, frequent urination",High cholesterol,Aspirin,Normal sugar,Healthy diet,"Suspected infection, prescribed antibiotics",Heart Disease,High
+P1458,49,Male,"High fever, body aches",High cholesterol,,Elevated liver enzymes,Overweight,Mild symptoms but family history is concerning,Cancer Screening Needed,Low
+P0230,39,Female,"Nausea, vomiting",High cholesterol,Aspirin,Irregular heartbeat detected,Drinker,"Suspected infection, prescribed antibiotics",Migraine,Medium
+P0038,27,Male,"Rapid heartbeat, sweating",Cancer history,Omeprazole,Normal sugar,Active,"Sudden weight loss unexplained, requires evaluation",Respiratory Infection,Low
+P0750,74,Male,"Shortness of breath, dizziness",Diabetes,Metformin,Normal MRI,Active,"Joint pain worsening, recommended physical therapy",Cancer Screening Needed,High
+P1046,75,Female,"Memory loss, confusion",High cholesterol,Insulin,Low oxygen levels,Overweight,"Blurry vision, check for diabetes",Cancer Screening Needed,High
+P0470,36,Male,"Sudden weight loss, tiredness",Kidney disease,Levothyroxine,High blood pressure,Overweight,"Patient forgets daily activities, early dementia suspected",Hypertension,High
+P1279,55,Male,"High fever, body aches",High cholesterol,,Low white blood cell count,Active,"Suspected infection, prescribed antibiotics",Gastroenteritis,High
+P1473,59,Male,"Rapid heartbeat, sweating",Asthma,Insulin,Elevated liver enzymes,Sedentary,"Reports difficulty breathing, requires further testing",Heart Disease,Low
+P0688,62,Female,"Shortness of breath, dizziness",Stroke history,Insulin,High blood sugar,Sedentary,"Reports difficulty breathing, requires further testing",Alzheimer's,Medium
+P1379,50,Female,"Sudden weight loss, tiredness",High cholesterol,Omeprazole,Irregular heartbeat detected,Drinker,"Suspected infection, prescribed antibiotics",Arthritis,High
+P0640,47,Male,"Rapid heartbeat, sweating",Alzheimer's in family,Omeprazole,High cholesterol,Overweight,"Blurry vision, check for diabetes",Arthritis,Medium
+P1417,22,Male,"Chest pain, fatigue",Hypertension,Aspirin,Normal sugar,Overweight,"Reports difficulty breathing, requires further testing",Alzheimer's,Medium
+P1219,64,Male,"High fever, body aches",Arthritis,Atorvastatin,High cholesterol,Healthy diet,"Joint pain worsening, recommended physical therapy",Arthritis,Medium
+P1159,76,Female,"High fever, body aches",Alzheimer's in family,Lisinopril,Low oxygen levels,Smoker,"Suspected infection, prescribed antibiotics",Diabetes,High
+P1251,65,Female,"Memory loss, confusion",Stroke history,Aspirin,Normal MRI,Active,"Suspected infection, prescribed antibiotics",Migraine,Low
+P1440,69,Female,"Thirst, frequent urination",Stroke history,Insulin,Irregular heartbeat detected,Overweight,"Blurry vision, check for diabetes",Arthritis,Low
+P0801,57,Female,"High fever, body aches",Hypertension,Aspirin,Normal MRI,Overweight,"Patient forgets daily activities, early dementia suspected",Hypertension,High
+P0161,44,Female,"High fever, body aches",Cancer history,Levothyroxine,Irregular heartbeat detected,Drinker,"Patient experiences chest discomfort, possible cardiac issue",Arthritis,Low
+P0957,38,Female,"Memory loss, confusion",Stroke history,Lisinopril,Low white blood cell count,Sedentary,"Reports difficulty breathing, requires further testing",Heart Disease,Low
+P1187,47,Female,"Shortness of breath, dizziness",Arthritis,Donepezil,Irregular heartbeat detected,Active,"Joint pain worsening, recommended physical therapy",Gastroenteritis,High
+P0822,24,Male,"Memory loss, confusion",Stroke history,Metformin,Normal sugar,Overweight,"Reports difficulty breathing, requires further testing",Heart Disease,High
+P1271,52,Female,"Chest pain, fatigue",Hypertension,,Normal MRI,Healthy diet,"Patient forgets daily activities, early dementia suspected",Hypertension,Low
+P0878,78,Male,"Blurred vision, headaches",Kidney disease,Metformin,Brain scan abnormality,Overweight,"Patient experiences chest discomfort, possible cardiac issue",Arrhythmia,Medium
+P0914,58,Female,"Shortness of breath, dizziness",High cholesterol,Levothyroxine,Normal MRI,Sedentary,"Sudden weight loss unexplained, requires evaluation",Migraine,Low
+P0153,42,Female,"Rapid heartbeat, sweating",Cancer history,Metformin,Low oxygen levels,Healthy diet,"Nausea reported, possible gastrointestinal issue",Gastroenteritis,Low
+P1374,27,Male,"Rapid heartbeat, sweating",No known history,Omeprazole,High blood pressure,Overweight,"Suspected infection, prescribed antibiotics",Gastroenteritis,Low
+P0510,35,Male,"Nausea, vomiting",Kidney disease,Insulin,Irregular heartbeat detected,Smoker,"Sudden weight loss unexplained, requires evaluation",Alzheimer's,Low
+P1136,54,Male,"Memory loss, confusion",Stroke history,Donepezil,High blood sugar,Smoker,"Patient forgets daily activities, early dementia suspected",Arthritis,Low
+P1322,28,Male,"Memory loss, confusion",Kidney disease,Insulin,High cholesterol,Smoker,"Blurry vision, check for diabetes",Hypertension,Low
+P0104,37,Female,"Joint pain, swelling",Asthma,Lisinopril,High blood pressure,Smoker,"Suspected infection, prescribed antibiotics",Alzheimer's,Low
+P0587,59,Male,"Memory loss, confusion",Cancer history,Insulin,Low white blood cell count,Active,"Joint pain worsening, recommended physical therapy",Heart Disease,High
+P1329,80,Female,"Rapid heartbeat, sweating",Hypertension,Insulin,Low oxygen levels,Overweight,"Suspected infection, prescribed antibiotics",Respiratory Infection,Low
+P1144,67,Male,"Nausea, vomiting",Diabetes,Omeprazole,High cholesterol,Drinker,"Sudden weight loss unexplained, requires evaluation",Migraine,Medium
+P0054,64,Male,"Rapid heartbeat, sweating",Alzheimer's in family,Atorvastatin,Normal sugar,Overweight,"Nausea reported, possible gastrointestinal issue",Hypertension,Medium
+P0152,39,Male,"Nausea, vomiting",No known history,Donepezil,Brain scan abnormality,Sedentary,"Nausea reported, possible gastrointestinal issue",Heart Disease,Low
+P0404,52,Female,"Joint pain, swelling",Kidney disease,,Elevated liver enzymes,Sedentary,"Blurry vision, check for diabetes",Alzheimer's,Medium
+P1455,21,Male,"Rapid heartbeat, sweating",Alzheimer's in family,Donepezil,Brain scan abnormality,Overweight,"Patient forgets daily activities, early dementia suspected",Arrhythmia,High
+P0208,34,Male,"Shortness of breath, dizziness",Cancer history,Lisinopril,Normal MRI,Sedentary,"Patient forgets daily activities, early dementia suspected",Hypertension,High
+P1418,80,Female,"Shortness of breath, dizziness",Asthma,Lisinopril,High blood pressure,Sedentary,"Sudden weight loss unexplained, requires evaluation",Migraine,Medium
+P1123,63,Male,"Thirst, frequent urination",Cancer history,Donepezil,Low white blood cell count,Smoker,"Nausea reported, possible gastrointestinal issue",Diabetes,Medium
+P0009,36,Female,"High fever, body aches",Cancer history,Metformin,Normal MRI,Active,"Joint pain worsening, recommended physical therapy",Heart Disease,Medium
+P1015,69,Female,"Shortness of breath, dizziness",Alzheimer's in family,Aspirin,Low oxygen levels,Healthy diet,"Sudden weight loss unexplained, requires evaluation",Arthritis,High
+P1344,34,Male,"High fever, body aches",Hypertension,Atorvastatin,High blood sugar,Overweight,"Joint pain worsening, recommended physical therapy",Respiratory Infection,Low
+P1061,44,Male,"Chest pain, fatigue",Alzheimer's in family,,Normal sugar,Overweight,"Suspected infection, prescribed antibiotics",Cancer Screening Needed,High
+P0453,41,Male,"Blurred vision, headaches",Asthma,Levothyroxine,Normal sugar,Smoker,"Suspected infection, prescribed antibiotics",Cancer Screening Needed,Medium
+P0254,72,Male,"Chest pain, fatigue",Hypertension,Metformin,High blood pressure,Overweight,"Sudden weight loss unexplained, requires evaluation",Alzheimer's,Low
+P0897,39,Male,"Blurred vision, headaches",Asthma,Aspirin,Brain scan abnormality,Drinker,"Heart palpitations observed, needs ECG",Respiratory Infection,Low
+P1309,24,Male,"Thirst, frequent urination",Kidney disease,Donepezil,Low oxygen levels,Healthy diet,"Blurry vision, check for diabetes",Arrhythmia,Medium
+P0881,38,Female,"Blurred vision, headaches",Stroke history,Lisinopril,Elevated liver enzymes,Active,Mild symptoms but family history is concerning,Heart Disease,Low
+P1428,65,Male,"Sudden weight loss, tiredness",Asthma,,Elevated liver enzymes,Smoker,"Nausea reported, possible gastrointestinal issue",Arrhythmia,High
+P0624,72,Female,"Blurred vision, headaches",Kidney disease,Atorvastatin,Low white blood cell count,Overweight,"Patient experiences chest discomfort, possible cardiac issue",Hypertension,High
+P0346,21,Male,"Rapid heartbeat, sweating",High cholesterol,Omeprazole,Brain scan abnormality,Smoker,"Sudden weight loss unexplained, requires evaluation",Alzheimer's,Low
+P1287,59,Male,"Nausea, vomiting",Asthma,Omeprazole,Normal MRI,Healthy diet,"Patient forgets daily activities, early dementia suspected",Alzheimer's,High
+P0263,67,Male,"Blurred vision, headaches",Diabetes,,Normal sugar,Sedentary,"Nausea reported, possible gastrointestinal issue",Arthritis,Low
+P0151,28,Female,"Thirst, frequent urination",No known history,Metformin,High blood pressure,Overweight,"Nausea reported, possible gastrointestinal issue",Arrhythmia,High
+P0473,59,Male,"Chest pain, fatigue",Arthritis,Ibuprofen,Normal MRI,Active,"Joint pain worsening, recommended physical therapy",Arrhythmia,Low
+P0641,53,Female,"Nausea, vomiting",Arthritis,Omeprazole,Brain scan abnormality,Active,"Sudden weight loss unexplained, requires evaluation",Hypertension,Low
+P1485,78,Male,"Sudden weight loss, tiredness",Diabetes,Atorvastatin,Normal MRI,Overweight,"Patient experiences chest discomfort, possible cardiac issue",Cancer Screening Needed,Low
+P1411,31,Female,"Sudden weight loss, tiredness",No known history,Insulin,Low oxygen levels,Overweight,"Heart palpitations observed, needs ECG",Respiratory Infection,Low
+P0551,62,Male,"High fever, body aches",Hypertension,Levothyroxine,High blood sugar,Healthy diet,"Sudden weight loss unexplained, requires evaluation",Hypertension,Low
+P0929,66,Female,"Sudden weight loss, tiredness",Asthma,Metformin,Elevated liver enzymes,Overweight,"Sudden weight loss unexplained, requires evaluation",Migraine,Medium
+P0489,27,Female,"Memory loss, confusion",Arthritis,Lisinopril,Normal MRI,Sedentary,"Joint pain worsening, recommended physical therapy",Hypertension,Low
+P1357,32,Male,"Thirst, frequent urination",Diabetes,Lisinopril,High blood sugar,Active,"Suspected infection, prescribed antibiotics",Heart Disease,High
+P1172,33,Male,"Sudden weight loss, tiredness",High cholesterol,Levothyroxine,Normal MRI,Smoker,"Patient forgets daily activities, early dementia suspected",Arrhythmia,High
+P0147,47,Male,"Thirst, frequent urination",Asthma,Lisinopril,High cholesterol,Drinker,"Nausea reported, possible gastrointestinal issue",Heart Disease,Low
+P0403,49,Female,"Joint pain, swelling",Kidney disease,Metformin,Brain scan abnormality,Active,"Patient forgets daily activities, early dementia suspected",Diabetes,Low
+P0955,36,Male,"Thirst, frequent urination",High cholesterol,Omeprazole,Low oxygen levels,Smoker,"Joint pain worsening, recommended physical therapy",Heart Disease,Medium
+P1406,66,Female,"Blurred vision, headaches",No known history,Ibuprofen,Irregular heartbeat detected,Sedentary,"Joint pain worsening, recommended physical therapy",Migraine,Low
+P0660,71,Female,"High fever, body aches",Hypertension,Ibuprofen,High blood sugar,Overweight,Mild symptoms but family history is concerning,Alzheimer's,Medium
+P0464,74,Female,"Shortness of breath, dizziness",Kidney disease,Aspirin,High cholesterol,Drinker,"Sudden weight loss unexplained, requires evaluation",Arthritis,High
+P0187,48,Female,"Thirst, frequent urination",No known history,Omeprazole,Irregular heartbeat detected,Overweight,"Patient experiences chest discomfort, possible cardiac issue",Respiratory Infection,High
+P1148,62,Male,"Memory loss, confusion",Diabetes,Levothyroxine,Brain scan abnormality,Healthy diet,"Blurry vision, check for diabetes",Arthritis,Low
+P1225,70,Male,"Memory loss, confusion",Cancer history,Aspirin,High blood pressure,Healthy diet,"Blurry vision, check for diabetes",Heart Disease,Low
+P0609,42,Female,"Joint pain, swelling",Kidney disease,Insulin,High blood pressure,Smoker,"Sudden weight loss unexplained, requires evaluation",Gastroenteritis,Medium
+P0144,79,Male,"Rapid heartbeat, sweating",Diabetes,Insulin,Low oxygen levels,Smoker,"Suspected infection, prescribed antibiotics",Diabetes,Low
+P0752,28,Female,"Shortness of breath, dizziness",Cancer history,Lisinopril,Normal sugar,Active,"Reports difficulty breathing, requires further testing",Arthritis,Low
+P0982,76,Male,"Chest pain, fatigue",Kidney disease,Metformin,High cholesterol,Healthy diet,"Reports difficulty breathing, requires further testing",Hypertension,Low
+P0198,30,Male,"Sudden weight loss, tiredness",Hypertension,Ibuprofen,Brain scan abnormality,Healthy diet,"Suspected infection, prescribed antibiotics",Alzheimer's,High
+P0884,64,Female,"Thirst, frequent urination",No known history,Metformin,Normal sugar,Smoker,"Patient experiences chest discomfort, possible cardiac issue",Cancer Screening Needed,High
+P0280,28,Male,"Memory loss, confusion",No known history,Ibuprofen,Irregular heartbeat detected,Drinker,"Blurry vision, check for diabetes",Arthritis,Medium
+P0294,45,Female,"Rapid heartbeat, sweating",Kidney disease,Ibuprofen,Low oxygen levels,Drinker,"Blurry vision, check for diabetes",Diabetes,High
+P1365,38,Female,"Sudden weight loss, tiredness",Asthma,Metformin,Normal MRI,Drinker,"Heart palpitations observed, needs ECG",Gastroenteritis,High
+P0401,53,Male,"Chest pain, fatigue",Cancer history,Levothyroxine,Normal sugar,Overweight,"Blurry vision, check for diabetes",Respiratory Infection,Medium
+P0123,40,Female,"Sudden weight loss, tiredness",High cholesterol,Insulin,Brain scan abnormality,Sedentary,"Patient forgets daily activities, early dementia suspected",Heart Disease,Low
+P1208,76,Female,"Shortness of breath, dizziness",No known history,Ibuprofen,High blood sugar,Active,Mild symptoms but family history is concerning,Alzheimer's,Medium
+P0203,49,Female,"Rapid heartbeat, sweating",Asthma,Aspirin,Low oxygen levels,Active,Mild symptoms but family history is concerning,Hypertension,Medium
+P0836,41,Male,"Chest pain, fatigue",Kidney disease,Atorvastatin,Normal MRI,Smoker,Mild symptoms but family history is concerning,Cancer Screening Needed,Medium
+P0247,38,Female,"Nausea, vomiting",High cholesterol,Aspirin,High blood pressure,Sedentary,"Patient experiences chest discomfort, possible cardiac issue",Cancer Screening Needed,Low
+P1423,53,Male,"Memory loss, confusion",Kidney disease,Insulin,Normal sugar,Sedentary,Mild symptoms but family history is concerning,Respiratory Infection,Medium
+P1409,50,Female,"High fever, body aches",Hypertension,Atorvastatin,High blood sugar,Smoker,"Reports difficulty breathing, requires further testing",Migraine,Low
+P1154,66,Male,"High fever, body aches",No known history,Omeprazole,Low oxygen levels,Smoker,"Blurry vision, check for diabetes",Migraine,High
+P0385,33,Male,"Shortness of breath, dizziness",Diabetes,Omeprazole,Brain scan abnormality,Overweight,"Patient experiences chest discomfort, possible cardiac issue",Cancer Screening Needed,Low
+P1323,61,Female,"Joint pain, swelling",Arthritis,Aspirin,Normal sugar,Healthy diet,"Joint pain worsening, recommended physical therapy",Gastroenteritis,High
+P0855,44,Female,"Nausea, vomiting",Arthritis,Lisinopril,Elevated liver enzymes,Overweight,"Patient forgets daily activities, early dementia suspected",Heart Disease,Low
+P0220,57,Male,"Sudden weight loss, tiredness",Stroke history,Omeprazole,High cholesterol,Active,"Sudden weight loss unexplained, requires evaluation",Hypertension,High
+P0642,57,Female,"Shortness of breath, dizziness",Kidney disease,Aspirin,Low white blood cell count,Smoker,"Blurry vision, check for diabetes",Gastroenteritis,High
+P0002,61,Male,"Shortness of breath, dizziness",Arthritis,Levothyroxine,High blood pressure,Smoker,"Nausea reported, possible gastrointestinal issue",Respiratory Infection,Medium
+P0113,55,Male,"Sudden weight loss, tiredness",High cholesterol,Metformin,High cholesterol,Healthy diet,Mild symptoms but family history is concerning,Alzheimer's,High
+P0699,32,Male,"Shortness of breath, dizziness",Hypertension,Ibuprofen,Normal MRI,Healthy diet,"Heart palpitations observed, needs ECG",Hypertension,Medium
+P1432,34,Male,"Blurred vision, headaches",Arthritis,Levothyroxine,Low oxygen levels,Overweight,"Suspected infection, prescribed antibiotics",Gastroenteritis,Medium
+P0952,42,Female,"Memory loss, confusion",Stroke history,Donepezil,High blood pressure,Drinker,"Patient experiences chest discomfort, possible cardiac issue",Respiratory Infection,Low
+P1318,74,Female,"Chest pain, fatigue",High cholesterol,Omeprazole,Low white blood cell count,Sedentary,Mild symptoms but family history is concerning,Cancer Screening Needed,Medium
+P1292,75,Female,"Memory loss, confusion",Hypertension,Ibuprofen,High blood pressure,Active,"Reports difficulty breathing, requires further testing",Arthritis,Medium
+P1354,23,Female,"Blurred vision, headaches",Hypertension,Insulin,High blood sugar,Drinker,"Reports difficulty breathing, requires further testing",Gastroenteritis,High
+P0442,47,Male,"Thirst, frequent urination",Asthma,Ibuprofen,Brain scan abnormality,Smoker,"Suspected infection, prescribed antibiotics",Heart Disease,Low
+P1137,55,Male,"High fever, body aches",High cholesterol,Levothyroxine,High cholesterol,Active,"Nausea reported, possible gastrointestinal issue",Arthritis,High
+P1257,56,Male,"Shortness of breath, dizziness",Stroke history,Omeprazole,Brain scan abnormality,Active,"Joint pain worsening, recommended physical therapy",Diabetes,High
+P0664,20,Female,"High fever, body aches",Hypertension,Donepezil,High blood pressure,Smoker,"Heart palpitations observed, needs ECG",Heart Disease,Medium
+P1373,27,Female,"Shortness of breath, dizziness",Hypertension,Insulin,High blood pressure,Sedentary,"Suspected infection, prescribed antibiotics",Cancer Screening Needed,Low
+P1258,76,Female,"Rapid heartbeat, sweating",Alzheimer's in family,Lisinopril,High blood pressure,Sedentary,"Blurry vision, check for diabetes",Arthritis,High
+P1332,25,Male,"Chest pain, fatigue",Alzheimer's in family,Donepezil,Brain scan abnormality,Drinker,"Sudden weight loss unexplained, requires evaluation",Migraine,Low
+P0318,68,Female,"Shortness of breath, dizziness",Hypertension,Levothyroxine,Brain scan abnormality,Drinker,"Heart palpitations observed, needs ECG",Diabetes,Medium
+P0649,50,Female,"Blurred vision, headaches",Alzheimer's in family,Omeprazole,Irregular heartbeat detected,Healthy diet,Mild symptoms but family history is concerning,Migraine,Medium
+P0710,76,Male,"Nausea, vomiting",Diabetes,,High blood sugar,Active,"Reports difficulty breathing, requires further testing",Respiratory Infection,Medium
+P1283,62,Female,"Chest pain, fatigue",No known history,Lisinopril,Elevated liver enzymes,Active,"Patient forgets daily activities, early dementia suspected",Arrhythmia,Low
+P0973,28,Female,"Chest pain, fatigue",Kidney disease,Lisinopril,Low oxygen levels,Active,"Joint pain worsening, recommended physical therapy",Heart Disease,High
+P0628,63,Male,"Rapid heartbeat, sweating",High cholesterol,Omeprazole,Normal sugar,Active,Mild symptoms but family history is concerning,Arthritis,Medium
+P0633,31,Female,"Rapid heartbeat, sweating",Stroke history,Metformin,High blood sugar,Active,"Patient forgets daily activities, early dementia suspected",Migraine,Low
+P1307,50,Male,"Rapid heartbeat, sweating",Alzheimer's in family,,Normal sugar,Drinker,Mild symptoms but family history is concerning,Hypertension,Low
+P1249,42,Male,"Sudden weight loss, tiredness",Hypertension,Aspirin,High blood pressure,Smoker,"Blurry vision, check for diabetes",Respiratory Infection,Medium
+P1462,44,Female,"Shortness of breath, dizziness",Arthritis,Lisinopril,Brain scan abnormality,Smoker,"Sudden weight loss unexplained, requires evaluation",Migraine,High
+P1255,59,Male,"Sudden weight loss, tiredness",Arthritis,Atorvastatin,High blood sugar,Active,"Suspected infection, prescribed antibiotics",Cancer Screening Needed,Low
+P1384,79,Female,"Memory loss, confusion",High cholesterol,,Low oxygen levels,Smoker,"Heart palpitations observed, needs ECG",Heart Disease,Medium
+P0796,69,Female,"Nausea, vomiting",Asthma,Levothyroxine,Elevated liver enzymes,Active,"Reports difficulty breathing, requires further testing",Arrhythmia,Medium
+P0646,39,Male,"Chest pain, fatigue",Kidney disease,Insulin,High cholesterol,Healthy diet,"Sudden weight loss unexplained, requires evaluation",Arrhythmia,Medium
+P1013,29,Male,"Nausea, vomiting",Arthritis,Levothyroxine,Irregular heartbeat detected,Active,"Patient forgets daily activities, early dementia suspected",Gastroenteritis,High
+P0557,51,Female,"Memory loss, confusion",Asthma,Ibuprofen,Low oxygen levels,Overweight,"Patient experiences chest discomfort, possible cardiac issue",Gastroenteritis,High
+P0682,50,Female,"High fever, body aches",Arthritis,Omeprazole,Elevated liver enzymes,Sedentary,"Patient forgets daily activities, early dementia suspected",Cancer Screening Needed,High
+P0578,51,Female,"Joint pain, swelling",Cancer history,Lisinopril,Normal sugar,Active,"Patient forgets daily activities, early dementia suspected",Hypertension,Low
+P1110,50,Female,"Memory loss, confusion",Asthma,Insulin,Low white blood cell count,Overweight,"Patient experiences chest discomfort, possible cardiac issue",Arrhythmia,Low
+P1267,46,Female,"Thirst, frequent urination",Alzheimer's in family,Atorvastatin,High cholesterol,Healthy diet,"Suspected infection, prescribed antibiotics",Alzheimer's,Low
+P1184,29,Female,"Blurred vision, headaches",No known history,Ibuprofen,Normal sugar,Sedentary,"Nausea reported, possible gastrointestinal issue",Arthritis,High
+P0525,65,Female,"Sudden weight loss, tiredness",Stroke history,Lisinopril,Normal MRI,Overweight,"Patient forgets daily activities, early dementia suspected",Gastroenteritis,Medium
+P1060,33,Male,"Chest pain, fatigue",Alzheimer's in family,Ibuprofen,Irregular heartbeat detected,Sedentary,"Patient experiences chest discomfort, possible cardiac issue",Heart Disease,High
+P0541,46,Male,"Joint pain, swelling",Cancer history,Metformin,Low white blood cell count,Healthy diet,Mild symptoms but family history is concerning,Hypertension,Medium
+P1195,46,Female,"Joint pain, swelling",Stroke history,Levothyroxine,Brain scan abnormality,Healthy diet,"Suspected infection, prescribed antibiotics",Heart Disease,Medium
+P0749,25,Male,"High fever, body aches",Kidney disease,Levothyroxine,Normal sugar,Smoker,"Patient experiences chest discomfort, possible cardiac issue",Alzheimer's,Low
+P1387,68,Male,"Blurred vision, headaches",No known history,Omeprazole,High blood sugar,Sedentary,"Nausea reported, possible gastrointestinal issue",Respiratory Infection,Low
+P0485,65,Male,"Blurred vision, headaches",Cancer history,Insulin,Elevated liver enzymes,Drinker,"Suspected infection, prescribed antibiotics",Hypertension,Medium
+P0096,39,Male,"Sudden weight loss, tiredness",Diabetes,Ibuprofen,High blood pressure,Drinker,Mild symptoms but family history is concerning,Respiratory Infection,High
+P1021,25,Male,"Joint pain, swelling",High cholesterol,Insulin,High cholesterol,Active,"Reports difficulty breathing, requires further testing",Respiratory Infection,Medium
+P0564,71,Female,"Chest pain, fatigue",Hypertension,Levothyroxine,High blood pressure,Active,"Blurry vision, check for diabetes",Migraine,High
+P1265,38,Male,"Blurred vision, headaches",High cholesterol,Lisinopril,Brain scan abnormality,Smoker,"Nausea reported, possible gastrointestinal issue",Heart Disease,Medium
+P0743,53,Male,"High fever, body aches",Asthma,Donepezil,High blood pressure,Overweight,"Reports difficulty breathing, requires further testing",Cancer Screening Needed,High
+P0864,63,Male,"Thirst, frequent urination",No known history,Aspirin,High blood pressure,Healthy diet,"Suspected infection, prescribed antibiotics",Heart Disease,High
+P0892,68,Female,"Thirst, frequent urination",Alzheimer's in family,Atorvastatin,Normal sugar,Overweight,"Blurry vision, check for diabetes",Migraine,Medium
+P1039,60,Male,"Nausea, vomiting",Cancer history,Insulin,High blood sugar,Drinker,"Joint pain worsening, recommended physical therapy",Hypertension,Medium
+P0207,39,Male,"Thirst, frequent urination",Asthma,Atorvastatin,Elevated liver enzymes,Sedentary,"Joint pain worsening, recommended physical therapy",Hypertension,Medium
+P0393,71,Female,"Blurred vision, headaches",Arthritis,Atorvastatin,Low oxygen levels,Overweight,"Nausea reported, possible gastrointestinal issue",Respiratory Infection,High
+P0795,76,Male,"Joint pain, swelling",Alzheimer's in family,Omeprazole,High blood pressure,Smoker,"Patient experiences chest discomfort, possible cardiac issue",Cancer Screening Needed,Medium
+P0871,68,Female,"High fever, body aches",Stroke history,Lisinopril,Brain scan abnormality,Active,"Suspected infection, prescribed antibiotics",Arthritis,Low
+P0398,71,Female,"Nausea, vomiting",Kidney disease,Omeprazole,Low oxygen levels,Smoker,"Patient experiences chest discomfort, possible cardiac issue",Diabetes,Medium
+P0767,76,Male,"Chest pain, fatigue",Cancer history,Ibuprofen,High blood pressure,Overweight,"Joint pain worsening, recommended physical therapy",Gastroenteritis,High
+P1377,32,Male,"Blurred vision, headaches",Asthma,Insulin,High blood sugar,Healthy diet,"Patient forgets daily activities, early dementia suspected",Diabetes,Low
+P1242,43,Female,"Chest pain, fatigue",Diabetes,Atorvastatin,Elevated liver enzymes,Sedentary,"Patient forgets daily activities, early dementia suspected",Diabetes,Low
+P1029,76,Female,"Thirst, frequent urination",Alzheimer's in family,Ibuprofen,Normal sugar,Healthy diet,"Nausea reported, possible gastrointestinal issue",Respiratory Infection,Medium
+P0643,23,Female,"Thirst, frequent urination",No known history,Aspirin,High blood sugar,Overweight,"Nausea reported, possible gastrointestinal issue",Gastroenteritis,High
+P0613,32,Male,"Sudden weight loss, tiredness",Kidney disease,Omeprazole,High cholesterol,Sedentary,"Suspected infection, prescribed antibiotics",Arrhythmia,Low
+P0961,52,Male,"Rapid heartbeat, sweating",Arthritis,Ibuprofen,Low oxygen levels,Sedentary,"Sudden weight loss unexplained, requires evaluation",Alzheimer's,Low
+P0726,20,Male,"Nausea, vomiting",Cancer history,Atorvastatin,Brain scan abnormality,Overweight,"Heart palpitations observed, needs ECG",Respiratory Infection,Low
+P0684,78,Male,"High fever, body aches",No known history,,Elevated liver enzymes,Sedentary,Mild symptoms but family history is concerning,Heart Disease,High
+P0099,40,Female,"Memory loss, confusion",Stroke history,Lisinopril,Normal sugar,Active,Mild symptoms but family history is concerning,Cancer Screening Needed,High
+P0805,74,Female,"Nausea, vomiting",No known history,Omeprazole,Elevated liver enzymes,Sedentary,"Joint pain worsening, recommended physical therapy",Arrhythmia,High
+P0407,47,Male,"High fever, body aches",No known history,Aspirin,Normal sugar,Sedentary,"Nausea reported, possible gastrointestinal issue",Gastroenteritis,Medium
+P0503,42,Female,"Chest pain, fatigue",Asthma,,Normal sugar,Drinker,"Patient experiences chest discomfort, possible cardiac issue",Arrhythmia,Low
+P1072,77,Male,"Blurred vision, headaches",Alzheimer's in family,Donepezil,Normal sugar,Healthy diet,"Blurry vision, check for diabetes",Migraine,Low
+P1057,66,Female,"Rapid heartbeat, sweating",Asthma,Metformin,High blood sugar,Overweight,"Nausea reported, possible gastrointestinal issue",Arthritis,Low
+P0930,32,Male,"Shortness of breath, dizziness",Alzheimer's in family,Donepezil,Low oxygen levels,Active,"Patient forgets daily activities, early dementia suspected",Respiratory Infection,Low
+P0780,32,Female,"Nausea, vomiting",High cholesterol,Omeprazole,Irregular heartbeat detected,Drinker,"Reports difficulty breathing, requires further testing",Heart Disease,Low
+P0201,30,Male,"Rapid heartbeat, sweating",Diabetes,Omeprazole,High blood pressure,Smoker,"Reports difficulty breathing, requires further testing",Cancer Screening Needed,Low
+P0135,64,Male,"High fever, body aches",High cholesterol,Atorvastatin,Normal sugar,Smoker,"Patient experiences chest discomfort, possible cardiac issue",Migraine,Medium
+P1052,31,Female,"Shortness of breath, dizziness",Cancer history,Metformin,Brain scan abnormality,Drinker,"Nausea reported, possible gastrointestinal issue",Cancer Screening Needed,Medium
+P0041,50,Female,"Shortness of breath, dizziness",Asthma,Omeprazole,Elevated liver enzymes,Overweight,"Heart palpitations observed, needs ECG",Cancer Screening Needed,Low
+P1018,22,Male,"Chest pain, fatigue",Kidney disease,Lisinopril,Low oxygen levels,Active,"Patient experiences chest discomfort, possible cardiac issue",Hypertension,Medium
+P0231,27,Male,"Blurred vision, headaches",High cholesterol,Ibuprofen,High blood sugar,Smoker,"Heart palpitations observed, needs ECG",Gastroenteritis,Medium
+P0379,42,Male,"Sudden weight loss, tiredness",Asthma,Aspirin,Low white blood cell count,Smoker,"Heart palpitations observed, needs ECG",Respiratory Infection,Low
+P0289,72,Male,"Chest pain, fatigue",Diabetes,Lisinopril,Low oxygen levels,Healthy diet,"Joint pain worsening, recommended physical therapy",Cancer Screening Needed,High
+P0419,54,Female,"Rapid heartbeat, sweating",Cancer history,,Normal sugar,Smoker,Mild symptoms but family history is concerning,Diabetes,High
+P0392,48,Female,"Nausea, vomiting",Alzheimer's in family,Atorvastatin,Normal sugar,Overweight,Mild symptoms but family history is concerning,Respiratory Infection,Medium
+P0593,54,Female,"Sudden weight loss, tiredness",Cancer history,Atorvastatin,Low oxygen levels,Drinker,"Patient forgets daily activities, early dementia suspected",Cancer Screening Needed,Low
+P1163,30,Male,"Shortness of breath, dizziness",Asthma,Insulin,Irregular heartbeat detected,Smoker,"Heart palpitations observed, needs ECG",Gastroenteritis,Medium
+P1087,51,Male,"High fever, body aches",Stroke history,Levothyroxine,Low oxygen levels,Smoker,"Reports difficulty breathing, requires further testing",Heart Disease,Medium
+P0648,34,Male,"High fever, body aches",Diabetes,Levothyroxine,Normal MRI,Overweight,"Joint pain worsening, recommended physical therapy",Gastroenteritis,High
+P1153,51,Female,"Sudden weight loss, tiredness",Hypertension,Atorvastatin,High blood pressure,Overweight,"Blurry vision, check for diabetes",Arthritis,Low
+P1368,53,Male,"Blurred vision, headaches",Stroke history,,High blood pressure,Active,"Nausea reported, possible gastrointestinal issue",Respiratory Infection,Medium
+P0521,40,Male,"Sudden weight loss, tiredness",Hypertension,Ibuprofen,High blood sugar,Sedentary,"Patient experiences chest discomfort, possible cardiac issue",Migraine,High
+P0065,24,Male,"Joint pain, swelling",Cancer history,Lisinopril,High blood sugar,Drinker,Mild symptoms but family history is concerning,Alzheimer's,Medium
+P0015,34,Male,"High fever, body aches",Kidney disease,Insulin,Brain scan abnormality,Overweight,"Suspected infection, prescribed antibiotics",Migraine,High
+P1181,45,Female,"Nausea, vomiting",Alzheimer's in family,Aspirin,High blood sugar,Active,"Suspected infection, prescribed antibiotics",Gastroenteritis,Low
+P1065,29,Female,"Memory loss, confusion",Alzheimer's in family,Lisinopril,Low oxygen levels,Healthy diet,"Patient experiences chest discomfort, possible cardiac issue",Alzheimer's,Medium
+P0493,75,Female,"Rapid heartbeat, sweating",Cancer history,Aspirin,Brain scan abnormality,Healthy diet,"Patient forgets daily activities, early dementia suspected",Heart Disease,Medium
+P0380,23,Female,"High fever, body aches",Kidney disease,Omeprazole,Elevated liver enzymes,Healthy diet,"Heart palpitations observed, needs ECG",Gastroenteritis,High
+P0188,63,Male,"Shortness of breath, dizziness",Diabetes,Aspirin,Normal MRI,Healthy diet,"Sudden weight loss unexplained, requires evaluation",Cancer Screening Needed,High
+P0764,63,Female,"Shortness of breath, dizziness",Cancer history,Omeprazole,High cholesterol,Drinker,"Blurry vision, check for diabetes",Diabetes,High
+P0217,74,Male,"Joint pain, swelling",Stroke history,Lisinopril,High blood sugar,Overweight,"Joint pain worsening, recommended physical therapy",Gastroenteritis,Low
+P0792,67,Female,"Sudden weight loss, tiredness",No known history,Omeprazole,Normal MRI,Drinker,"Nausea reported, possible gastrointestinal issue",Gastroenteritis,Low
+P1077,68,Male,"Rapid heartbeat, sweating",High cholesterol,Aspirin,Low white blood cell count,Drinker,"Reports difficulty breathing, requires further testing",Gastroenteritis,High
+P0879,61,Female,"Memory loss, confusion",Stroke history,Aspirin,High cholesterol,Sedentary,"Joint pain worsening, recommended physical therapy",Cancer Screening Needed,High
+P0338,21,Female,"Memory loss, confusion",Hypertension,Levothyroxine,High blood pressure,Drinker,"Suspected infection, prescribed antibiotics",Hypertension,Medium
+P0720,80,Male,"Nausea, vomiting",No known history,Insulin,Low oxygen levels,Smoker,"Suspected infection, prescribed antibiotics",Diabetes,Low
+P0296,45,Female,"Sudden weight loss, tiredness",Asthma,Omeprazole,Low oxygen levels,Active,Mild symptoms but family history is concerning,Cancer Screening Needed,Medium
+P1017,36,Female,"Joint pain, swelling",Hypertension,Metformin,Low white blood cell count,Active,"Suspected infection, prescribed antibiotics",Migraine,High
+P1276,31,Female,"Nausea, vomiting",Diabetes,Levothyroxine,Low white blood cell count,Smoker,"Nausea reported, possible gastrointestinal issue",Gastroenteritis,Medium
+P0456,30,Female,"Nausea, vomiting",Arthritis,,Normal MRI,Active,"Patient forgets daily activities, early dementia suspected",Arthritis,High
+P1497,65,Female,"Nausea, vomiting",Hypertension,Insulin,High blood pressure,Smoker,Mild symptoms but family history is concerning,Migraine,Medium
+P0816,43,Male,"Memory loss, confusion",High cholesterol,Insulin,Low white blood cell count,Drinker,"Reports difficulty breathing, requires further testing",Diabetes,Medium
+P0270,29,Female,"Memory loss, confusion",Hypertension,Ibuprofen,High blood pressure,Active,"Sudden weight loss unexplained, requires evaluation",Diabetes,Medium
+P0996,80,Female,"Joint pain, swelling",Arthritis,Atorvastatin,High blood sugar,Healthy diet,"Patient forgets daily activities, early dementia suspected",Migraine,High
+P0202,50,Male,"Sudden weight loss, tiredness",Asthma,Metformin,Low white blood cell count,Drinker,"Heart palpitations observed, needs ECG",Migraine,High
+P0162,45,Male,"Chest pain, fatigue",High cholesterol,Donepezil,Brain scan abnormality,Overweight,"Suspected infection, prescribed antibiotics",Arrhythmia,Medium
+P0730,52,Female,"Thirst, frequent urination",Arthritis,Ibuprofen,Low oxygen levels,Smoker,"Sudden weight loss unexplained, requires evaluation",Cancer Screening Needed,High
+P0402,22,Female,"Joint pain, swelling",Stroke history,Lisinopril,Elevated liver enzymes,Sedentary,"Sudden weight loss unexplained, requires evaluation",Migraine,High
+P0703,62,Male,"Memory loss, confusion",Asthma,Lisinopril,Brain scan abnormality,Smoker,"Nausea reported, possible gastrointestinal issue",Hypertension,Medium
+P1130,22,Male,"Sudden weight loss, tiredness",High cholesterol,Donepezil,High cholesterol,Smoker,"Patient forgets daily activities, early dementia suspected",Respiratory Infection,Medium
+P0566,24,Female,"Shortness of breath, dizziness",Kidney disease,Levothyroxine,Normal MRI,Drinker,"Suspected infection, prescribed antibiotics",Alzheimer's,Medium
+P1414,70,Female,"High fever, body aches",Stroke history,Aspirin,Normal MRI,Drinker,"Patient forgets daily activities, early dementia suspected",Heart Disease,Medium
+P1022,44,Female,"Sudden weight loss, tiredness",Hypertension,Atorvastatin,Normal MRI,Sedentary,"Suspected infection, prescribed antibiotics",Arrhythmia,Low
+P1026,79,Male,"Memory loss, confusion",Diabetes,Atorvastatin,Irregular heartbeat detected,Overweight,"Joint pain worsening, recommended physical therapy",Alzheimer's,High
+P1412,37,Male,"Shortness of breath, dizziness",Hypertension,Lisinopril,Irregular heartbeat detected,Sedentary,"Sudden weight loss unexplained, requires evaluation",Gastroenteritis,Medium
+P1105,61,Female,"Joint pain, swelling",Cancer history,Aspirin,Low oxygen levels,Sedentary,"Patient experiences chest discomfort, possible cardiac issue",Cancer Screening Needed,Low
+P0206,23,Female,"Memory loss, confusion",Stroke history,Aspirin,High blood sugar,Smoker,Mild symptoms but family history is concerning,Alzheimer's,High
+P0035,50,Female,"Joint pain, swelling",Arthritis,Ibuprofen,Brain scan abnormality,Active,Mild symptoms but family history is concerning,Arrhythmia,Low
+P0776,58,Female,"Shortness of breath, dizziness",High cholesterol,Lisinopril,Low white blood cell count,Drinker,"Patient forgets daily activities, early dementia suspected",Gastroenteritis,Low
+P0509,67,Female,"High fever, body aches",Diabetes,Ibuprofen,High cholesterol,Healthy diet,"Suspected infection, prescribed antibiotics",Arrhythmia,Low
+P1476,78,Male,"Blurred vision, headaches",Asthma,Metformin,Brain scan abnormality,Smoker,"Patient experiences chest discomfort, possible cardiac issue",Heart Disease,Low
+P1391,71,Male,"Rapid heartbeat, sweating",Alzheimer's in family,,Low oxygen levels,Active,"Sudden weight loss unexplained, requires evaluation",Arrhythmia,Low
+P0092,78,Female,"Memory loss, confusion",Arthritis,Ibuprofen,High blood pressure,Drinker,"Joint pain worsening, recommended physical therapy",Heart Disease,High
+P1364,41,Male,"Joint pain, swelling",Alzheimer's in family,,Low oxygen levels,Active,"Joint pain worsening, recommended physical therapy",Heart Disease,Medium
+P0898,40,Male,"Memory loss, confusion",No known history,Insulin,High blood sugar,Healthy diet,"Suspected infection, prescribed antibiotics",Diabetes,Low
+P0565,32,Male,"Joint pain, swelling",No known history,Lisinopril,Normal sugar,Healthy diet,"Patient experiences chest discomfort, possible cardiac issue",Diabetes,High
+P1370,26,Female,"Thirst, frequent urination",Stroke history,Aspirin,Brain scan abnormality,Active,"Sudden weight loss unexplained, requires evaluation",Respiratory Infection,High
+P0777,59,Female,"Sudden weight loss, tiredness",Diabetes,Atorvastatin,Normal sugar,Healthy diet,"Joint pain worsening, recommended physical therapy",Arthritis,High
+P0242,78,Female,"Joint pain, swelling",Arthritis,Ibuprofen,Normal sugar,Healthy diet,"Suspected infection, prescribed antibiotics",Gastroenteritis,Low
+P0014,25,Male,"Sudden weight loss, tiredness",Cancer history,Metformin,Low oxygen levels,Sedentary,"Suspected infection, prescribed antibiotics",Gastroenteritis,Low
+P0316,52,Male,"Blurred vision, headaches",High cholesterol,Omeprazole,High cholesterol,Sedentary,"Joint pain worsening, recommended physical therapy",Migraine,Low
+P0601,70,Male,"Thirst, frequent urination",Kidney disease,Atorvastatin,Normal sugar,Healthy diet,"Patient forgets daily activities, early dementia suspected",Arthritis,High
+P0388,80,Male,"Memory loss, confusion",No known history,Atorvastatin,Elevated liver enzymes,Overweight,"Heart palpitations observed, needs ECG",Alzheimer's,High
+P1298,26,Male,"Sudden weight loss, tiredness",No known history,Insulin,High cholesterol,Drinker,"Blurry vision, check for diabetes",Gastroenteritis,Medium
+P0167,24,Male,"Thirst, frequent urination",Cancer history,Lisinopril,High blood sugar,Active,"Patient experiences chest discomfort, possible cardiac issue",Respiratory Infection,Low
+P0841,44,Female,"Blurred vision, headaches",Cancer history,Metformin,Irregular heartbeat detected,Smoker,"Patient forgets daily activities, early dementia suspected",Diabetes,Low
+P0021,80,Female,"Rapid heartbeat, sweating",Arthritis,Metformin,Low oxygen levels,Active,"Nausea reported, possible gastrointestinal issue",Migraine,Low
+P0647,21,Male,"High fever, body aches",Cancer history,Levothyroxine,Low oxygen levels,Active,Mild symptoms but family history is concerning,Hypertension,Low
+P1155,77,Female,"Blurred vision, headaches",Stroke history,Metformin,Irregular heartbeat detected,Active,"Sudden weight loss unexplained, requires evaluation",Alzheimer's,Medium
+P0832,57,Female,"Sudden weight loss, tiredness",Diabetes,,High cholesterol,Active,"Joint pain worsening, recommended physical therapy",Hypertension,Low
+P1268,37,Male,"Blurred vision, headaches",Cancer history,Atorvastatin,High cholesterol,Drinker,Mild symptoms but family history is concerning,Migraine,Medium
+P0563,20,Female,"Memory loss, confusion",Asthma,Omeprazole,High blood pressure,Drinker,"Patient experiences chest discomfort, possible cardiac issue",Arrhythmia,Low
+P1461,58,Female,"Blurred vision, headaches",Diabetes,,Normal sugar,Overweight,"Blurry vision, check for diabetes",Cancer Screening Needed,Medium
+P0687,70,Male,"Rapid heartbeat, sweating",Kidney disease,Ibuprofen,Irregular heartbeat detected,Healthy diet,"Reports difficulty breathing, requires further testing",Arrhythmia,High
+P0958,77,Female,"Blurred vision, headaches",Alzheimer's in family,Levothyroxine,High blood sugar,Overweight,"Heart palpitations observed, needs ECG",Respiratory Infection,Low
+P0190,41,Male,"Memory loss, confusion",Arthritis,Insulin,Normal MRI,Healthy diet,"Nausea reported, possible gastrointestinal issue",Hypertension,High
+P0976,31,Female,"Nausea, vomiting",Kidney disease,Levothyroxine,Low white blood cell count,Smoker,"Heart palpitations observed, needs ECG",Diabetes,Medium
+P0700,64,Female,"Sudden weight loss, tiredness",Hypertension,Aspirin,Elevated liver enzymes,Smoker,"Patient experiences chest discomfort, possible cardiac issue",Diabetes,High
+P0511,80,Male,"Rapid heartbeat, sweating",Arthritis,Atorvastatin,High blood pressure,Drinker,"Reports difficulty breathing, requires further testing",Gastroenteritis,Medium
+P1083,39,Male,"Joint pain, swelling",High cholesterol,Donepezil,Irregular heartbeat detected,Healthy diet,"Blurry vision, check for diabetes",Arrhythmia,Low
+P0475,28,Female,"Chest pain, fatigue",Stroke history,Levothyroxine,High blood pressure,Active,"Patient experiences chest discomfort, possible cardiac issue",Heart Disease,High
+P0857,46,Female,"Memory loss, confusion",Alzheimer's in family,Lisinopril,High blood pressure,Sedentary,"Nausea reported, possible gastrointestinal issue",Arrhythmia,Medium
+P0748,53,Female,"High fever, body aches",Alzheimer's in family,,Normal sugar,Overweight,"Nausea reported, possible gastrointestinal issue",Arrhythmia,High
+P0253,40,Female,"Blurred vision, headaches",Cancer history,,Low oxygen levels,Healthy diet,"Heart palpitations observed, needs ECG",Arthritis,Low
+P0022,20,Female,"Thirst, frequent urination",Stroke history,Donepezil,Irregular heartbeat detected,Active,"Patient forgets daily activities, early dementia suspected",Respiratory Infection,Medium
+P1338,74,Female,"Memory loss, confusion",Kidney disease,Ibuprofen,Normal sugar,Smoker,"Joint pain worsening, recommended physical therapy",Migraine,Medium
+P0460,72,Female,"Memory loss, confusion",Alzheimer's in family,Omeprazole,Normal MRI,Active,"Joint pain worsening, recommended physical therapy",Arthritis,Medium
+P1185,21,Male,"Memory loss, confusion",Arthritis,Ibuprofen,Normal MRI,Active,"Joint pain worsening, recommended physical therapy",Migraine,High
+P0277,70,Female,"Memory loss, confusion",Alzheimer's in family,Ibuprofen,High cholesterol,Overweight,"Blurry vision, check for diabetes",Alzheimer's,Medium
+P0956,26,Female,"Joint pain, swelling",Diabetes,Omeprazole,Elevated liver enzymes,Smoker,"Reports difficulty breathing, requires further testing",Migraine,Medium
+P1216,78,Male,"Sudden weight loss, tiredness",Cancer history,Aspirin,Low oxygen levels,Overweight,"Joint pain worsening, recommended physical therapy",Alzheimer's,High
+P0386,66,Male,"Sudden weight loss, tiredness",Hypertension,Metformin,Normal MRI,Healthy diet,"Patient experiences chest discomfort, possible cardiac issue",Gastroenteritis,Low
+P0806,57,Female,"Chest pain, fatigue",Cancer history,Metformin,Normal sugar,Sedentary,Mild symptoms but family history is concerning,Cancer Screening Needed,Low
+P1438,54,Male,"Rapid heartbeat, sweating",No known history,Omeprazole,Brain scan abnormality,Sedentary,"Patient experiences chest discomfort, possible cardiac issue",Arrhythmia,High
+P0344,60,Male,"Thirst, frequent urination",No known history,Atorvastatin,Normal sugar,Overweight,"Sudden weight loss unexplained, requires evaluation",Gastroenteritis,Medium
+P0770,75,Male,"Joint pain, swelling",Alzheimer's in family,Levothyroxine,High cholesterol,Overweight,"Nausea reported, possible gastrointestinal issue",Migraine,High
+P1333,69,Female,"Thirst, frequent urination",Hypertension,Insulin,Elevated liver enzymes,Smoker,Mild symptoms but family history is concerning,Diabetes,Low
+P0131,20,Male,"Chest pain, fatigue",Hypertension,Atorvastatin,Elevated liver enzymes,Drinker,"Reports difficulty breathing, requires further testing",Arrhythmia,Low
+P0872,68,Female,"Memory loss, confusion",Arthritis,Levothyroxine,Normal sugar,Healthy diet,"Patient experiences chest discomfort, possible cardiac issue",Diabetes,Medium
+P1124,23,Female,"Thirst, frequent urination",Diabetes,Metformin,Elevated liver enzymes,Smoker,Mild symptoms but family history is concerning,Respiratory Infection,Medium
+P1397,62,Female,"Memory loss, confusion",Hypertension,Lisinopril,Low white blood cell count,Smoker,"Patient experiences chest discomfort, possible cardiac issue",Respiratory Infection,Medium
+P0088,63,Male,"Memory loss, confusion",No known history,Ibuprofen,High cholesterol,Drinker,"Suspected infection, prescribed antibiotics",Hypertension,High
+P1483,54,Male,"Memory loss, confusion",Alzheimer's in family,Ibuprofen,Brain scan abnormality,Smoker,"Suspected infection, prescribed antibiotics",Gastroenteritis,Medium
+P0331,72,Male,"Sudden weight loss, tiredness",Kidney disease,Levothyroxine,Normal sugar,Drinker,"Reports difficulty breathing, requires further testing",Arthritis,Medium
+P1239,32,Female,"Sudden weight loss, tiredness",Diabetes,Atorvastatin,High cholesterol,Overweight,"Nausea reported, possible gastrointestinal issue",Cancer Screening Needed,Low
+P0467,52,Female,"Chest pain, fatigue",Arthritis,Metformin,Elevated liver enzymes,Sedentary,Mild symptoms but family history is concerning,Migraine,Medium
+P0122,45,Male,"Chest pain, fatigue",Stroke history,Ibuprofen,High blood pressure,Healthy diet,Mild symptoms but family history is concerning,Arthritis,Low
+P1045,57,Female,"Thirst, frequent urination",Hypertension,Aspirin,Low oxygen levels,Smoker,"Patient forgets daily activities, early dementia suspected",Diabetes,High
+P1096,72,Male,"Memory loss, confusion",Asthma,Metformin,Normal sugar,Sedentary,"Nausea reported, possible gastrointestinal issue",Gastroenteritis,Medium
+P1131,46,Male,"Thirst, frequent urination",Hypertension,Metformin,Elevated liver enzymes,Overweight,"Suspected infection, prescribed antibiotics",Arthritis,High
+P1295,64,Male,"Memory loss, confusion",Cancer history,,Normal sugar,Drinker,"Patient experiences chest discomfort, possible cardiac issue",Arrhythmia,High
+P0861,53,Male,"Rapid heartbeat, sweating",Hypertension,Atorvastatin,High blood sugar,Smoker,Mild symptoms but family history is concerning,Arthritis,High
+P1460,47,Male,"Shortness of breath, dizziness",No known history,Donepezil,High cholesterol,Overweight,"Heart palpitations observed, needs ECG",Arrhythmia,Medium
+P1127,51,Female,"Shortness of breath, dizziness",Diabetes,,Elevated liver enzymes,Sedentary,"Heart palpitations observed, needs ECG",Arrhythmia,High

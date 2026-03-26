@@ -16,8 +16,8 @@ class Error(Exception):
         print(self.error_details)
 
 
-# if __name__ == "__main__":
-#     try:
-#         a = 10 / 0
-#     except ZeroDivisionError as e:
-#         Error(e)
+if __name__ == "__main__":
+    try:
+        a = 10 / 0
+    except ZeroDivisionError as e:
+        Error(e)

@@ -6,3 +6,7 @@ seaborn
 dill
 xgboost
 datasets
+fastapi
+uvicorn
+jinja2
+python-multipart
