@@ -29,9 +29,7 @@ It simulates a real-world healthcare triage tool.
 
 ## UI
 
-- Simple clinical-style interface  
-- Structured input fields (age, symptoms, history, etc.)  
-- Real-time prediction output  
+![UI Design](ui-design.png)
 
 ---
 
