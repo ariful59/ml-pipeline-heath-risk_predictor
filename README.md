@@ -15,8 +15,6 @@ pip install -r requirements.txt
 uvicorn main:app --reload
 ```
 
-Visit http://127.0.0.1:8000 for the web interface or http://127.0.0.1:8000/docs for API documentation.
-
 ## Dataset
 
 The model is trained on 1,500 synthetic patient records containing:
